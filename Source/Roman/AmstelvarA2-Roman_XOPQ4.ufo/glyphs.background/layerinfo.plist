@@ -6,7 +6,11 @@
     <string>0.502,0.0016,0.9985,1</string>
     <key>lib</key>
     <dict>
+      <key>com.typemytype.robofont.layerShow</key>
+      <true/>
       <key>com.typemytype.robofont.layerShowPoints</key>
+      <true/>
+      <key>com.typemytype.robofont.layerShowStroke</key>
       <true/>
       <key>org.unifiedfontobject.normalizer.imageReferences</key>
       <dict/>

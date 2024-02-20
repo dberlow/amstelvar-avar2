@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender" format="2">
+  <advance width="1821"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="704" y="502" type="line"/>
+      <point x="381" y="87" type="line"/>
+      <point x="469" y="55" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="87" y="56" type="line"/>
+      <point x="268" y="91" type="line"/>
+      <point x="638" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="910" y="539" type="line"/>
+      <point x="910" y="473" type="line"/>
+      <point x="695" y="474" type="line"/>
+      <point x="686" y="483" type="line"/>
+      <point x="300" y="902" type="line"/>
+      <point x="113" y="937" type="line"/>
+      <point x="113" y="1000" type="line"/>
+      <point x="621" y="1000" type="line"/>
+      <point x="621" y="937" type="line"/>
+      <point x="397" y="907" type="line"/>
+      <point x="716" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="965" y="500" type="line"/>
+      <point x="967" y="91" type="line"/>
+      <point x="1175" y="56" type="line"/>
+      <point x="1175" y="0" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="648" y="56" type="line"/>
+      <point x="854" y="91" type="line"/>
+      <point x="856" y="500" type="line"/>
+      <point x="854" y="909" type="line"/>
+      <point x="647" y="944" type="line"/>
+      <point x="647" y="1000" type="line"/>
+      <point x="1174" y="1000" type="line"/>
+      <point x="1174" y="944" type="line"/>
+      <point x="967" y="909" type="line"/>
+    </contour>
+    <contour>
+      <point x="910" y="539" type="line"/>
+      <point x="1108" y="537" type="line"/>
+      <point x="1421" y="907" type="line"/>
+      <point x="1197" y="937" type="line"/>
+      <point x="1197" y="1000" type="line"/>
+      <point x="1698" y="1000" type="line"/>
+      <point x="1698" y="937" type="line"/>
+      <point x="1511" y="902" type="line"/>
+      <point x="1132" y="483" type="line"/>
+      <point x="1123" y="474" type="line"/>
+      <point x="910" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="1121" y="503" type="line"/>
+      <point x="1192" y="575" type="line"/>
+      <point x="1552" y="105" type="line"/>
+      <point x="1552" y="0" type="line"/>
+      <point x="1356" y="0" type="line"/>
+      <point x="1355" y="55" type="line"/>
+      <point x="1443" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="1496" y="105" type="line"/>
+      <point x="1754" y="105" type="line"/>
+      <point x="1764" y="-326" type="line"/>
+      <point x="1695" y="-326" type="line"/>
+      <point x="1606" y="0" type="line"/>
+      <point x="1496" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

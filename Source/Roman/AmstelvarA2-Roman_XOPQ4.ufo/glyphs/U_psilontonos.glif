@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="1763"/>
+  <advance width="1508"/>
   <unicode hex="038E"/>
   <note>
 10,Y
 </note>
   <outline>
-    <component base="Y" xOffset="670"/>
-    <component base="tonoscomb.case" xOffset="375"/>
+    <component base="Y" xOffset="415"/>
+    <component base="tonoscomb.case" xOffset="120"/>
   </outline>
   <lib>
     <dict>

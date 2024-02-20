@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kaisymbol" format="2">
-  <advance width="1267"/>
+  <advance width="1222"/>
   <unicode hex="03CF"/>
   <outline>
     <contour>
@@ -33,26 +33,26 @@
     </contour>
     <contour>
       <point x="1190" y="0" type="line"/>
-      <point x="522" y="916" type="line"/>
-      <point x="527" y="921" type="line"/>
-      <point x="1102" y="135" type="line"/>
-      <point x="1303" y="100" type="line"/>
-      <point x="1303" y="0" type="line"/>
+      <point x="521" y="916" type="line"/>
+      <point x="526" y="921" type="line"/>
+      <point x="1101" y="135" type="line"/>
+      <point x="1258" y="100" type="line"/>
+      <point x="1258" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="589" y="-510" type="qcurve"/>
+      <point x="599" y="-510" type="qcurve"/>
       <point x="453" y="-510"/>
-      <point x="167" y="-414"/>
-      <point x="83" y="-338" type="qcurve"/>
+      <point x="182" y="-394"/>
+      <point x="99" y="-311" type="qcurve"/>
       <point x="125" y="-257" type="line"/>
       <point x="201" y="-297"/>
       <point x="452" y="-369"/>
-      <point x="594" y="-369" type="qcurve" smooth="yes"/>
-      <point x="842" y="-369"/>
-      <point x="1169" y="-145"/>
-      <point x="1191" y="0" type="qcurve"/>
-      <point x="1303" y="0" type="line"/>
-      <point x="1268" y="-232"/>
+      <point x="604" y="-369" type="qcurve"/>
+      <point x="865" y="-369"/>
+      <point x="1159" y="-134"/>
+      <point x="1190" y="0" type="qcurve"/>
+      <point x="1258" y="0" type="line"/>
+      <point x="1223" y="-232"/>
       <point x="874" y="-510"/>
     </contour>
   </outline>
@@ -60,6 +60,8 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

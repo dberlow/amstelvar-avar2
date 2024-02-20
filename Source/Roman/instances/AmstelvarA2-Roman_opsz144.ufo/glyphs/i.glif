@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="595"/>
+  <advance width="533"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="idotless" xOffset="-19"/>
-    <component base="idot" xOffset="295" yOffset="-90"/>
+    <component base="idotless" xOffset="-55"/>
+    <component base="idot" xOffset="259" yOffset="-90"/>
   </outline>
   <lib>
     <dict>
@@ -96,7 +96,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

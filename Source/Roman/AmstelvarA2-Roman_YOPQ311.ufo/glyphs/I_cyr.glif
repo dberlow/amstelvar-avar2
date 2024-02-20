@@ -2,9 +2,6 @@
 <glyph name="Icyr" format="2">
   <advance width="1760"/>
   <unicode hex="0418"/>
-  <guideline x="739" y="930" angle="90" identifier="jpSOnFR6u4"/>
-  <guideline x="880" y="783" angle="90" identifier="3fHus3tMSg"/>
-  <guideline x="953" y="742" angle="0" identifier="rmoGi5h6UR"/>
   <anchor x="880" y="0" name="bottom"/>
   <anchor x="880.0" y="1500" name="top"/>
   <outline>
@@ -41,12 +38,12 @@
       <point x="678" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="440" y="211" type="line"/>
-      <point x="355" y="294" type="line"/>
-      <point x="840" y="785" type="line"/>
-      <point x="1338" y="1291" type="line"/>
-      <point x="1423" y="1208" type="line"/>
-      <point x="922" y="703" type="line"/>
+      <point x="440" y="141" type="line"/>
+      <point x="440" y="934" type="line"/>
+      <point x="840" y="1125" type="line"/>
+      <point x="1338" y="1361" type="line"/>
+      <point x="1338" y="567" type="line"/>
+      <point x="922" y="373" type="line"/>
     </contour>
   </outline>
   <lib>

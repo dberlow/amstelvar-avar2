@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="220"/>
+  <unicode hex="0323"/>
+  <anchor x="110" y="0" name="_bottom"/>
+  <anchor x="110" y="-422" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-8" y="-306" type="qcurve" smooth="yes"/>
+      <point x="-8" y="-251"/>
+      <point x="52" y="-191"/>
+      <point x="110" y="-191" type="qcurve" smooth="yes"/>
+      <point x="164" y="-191"/>
+      <point x="228" y="-255"/>
+      <point x="228" y="-306" type="qcurve" smooth="yes"/>
+      <point x="228" y="-362"/>
+      <point x="168" y="-422"/>
+      <point x="110" y="-422" type="qcurve" smooth="yes"/>
+      <point x="56" y="-422"/>
+      <point x="-8" y="-358"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

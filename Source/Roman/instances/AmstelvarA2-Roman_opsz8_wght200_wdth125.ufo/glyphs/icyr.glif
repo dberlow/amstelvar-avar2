@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icyr" format="2">
+  <advance width="1465"/>
+  <unicode hex="0438"/>
+  <anchor x="732" y="0" name="bottom"/>
+  <anchor x="732" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="383" y="253" type="line"/>
+      <point x="705" y="533" type="line"/>
+      <point x="982" y="787" type="line"/>
+      <point x="1096" y="756" type="line"/>
+      <point x="763" y="462" type="line"/>
+      <point x="497" y="223" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="500" type="line"/>
+      <point x="336" y="851" type="line"/>
+      <point x="122" y="886" type="line"/>
+      <point x="122" y="1000" type="line"/>
+      <point x="694" y="1000" type="line"/>
+      <point x="694" y="886" type="line"/>
+      <point x="489" y="851" type="line"/>
+      <point x="487" y="500" type="line"/>
+      <point x="489" y="149" type="line"/>
+      <point x="694" y="114" type="line"/>
+      <point x="694" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="114" type="line"/>
+      <point x="336" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="1131" y="500" type="line"/>
+      <point x="1133" y="149" type="line"/>
+      <point x="1347" y="114" type="line"/>
+      <point x="1347" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="775" y="114" type="line"/>
+      <point x="979" y="149" type="line"/>
+      <point x="981" y="500" type="line"/>
+      <point x="979" y="851" type="line"/>
+      <point x="775" y="886" type="line"/>
+      <point x="775" y="1000" type="line"/>
+      <point x="1347" y="1000" type="line"/>
+      <point x="1347" y="886" type="line"/>
+      <point x="1133" y="851" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
+</glyph>

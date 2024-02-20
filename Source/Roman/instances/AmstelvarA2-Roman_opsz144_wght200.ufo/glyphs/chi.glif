@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chi" format="2">
+  <advance width="927"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="113" y="-480" type="line"/>
+      <point x="102" y="-444" type="line"/>
+      <point x="370" y="111" type="line"/>
+      <point x="455" y="280" type="line"/>
+      <point x="215" y="769" type="line"/>
+      <point x="163" y="873"/>
+      <point x="124" y="929"/>
+      <point x="83" y="937" type="qcurve"/>
+      <point x="10" y="954" type="line"/>
+      <point x="10" y="971" type="line"/>
+      <point x="114" y="1008" type="line"/>
+      <point x="168" y="1008"/>
+      <point x="230" y="952"/>
+      <point x="270" y="866" type="qcurve"/>
+      <point x="459" y="455" type="line"/>
+      <point x="504" y="356" type="line"/>
+      <point x="514" y="356" type="line"/>
+      <point x="585" y="504" type="line"/>
+      <point x="811" y="979" type="line"/>
+      <point x="841" y="1000" type="line"/>
+      <point x="853" y="964" type="line"/>
+      <point x="603" y="473" type="line"/>
+      <point x="521" y="314" type="line"/>
+      <point x="801" y="-265" type="line"/>
+      <point x="854" y="-373"/>
+      <point x="900" y="-434"/>
+      <point x="922" y="-434" type="qcurve"/>
+      <point x="997" y="-434" type="line"/>
+      <point x="997" y="-451" type="line"/>
+      <point x="877" y="-488" type="line"/>
+      <point x="832" y="-488"/>
+      <point x="779" y="-448"/>
+      <point x="759" y="-403" type="qcurve"/>
+      <point x="534" y="99" type="line"/>
+      <point x="473" y="242" type="line"/>
+      <point x="463" y="242" type="line"/>
+      <point x="426" y="161" type="line"/>
+      <point x="144" y="-459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

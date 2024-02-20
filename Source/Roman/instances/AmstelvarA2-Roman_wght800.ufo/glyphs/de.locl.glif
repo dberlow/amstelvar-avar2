@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="de.locl" format="2">
-  <advance width="1203"/>
+  <advance width="1413"/>
   <outline>
     <component base="de"/>
   </outline>
@@ -9,7 +9,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

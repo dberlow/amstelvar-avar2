@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1037"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="63" y="1094" type="qcurve" smooth="yes"/>
+      <point x="63" y="1280"/>
+      <point x="308" y="1542"/>
+      <point x="516" y="1542" type="qcurve" smooth="yes"/>
+      <point x="725" y="1542"/>
+      <point x="973" y="1297"/>
+      <point x="973" y="1099" type="qcurve" smooth="yes"/>
+      <point x="973" y="914"/>
+      <point x="730" y="646"/>
+      <point x="521" y="646" type="qcurve" smooth="yes"/>
+      <point x="312" y="646"/>
+      <point x="63" y="894"/>
+    </contour>
+    <contour>
+      <point x="241" y="1111" type="qcurve" smooth="yes"/>
+      <point x="241" y="954"/>
+      <point x="393" y="732"/>
+      <point x="514" y="732" type="qcurve" smooth="yes"/>
+      <point x="644" y="732"/>
+      <point x="789" y="934"/>
+      <point x="789" y="1098" type="qcurve" smooth="yes"/>
+      <point x="789" y="1250"/>
+      <point x="637" y="1450"/>
+      <point x="516" y="1450" type="qcurve" smooth="yes"/>
+      <point x="384" y="1450"/>
+      <point x="240" y="1269"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

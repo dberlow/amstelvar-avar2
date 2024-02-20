@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <advance width="1596"/>
+  <unicode hex="0133"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="idot" xOffset="425" yOffset="32"/>
+    <component base="jdotless" xOffset="839"/>
+    <component base="idot" xOffset="1222" yOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

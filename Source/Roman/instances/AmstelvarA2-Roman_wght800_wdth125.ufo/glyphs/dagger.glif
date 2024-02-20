@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="1052"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="511" y="-540" type="line"/>
+      <point x="433" y="-58" type="line"/>
+      <point x="457" y="550" type="line"/>
+      <point x="455" y="830" type="line"/>
+      <point x="423" y="1438" type="line"/>
+      <point x="473" y="1503" type="line"/>
+      <point x="553" y="1506" type="line"/>
+      <point x="599" y="1438" type="line"/>
+      <point x="575" y="830" type="line"/>
+      <point x="577" y="550" type="line"/>
+      <point x="599" y="-58" type="line"/>
+      <point x="531" y="-540" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="852" type="line"/>
+      <point x="114" y="1000" type="line"/>
+      <point x="517" y="992" type="line"/>
+      <point x="938" y="1000" type="line"/>
+      <point x="938" y="852" type="line"/>
+      <point x="517" y="856" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

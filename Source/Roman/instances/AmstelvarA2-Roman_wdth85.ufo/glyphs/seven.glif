@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="889"/>
+  <advance width="887"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="21" y="1116" type="line"/>
-      <point x="42" y="1500" type="line"/>
-      <point x="909" y="1500" type="line"/>
-      <point x="909" y="1411" type="line"/>
-      <point x="600" y="625" type="line"/>
-      <point x="426" y="-13" type="line"/>
-      <point x="225" y="-13" type="line"/>
-      <point x="225" y="59" type="line"/>
-      <point x="485" y="669" type="line"/>
-      <point x="750" y="1313" type="line"/>
-      <point x="720" y="1336" type="line"/>
-      <point x="178" y="1336" type="line"/>
-      <point x="144" y="1116" type="line"/>
+      <point x="20" y="1112" type="line"/>
+      <point x="41" y="1500" type="line"/>
+      <point x="907" y="1500" type="line"/>
+      <point x="907" y="1411" type="line"/>
+      <point x="598" y="625" type="line"/>
+      <point x="424" y="-13" type="line"/>
+      <point x="223" y="-13" type="line"/>
+      <point x="223" y="59" type="line"/>
+      <point x="483" y="669" type="line"/>
+      <point x="748" y="1313" type="line"/>
+      <point x="718" y="1336" type="line"/>
+      <point x="175" y="1336" type="line"/>
+      <point x="140" y="1112" type="line"/>
     </contour>
   </outline>
   <lib>

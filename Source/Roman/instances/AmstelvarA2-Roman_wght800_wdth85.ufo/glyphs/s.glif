@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s" format="2">
+  <advance width="791"/>
+  <unicode hex="0073"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="393" y="1032" name="top"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-9" type="line"/>
+      <point x="-5" y="367" type="line"/>
+      <point x="138" y="367" type="line"/>
+      <point x="149" y="289" type="line" smooth="yes"/>
+      <point x="165" y="203"/>
+      <point x="246" y="97"/>
+      <point x="314" y="97" type="qcurve" smooth="yes"/>
+      <point x="380" y="97"/>
+      <point x="449" y="167"/>
+      <point x="449" y="240" type="qcurve" smooth="yes"/>
+      <point x="449" y="311"/>
+      <point x="355" y="383"/>
+      <point x="239" y="434" type="qcurve" smooth="yes"/>
+      <point x="124" y="483"/>
+      <point x="30" y="622"/>
+      <point x="30" y="730" type="qcurve" smooth="yes"/>
+      <point x="30" y="879"/>
+      <point x="217" y="1057"/>
+      <point x="368" y="1057" type="qcurve" smooth="yes"/>
+      <point x="449" y="1057"/>
+      <point x="573" y="1021"/>
+      <point x="607" y="991" type="qcurve"/>
+      <point x="632" y="1042" type="line"/>
+      <point x="750" y="1042" type="line"/>
+      <point x="750" y="711" type="line"/>
+      <point x="606" y="711" type="line"/>
+      <point x="597" y="823" type="line" smooth="yes"/>
+      <point x="592" y="867"/>
+      <point x="530" y="937"/>
+      <point x="485" y="937" type="qcurve" smooth="yes"/>
+      <point x="438" y="937"/>
+      <point x="363" y="882"/>
+      <point x="363" y="826" type="qcurve" smooth="yes"/>
+      <point x="363" y="776"/>
+      <point x="437" y="710"/>
+      <point x="529" y="660" type="qcurve" smooth="yes"/>
+      <point x="636" y="602"/>
+      <point x="788" y="473"/>
+      <point x="788" y="330" type="qcurve" smooth="yes"/>
+      <point x="788" y="166"/>
+      <point x="579" y="-23"/>
+      <point x="427" y="-23" type="qcurve" smooth="yes"/>
+      <point x="326" y="-23"/>
+      <point x="212" y="22"/>
+      <point x="161" y="73" type="qcurve"/>
+      <point x="122" y="-9" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>1 2</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSVL</string>
+        </dict>
+        <key>12 35</key>
+        <dict>
+          <key>direction</key>
+          <string>a</string>
+          <key>name</key>
+          <string>YOLC</string>
+        </dict>
+        <key>15 32</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOLC</string>
+        </dict>
+        <key>18 29</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOLC</string>
+        </dict>
+        <key>18 41</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTLC</string>
+        </dict>
+        <key>24 25</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSVL</string>
+        </dict>
+        <key>6 41</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOLC</string>
+        </dict>
+        <key>9 38</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOLC</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

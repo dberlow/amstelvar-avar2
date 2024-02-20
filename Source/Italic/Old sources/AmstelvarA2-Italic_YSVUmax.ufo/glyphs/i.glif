@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="618"/>
+  <unicode hex="0069"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="idot" xOffset="126.00000000001134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.UoBWQ8KbZg</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.5,1,0.8</string>
+    </dict>
+  </lib>
+</glyph>

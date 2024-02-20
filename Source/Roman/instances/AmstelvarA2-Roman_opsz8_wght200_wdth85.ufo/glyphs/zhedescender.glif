@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender" format="2">
+  <advance width="1644"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="607" y="490" type="line"/>
+      <point x="334" y="141" type="line"/>
+      <point x="338" y="109" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="31" y="110" type="line"/>
+      <point x="186" y="145" type="line"/>
+      <point x="519" y="578" type="line"/>
+    </contour>
+    <contour>
+      <point x="822" y="568" type="line"/>
+      <point x="822" y="461" type="line"/>
+      <point x="570" y="463" type="line"/>
+      <point x="561" y="473" type="line"/>
+      <point x="215" y="845" type="line"/>
+      <point x="39" y="880" type="line"/>
+      <point x="39" y="1000" type="line"/>
+      <point x="477" y="1000" type="line"/>
+      <point x="477" y="881" type="line"/>
+      <point x="365" y="850" type="line"/>
+      <point x="605" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="893" y="500" type="line"/>
+      <point x="895" y="145" type="line"/>
+      <point x="1039" y="110" type="line"/>
+      <point x="1039" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="607" y="110" type="line"/>
+      <point x="749" y="145" type="line"/>
+      <point x="751" y="500" type="line"/>
+      <point x="749" y="855" type="line"/>
+      <point x="606" y="890" type="line"/>
+      <point x="606" y="1000" type="line"/>
+      <point x="1038" y="1000" type="line"/>
+      <point x="1038" y="890" type="line"/>
+      <point x="895" y="855" type="line"/>
+    </contour>
+    <contour>
+      <point x="822" y="568" type="line"/>
+      <point x="1039" y="565" type="line"/>
+      <point x="1279" y="850" type="line"/>
+      <point x="1167" y="881" type="line"/>
+      <point x="1167" y="1000" type="line"/>
+      <point x="1595" y="1000" type="line"/>
+      <point x="1595" y="880" type="line"/>
+      <point x="1419" y="845" type="line"/>
+      <point x="1073" y="473" type="line"/>
+      <point x="1064" y="463" type="line"/>
+      <point x="822" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="1033" y="495" type="line"/>
+      <point x="1131" y="584" type="line"/>
+      <point x="1476" y="135" type="line"/>
+      <point x="1499" y="0" type="line"/>
+      <point x="1338" y="0" type="line"/>
+      <point x="1307" y="109" type="line"/>
+      <point x="1311" y="141" type="line"/>
+    </contour>
+    <contour>
+      <point x="1416" y="135" type="line"/>
+      <point x="1631" y="135" type="line"/>
+      <point x="1641" y="-339" type="line"/>
+      <point x="1545" y="-339" type="line"/>
+      <point x="1456" y="0" type="line"/>
+      <point x="1427" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

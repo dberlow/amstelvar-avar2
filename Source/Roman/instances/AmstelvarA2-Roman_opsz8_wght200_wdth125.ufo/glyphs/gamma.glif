@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma" format="2">
+  <advance width="988"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="448" y="-480" type="line"/>
+      <point x="423" y="-444" type="line"/>
+      <point x="449" y="3" type="line"/>
+      <point x="267" y="481" type="line"/>
+      <point x="165" y="808" type="line" smooth="yes"/>
+      <point x="153" y="842"/>
+      <point x="125" y="868"/>
+      <point x="73" y="879" type="qcurve" smooth="yes"/>
+      <point x="10" y="891" type="line"/>
+      <point x="10" y="971" type="line"/>
+      <point x="165" y="1008" type="line"/>
+      <point x="201" y="1008"/>
+      <point x="256" y="959"/>
+      <point x="277" y="894" type="qcurve" smooth="yes"/>
+      <point x="388" y="535" type="line"/>
+      <point x="473" y="298" type="line"/>
+      <point x="511" y="183" type="line"/>
+      <point x="521" y="183" type="line"/>
+      <point x="558" y="298" type="line"/>
+      <point x="645" y="539" type="line"/>
+      <point x="782" y="979" type="line"/>
+      <point x="943" y="1000" type="line"/>
+      <point x="968" y="964" type="line"/>
+      <point x="750" y="498" type="line"/>
+      <point x="559" y="-20" type="line"/>
+      <point x="588" y="-459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.9855,0.0093,0.9992,1</string>
+    </dict>
+  </lib>
+</glyph>

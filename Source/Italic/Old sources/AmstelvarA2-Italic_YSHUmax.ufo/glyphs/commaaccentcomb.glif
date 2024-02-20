@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="-97.0" y="0" name="_bottom"/>
+  <anchor x="-233.0" y="-700.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-334" y="-575" type="line"/>
+      <point x="-295" y="-547"/>
+      <point x="-193" y="-441"/>
+      <point x="-175" y="-389" type="qcurve"/>
+      <point x="-236" y="-389"/>
+      <point x="-304" y="-324"/>
+      <point x="-304" y="-273" type="qcurve" smooth="yes"/>
+      <point x="-304" y="-224"/>
+      <point x="-228" y="-157"/>
+      <point x="-174" y="-157" type="qcurve" smooth="yes"/>
+      <point x="-123" y="-157"/>
+      <point x="-46" y="-240"/>
+      <point x="-46" y="-312" type="qcurve" smooth="yes"/>
+      <point x="-46" y="-401"/>
+      <point x="-200" y="-578"/>
+      <point x="-288" y="-631" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

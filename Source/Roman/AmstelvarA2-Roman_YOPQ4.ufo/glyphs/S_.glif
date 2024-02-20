@@ -7,10 +7,10 @@
   <outline>
     <contour>
       <point x="62" y="0" type="line"/>
-      <point x="62" y="369" type="line"/>
-      <point x="178" y="369" type="line"/>
-      <point x="198" y="264" type="line" smooth="yes"/>
-      <point x="226" y="118"/>
+      <point x="62" y="484" type="line"/>
+      <point x="178" y="484" type="line"/>
+      <point x="198" y="379" type="line" smooth="yes"/>
+      <point x="237" y="175"/>
       <point x="440" y="-13"/>
       <point x="583" y="-13" type="qcurve" smooth="yes"/>
       <point x="752" y="-13"/>
@@ -30,10 +30,10 @@
       <point x="816" y="1421" type="qcurve"/>
       <point x="837" y="1487" type="line"/>
       <point x="941" y="1487" type="line"/>
-      <point x="941" y="1178" type="line"/>
-      <point x="827" y="1178" type="line"/>
-      <point x="803" y="1330" type="line" smooth="yes"/>
-      <point x="789" y="1416"/>
+      <point x="941" y="1051" type="line"/>
+      <point x="827" y="1051" type="line"/>
+      <point x="803" y="1203" type="line" smooth="yes"/>
+      <point x="780" y="1348"/>
       <point x="634" y="1513"/>
       <point x="517" y="1513" type="qcurve" smooth="yes"/>
       <point x="391" y="1513"/>
@@ -94,8 +94,6 @@
           <string>XOUC</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilon" format="2">
+  <advance width="1020"/>
+  <unicode hex="03B5"/>
+  <outline>
+    <contour>
+      <point x="899" y="654" type="move"/>
+    </contour>
+    <contour>
+      <point x="733" y="654" type="move"/>
+      <point x="683" y="862" type="line"/>
+      <point x="659" y="883"/>
+      <point x="560" y="911"/>
+      <point x="509" y="911" type="qcurve" smooth="yes"/>
+      <point x="393" y="911"/>
+      <point x="268" y="818"/>
+      <point x="268" y="732" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="101" y="732" type="move"/>
+      <point x="101" y="864"/>
+      <point x="356" y="1022"/>
+      <point x="563" y="1022" type="qcurve"/>
+      <point x="683" y="1022"/>
+      <point x="892" y="964"/>
+      <point x="929" y="928" type="qcurve"/>
+      <point x="929" y="654" type="line"/>
+    </contour>
+  </outline>
+</glyph>

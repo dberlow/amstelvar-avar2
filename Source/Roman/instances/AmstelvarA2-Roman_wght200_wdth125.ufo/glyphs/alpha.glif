@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpha" format="2">
+  <advance width="1199"/>
+  <unicode hex="03B1"/>
+  <anchor x="463" y="1000" name="GRKtop"/>
+  <outline>
+    <contour>
+      <point x="419" y="-9" type="qcurve" smooth="yes"/>
+      <point x="251" y="-9"/>
+      <point x="68" y="258"/>
+      <point x="68" y="488" type="qcurve" smooth="yes"/>
+      <point x="68" y="710"/>
+      <point x="277" y="1020"/>
+      <point x="459" y="1020" type="qcurve" smooth="yes"/>
+      <point x="627" y="1020"/>
+      <point x="798" y="763"/>
+      <point x="824" y="544" type="qcurve"/>
+      <point x="842" y="544" type="line"/>
+      <point x="892" y="287"/>
+      <point x="979" y="80"/>
+      <point x="1080" y="80" type="qcurve" smooth="yes"/>
+      <point x="1154" y="80" type="line"/>
+      <point x="1154" y="29" type="line"/>
+      <point x="1003" y="-8" type="line"/>
+      <point x="912" y="-8"/>
+      <point x="835" y="126"/>
+      <point x="782" y="397" type="qcurve"/>
+      <point x="773" y="397" type="line"/>
+      <point x="722" y="677"/>
+      <point x="572" y="954"/>
+      <point x="443" y="954" type="qcurve" smooth="yes"/>
+      <point x="314" y="954"/>
+      <point x="188" y="711"/>
+      <point x="188" y="509" type="qcurve" smooth="yes"/>
+      <point x="188" y="281"/>
+      <point x="319" y="71"/>
+      <point x="423" y="71" type="qcurve" smooth="yes"/>
+      <point x="537" y="71"/>
+      <point x="686" y="293"/>
+      <point x="769" y="548" type="qcurve"/>
+      <point x="806" y="548" type="line"/>
+      <point x="953" y="979" type="line"/>
+      <point x="1053" y="1000" type="line"/>
+      <point x="1073" y="964" type="line"/>
+      <point x="848" y="436" type="line"/>
+      <point x="808" y="436" type="line"/>
+      <point x="726" y="207"/>
+      <point x="552" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.9855,0.0093,0.9992,1</string>
+    </dict>
+  </lib>
+</glyph>

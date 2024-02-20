@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="delta" format="2">
+  <advance width="1094"/>
+  <unicode hex="03B4"/>
+  <outline>
+    <contour>
+      <point x="545" y="-22" type="qcurve" smooth="yes"/>
+      <point x="336" y="-22"/>
+      <point x="64" y="226"/>
+      <point x="64" y="448" type="qcurve"/>
+      <point x="64" y="608"/>
+      <point x="258" y="855"/>
+      <point x="454" y="915" type="qcurve"/>
+      <point x="454" y="922" type="line"/>
+      <point x="349" y="975"/>
+      <point x="212" y="1122"/>
+      <point x="212" y="1245" type="qcurve"/>
+      <point x="212" y="1378"/>
+      <point x="430" y="1537"/>
+      <point x="608" y="1537" type="qcurve"/>
+      <point x="740" y="1537"/>
+      <point x="917" y="1478"/>
+      <point x="974" y="1432" type="qcurve"/>
+      <point x="954" y="1156" type="line"/>
+      <point x="857" y="1156" type="line"/>
+      <point x="811" y="1336" type="line"/>
+      <point x="785" y="1373"/>
+      <point x="677" y="1426"/>
+      <point x="608" y="1426" type="qcurve"/>
+      <point x="495" y="1426"/>
+      <point x="368" y="1338"/>
+      <point x="368" y="1255" type="qcurve" smooth="yes"/>
+      <point x="368" y="1176"/>
+      <point x="473" y="1072"/>
+      <point x="661" y="965" type="qcurve" smooth="yes"/>
+      <point x="845" y="861"/>
+      <point x="1030" y="595"/>
+      <point x="1030" y="446" type="qcurve" smooth="yes"/>
+      <point x="1030" y="229"/>
+      <point x="765" y="-22"/>
+    </contour>
+    <contour>
+      <point x="542" y="88" type="qcurve" smooth="yes"/>
+      <point x="689" y="88"/>
+      <point x="858" y="273"/>
+      <point x="858" y="446" type="qcurve"/>
+      <point x="858" y="568"/>
+      <point x="720" y="778"/>
+      <point x="556" y="862" type="qcurve"/>
+      <point x="388" y="805"/>
+      <point x="244" y="580"/>
+      <point x="244" y="447" type="qcurve"/>
+      <point x="244" y="264"/>
+      <point x="410" y="88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,6 @@
 <glyph name="Chedescender-cy" format="2">
   <advance width="1678"/>
   <unicode hex="04B6"/>
-  <guideline x="1330" y="777" angle="90.0" identifier="9CLqHZNG04"/>
   <outline>
     <contour>
       <point x="50" y="1386" type="line"/>
@@ -28,10 +27,10 @@
     </contour>
     <contour>
       <point x="1388" y="108" type="line"/>
-      <point x="1596" y="108" type="line"/>
-      <point x="1606" y="-338" type="line"/>
-      <point x="1484" y="-338" type="line"/>
-      <point x="1415" y="0" type="line"/>
+      <point x="1546" y="108" type="line"/>
+      <point x="1556" y="-338" type="line"/>
+      <point x="1556" y="-338" type="line"/>
+      <point x="1487" y="0" type="line"/>
       <point x="980" y="0" type="line"/>
       <point x="980" y="100" type="line"/>
       <point x="1208" y="135" type="line"/>

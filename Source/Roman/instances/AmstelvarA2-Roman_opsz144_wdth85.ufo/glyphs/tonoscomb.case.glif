@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonoscomb.case" format="2">
+  <guideline x="648" y="1469" angle="90.0" identifier="pIShuzXZi2"/>
+  <anchor x="195" y="1500" name="_tonos"/>
+  <outline>
+    <contour>
+      <point x="-89" y="1045" type="line"/>
+      <point x="-109" y="1053" type="line"/>
+      <point x="-29" y="1488" type="line"/>
+      <point x="115" y="1471" type="line"/>
+      <point x="139" y="1430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,6 @@
 <glyph name="Kadescender" format="2">
   <advance width="1451"/>
   <unicode hex="049A"/>
-  <guideline x="480" y="796" angle="90" identifier="LxfLwWU0sJ"/>
   <outline>
     <contour>
       <point x="82" y="0" type="line"/>
@@ -44,10 +43,10 @@
     </contour>
     <contour>
       <point x="1268" y="108" type="line"/>
-      <point x="1476" y="108" type="line"/>
-      <point x="1486" y="-338" type="line"/>
-      <point x="1364" y="-338" type="line"/>
-      <point x="1295" y="0" type="line"/>
+      <point x="1426" y="108" type="line"/>
+      <point x="1436" y="-338" type="line"/>
+      <point x="1436" y="-338" type="line"/>
+      <point x="1367" y="0" type="line"/>
       <point x="1268" y="0" type="line"/>
     </contour>
   </outline>

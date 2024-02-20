@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket" format="2">
+  <advance width="1031"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="919" y="1518" type="line"/>
+      <point x="1001" y="1440" type="line"/>
+      <point x="219" y="710" type="line"/>
+      <point x="1007" y="-83" type="line"/>
+      <point x="905" y="-177" type="line"/>
+      <point x="48" y="622" type="line"/>
+      <point x="48" y="801" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

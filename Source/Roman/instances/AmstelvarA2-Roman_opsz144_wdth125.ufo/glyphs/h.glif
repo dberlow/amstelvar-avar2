@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="1510"/>
+  <unicode hex="0068"/>
+  <anchor x="735" y="0" name="bottom"/>
+  <anchor x="371" y="1202" name="center"/>
+  <anchor x="328" y="1534" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="76" y="24" type="line"/>
+      <point x="242" y="59" type="line"/>
+      <point x="244" y="445" type="line"/>
+      <point x="242" y="1420" type="line"/>
+      <point x="52" y="1450" type="line"/>
+      <point x="52" y="1478" type="line"/>
+      <point x="344" y="1512" type="line"/>
+      <point x="376" y="1512" type="line"/>
+      <point x="404" y="1480" type="line"/>
+      <point x="403" y="771" type="line"/>
+      <point x="492" y="853"/>
+      <point x="724" y="940"/>
+      <point x="851" y="940" type="qcurve" smooth="yes"/>
+      <point x="1055" y="940"/>
+      <point x="1273" y="791"/>
+      <point x="1273" y="629" type="qcurve" smooth="yes"/>
+      <point x="1273" y="587"/>
+      <point x="1268" y="445"/>
+      <point x="1268" y="445" type="qcurve"/>
+      <point x="1272" y="59" type="line"/>
+      <point x="1444" y="24" type="line"/>
+      <point x="1444" y="0" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="928" y="24" type="line"/>
+      <point x="1110" y="59" type="line"/>
+      <point x="1112" y="445" type="line"/>
+      <point x="1112" y="683" type="line" smooth="yes"/>
+      <point x="1112" y="801"/>
+      <point x="943" y="890"/>
+      <point x="799" y="890" type="qcurve" smooth="yes"/>
+      <point x="695" y="890"/>
+      <point x="487" y="820"/>
+      <point x="403" y="737" type="qcurve"/>
+      <point x="403" y="528" type="line"/>
+      <point x="404" y="59" type="line"/>
+      <point x="566" y="24" type="line"/>
+      <point x="566" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 1</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>0 13</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTLC</string>
+        </dict>
+        <key>0 7</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTAS</string>
+        </dict>
+        <key>1 2</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>2 -1</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XLCS</string>
+        </dict>
+        <key>2 35</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOLC</string>
+        </dict>
+        <key>20 21</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>21 22</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>23 24</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>24 25</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>25 20</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOLC</string>
+        </dict>
+        <key>30 13</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOLC</string>
+        </dict>
+        <key>35 25</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTLC</string>
+        </dict>
+        <key>35 36</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>36 37</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>4 5</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>5 6</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>99 20</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XLCS</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

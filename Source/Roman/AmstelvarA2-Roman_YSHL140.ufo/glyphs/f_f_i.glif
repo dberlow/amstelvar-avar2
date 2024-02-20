@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="54" y="0" type="line"/>
-      <point x="54" y="80" type="line"/>
-      <point x="222" y="115" type="line"/>
+      <point x="54" y="280" type="line"/>
+      <point x="223" y="315" type="line"/>
       <point x="224" y="527" type="line"/>
       <point x="221" y="860" type="line"/>
       <point x="68" y="872" type="line"/>
@@ -51,29 +51,29 @@
       <point x="1656" y="1000" type="line"/>
       <point x="1679" y="961" type="line"/>
       <point x="1672" y="527" type="line"/>
-      <point x="1674" y="115" type="line"/>
-      <point x="1842" y="80" type="line"/>
+      <point x="1674" y="315" type="line"/>
+      <point x="1842" y="280" type="line"/>
       <point x="1842" y="0" type="line"/>
       <point x="1346" y="0" type="line"/>
-      <point x="1346" y="80" type="line"/>
-      <point x="1504" y="115" type="line"/>
+      <point x="1346" y="280" type="line"/>
+      <point x="1505" y="315" type="line"/>
       <point x="1506" y="527" type="line"/>
       <point x="1499" y="862" type="line"/>
       <point x="1472" y="883" type="line"/>
       <point x="1016" y="872" type="line"/>
       <point x="1018" y="527" type="line"/>
-      <point x="1032" y="115" type="line"/>
-      <point x="1195" y="80" type="line"/>
+      <point x="1025" y="315" type="line"/>
+      <point x="1195" y="280" type="line"/>
       <point x="1195" y="0" type="line"/>
       <point x="705" y="0" type="line"/>
-      <point x="705" y="80" type="line"/>
-      <point x="853" y="115" type="line"/>
+      <point x="705" y="280" type="line"/>
+      <point x="854" y="315" type="line"/>
       <point x="855" y="527" type="line"/>
       <point x="852" y="860" type="line"/>
       <point x="385" y="877" type="line"/>
       <point x="387" y="527" type="line"/>
-      <point x="401" y="115" type="line"/>
-      <point x="554" y="80" type="line"/>
+      <point x="394" y="315" type="line"/>
+      <point x="554" y="280" type="line"/>
       <point x="554" y="0" type="line"/>
     </contour>
     <contour>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1645"/>
+  <advance width="1390"/>
   <unicode hex="0388"/>
   <note>
 50,E
 </note>
   <outline>
-    <component base="E" xOffset="529"/>
-    <component base="tonoscomb.case" xOffset="375"/>
+    <component base="E" xOffset="274"/>
+    <component base="tonoscomb.case" xOffset="120"/>
   </outline>
   <lib>
     <dict>

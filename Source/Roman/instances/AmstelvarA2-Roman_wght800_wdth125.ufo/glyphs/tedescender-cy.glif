@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <advance width="1336"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <contour>
+      <point x="857" y="137" type="line"/>
+      <point x="1078" y="137" type="line"/>
+      <point x="1088" y="-334" type="line"/>
+      <point x="958" y="-334" type="line"/>
+      <point x="869" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="112" type="line"/>
+      <point x="480" y="147" type="line"/>
+      <point x="482" y="500" type="line"/>
+      <point x="480" y="880" type="line"/>
+      <point x="275" y="880" type="line"/>
+      <point x="229" y="631" type="line"/>
+      <point x="91" y="631" type="line"/>
+      <point x="91" y="1000" type="line"/>
+      <point x="1245" y="1000" type="line"/>
+      <point x="1245" y="631" type="line"/>
+      <point x="1107" y="631" type="line"/>
+      <point x="1061" y="880" type="line"/>
+      <point x="856" y="880" type="line"/>
+      <point x="854" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="452"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="190" y="-540" type="line"/>
+      <point x="212" y="-58" type="line"/>
+      <point x="213" y="250" type="line"/>
+      <point x="212" y="830" type="line"/>
+      <point x="211" y="1138" type="line"/>
+      <point x="188" y="1523" type="line"/>
+      <point x="266" y="1550" type="line"/>
+      <point x="240" y="1138" type="line"/>
+      <point x="238" y="830" type="line"/>
+      <point x="238" y="250" type="line"/>
+      <point x="240" y="-58" type="line"/>
+      <point x="264" y="-513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

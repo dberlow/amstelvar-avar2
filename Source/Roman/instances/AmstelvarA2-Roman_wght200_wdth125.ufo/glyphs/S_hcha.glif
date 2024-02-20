@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha" format="2">
+  <advance width="2369"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="2071" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="64" type="line"/>
+      <point x="396" y="99" type="line"/>
+      <point x="398" y="746" type="line"/>
+      <point x="396" y="1393" type="line"/>
+      <point x="136" y="1427" type="line"/>
+      <point x="136" y="1500" type="line"/>
+      <point x="775" y="1500" type="line"/>
+      <point x="775" y="1427" type="line"/>
+      <point x="515" y="1393" type="line"/>
+      <point x="513" y="746" type="line"/>
+      <point x="515" y="96" type="line"/>
+      <point x="555" y="68" type="line"/>
+      <point x="1085" y="68" type="line"/>
+      <point x="1125" y="96" type="line"/>
+      <point x="1127" y="754" type="line"/>
+      <point x="1125" y="1391" type="line"/>
+      <point x="855" y="1424" type="line"/>
+      <point x="855" y="1500" type="line"/>
+      <point x="1514" y="1500" type="line"/>
+      <point x="1514" y="1424" type="line"/>
+      <point x="1244" y="1391" type="line"/>
+      <point x="1242" y="754" type="line"/>
+      <point x="1244" y="96" type="line"/>
+      <point x="1284" y="68" type="line"/>
+      <point x="1814" y="68" type="line"/>
+      <point x="1854" y="96" type="line"/>
+      <point x="1856" y="746" type="line"/>
+      <point x="1854" y="1393" type="line"/>
+      <point x="1594" y="1427" type="line"/>
+      <point x="1594" y="1500" type="line"/>
+      <point x="2233" y="1500" type="line"/>
+      <point x="2233" y="1427" type="line"/>
+      <point x="1973" y="1393" type="line"/>
+      <point x="1971" y="746" type="line"/>
+      <point x="1973" y="108" type="line"/>
+      <point x="2221" y="108" type="line"/>
+      <point x="2230" y="-332" type="line"/>
+      <point x="2138" y="-332" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="1188"/>
+  <unicode hex="0059"/>
+  <anchor x="597" y="0" name="bottom"/>
+  <anchor x="600" y="1500" name="top"/>
+  <anchor x="-48" y="1500" name="tonos"/>
+  <outline>
+    <contour>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="24" type="line"/>
+      <point x="514" y="59" type="line"/>
+      <point x="516" y="647" type="line"/>
+      <point x="357" y="1005" type="line"/>
+      <point x="134" y="1446" type="line"/>
+      <point x="67" y="1473" type="line"/>
+      <point x="67" y="1500" type="line"/>
+      <point x="487" y="1500" type="line"/>
+      <point x="487" y="1473" type="line"/>
+      <point x="327" y="1437" type="line"/>
+      <point x="493" y="1071" type="line"/>
+      <point x="658" y="728" type="line"/>
+      <point x="668" y="728" type="line"/>
+      <point x="812" y="1035" type="line"/>
+      <point x="1006" y="1444" type="line"/>
+      <point x="825" y="1473" type="line"/>
+      <point x="825" y="1500" type="line"/>
+      <point x="1119" y="1500" type="line"/>
+      <point x="1119" y="1473" type="line"/>
+      <point x="1049" y="1445" type="line"/>
+      <point x="848" y="1031" type="line"/>
+      <point x="676" y="652" type="line"/>
+      <point x="678" y="59" type="line"/>
+      <point x="835" y="24" type="line"/>
+      <point x="835" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>19 1</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTUC</string>
+        </dict>
+        <key>21 16</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOUC</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

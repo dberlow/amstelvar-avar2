@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje" format="2">
+  <advance width="2621"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="2121" y="502" type="qcurve" smooth="yes"/>
+      <point x="2121" y="643"/>
+      <point x="1931" y="788"/>
+      <point x="1771" y="788" type="qcurve" smooth="yes"/>
+      <point x="1557" y="788" type="line"/>
+      <point x="1548" y="774" type="line"/>
+      <point x="1549" y="193" type="line"/>
+      <point x="1583" y="171" type="line"/>
+      <point x="1769" y="171" type="line" smooth="yes"/>
+      <point x="1940" y="171"/>
+      <point x="2121" y="349"/>
+    </contour>
+    <contour>
+      <point x="1548" y="1284" type="line"/>
+      <point x="1547" y="969" type="line"/>
+      <point x="1556" y="955" type="line"/>
+      <point x="1918" y="955" type="line" smooth="yes"/>
+      <point x="2237" y="955"/>
+      <point x="2571" y="726"/>
+      <point x="2571" y="502" type="qcurve" smooth="yes"/>
+      <point x="2571" y="283"/>
+      <point x="2217" y="0"/>
+      <point x="1896" y="0" type="qcurve" smooth="yes"/>
+      <point x="944" y="0" type="line"/>
+      <point x="944" y="168" type="line"/>
+      <point x="1112" y="203" type="line"/>
+      <point x="1114" y="736" type="line"/>
+      <point x="1112" y="1284" type="line"/>
+      <point x="1072" y="1312" type="line"/>
+      <point x="676" y="1312" type="line"/>
+      <point x="636" y="1284" type="line"/>
+      <point x="590" y="754" type="line" smooth="yes"/>
+      <point x="550" y="307"/>
+      <point x="378" y="-17"/>
+      <point x="148" y="-17" type="qcurve" smooth="yes"/>
+      <point x="122" y="-17"/>
+      <point x="82" y="-10"/>
+      <point x="50" y="0" type="qcurve"/>
+      <point x="50" y="297" type="line"/>
+      <point x="74" y="290"/>
+      <point x="114" y="285"/>
+      <point x="135" y="285" type="qcurve" smooth="yes"/>
+      <point x="279" y="285"/>
+      <point x="385" y="560"/>
+      <point x="407" y="815" type="qcurve" smooth="yes"/>
+      <point x="448" y="1285" type="line"/>
+      <point x="286" y="1318" type="line"/>
+      <point x="286" y="1500" type="line"/>
+      <point x="1716" y="1500" type="line"/>
+      <point x="1716" y="1318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

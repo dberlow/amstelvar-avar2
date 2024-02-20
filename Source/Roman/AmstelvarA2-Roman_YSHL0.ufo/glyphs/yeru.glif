@@ -22,32 +22,32 @@
       <point x="784" y="0"/>
       <point x="586" y="0" type="qcurve" smooth="yes"/>
       <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
-      <point x="228" y="115" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="228" y="35" type="line"/>
       <point x="230" y="500" type="line"/>
-      <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
+      <point x="228" y="965" type="line"/>
+      <point x="80" y="1000" type="line"/>
       <point x="80" y="1000" type="line"/>
       <point x="546" y="1000" type="line"/>
-      <point x="546" y="920" type="line"/>
-      <point x="398" y="885" type="line"/>
+      <point x="546" y="1000" type="line"/>
+      <point x="398" y="965" type="line"/>
       <point x="396" y="500" type="line"/>
     </contour>
     <contour>
       <point x="1346" y="500" type="line"/>
-      <point x="1348" y="115" type="line"/>
-      <point x="1496" y="80" type="line"/>
+      <point x="1348" y="35" type="line"/>
+      <point x="1496" y="0" type="line"/>
       <point x="1496" y="0" type="line"/>
       <point x="1030" y="0" type="line"/>
-      <point x="1030" y="80" type="line"/>
-      <point x="1178" y="115" type="line"/>
+      <point x="1030" y="0" type="line"/>
+      <point x="1178" y="35" type="line"/>
       <point x="1180" y="500" type="line"/>
-      <point x="1178" y="885" type="line"/>
-      <point x="1030" y="920" type="line"/>
+      <point x="1178" y="965" type="line"/>
+      <point x="1030" y="1000" type="line"/>
       <point x="1030" y="1000" type="line"/>
       <point x="1496" y="1000" type="line"/>
-      <point x="1496" y="920" type="line"/>
-      <point x="1348" y="885" type="line"/>
+      <point x="1496" y="1000" type="line"/>
+      <point x="1348" y="965" type="line"/>
     </contour>
   </outline>
   <lib>

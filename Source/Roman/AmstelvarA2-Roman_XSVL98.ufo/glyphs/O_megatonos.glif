@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omegatonos" format="2">
-  <advance width="1850"/>
+  <advance width="1794"/>
   <unicode hex="038F"/>
   <outline>
-    <component base="Omega" xOffset="217"/>
-    <component base="tonoscomb.case" xOffset="155"/>
+    <component base="Omega" xOffset="182"/>
+    <component base="tonoscomb.case" xOffset="120"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>1,0.18574,0.57340,0.29823</string>
     </dict>
   </lib>
 </glyph>

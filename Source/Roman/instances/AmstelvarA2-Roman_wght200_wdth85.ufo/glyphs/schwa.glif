@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="915"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="851" y="500" type="qcurve" smooth="yes"/>
+      <point x="851" y="283"/>
+      <point x="624" y="-22"/>
+      <point x="437" y="-22" type="qcurve" smooth="yes"/>
+      <point x="278" y="-22"/>
+      <point x="84" y="203"/>
+      <point x="72" y="412" type="qcurve"/>
+      <point x="72" y="455" type="line"/>
+      <point x="669" y="455" type="line"/>
+      <point x="667" y="396" type="line"/>
+      <point x="175" y="396" type="line"/>
+      <point x="196" y="226"/>
+      <point x="340" y="48"/>
+      <point x="452" y="48" type="qcurve" smooth="yes"/>
+      <point x="590" y="48"/>
+      <point x="742" y="279"/>
+      <point x="741" y="480" type="qcurve" smooth="yes"/>
+      <point x="740" y="705"/>
+      <point x="546" y="942"/>
+      <point x="402" y="942" type="qcurve" smooth="yes"/>
+      <point x="311" y="942"/>
+      <point x="178" y="884"/>
+      <point x="136" y="834" type="qcurve"/>
+      <point x="105" y="872" type="line"/>
+      <point x="147" y="936"/>
+      <point x="310" y="1022"/>
+      <point x="423" y="1022" type="qcurve" smooth="yes"/>
+      <point x="616" y="1022"/>
+      <point x="851" y="751"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

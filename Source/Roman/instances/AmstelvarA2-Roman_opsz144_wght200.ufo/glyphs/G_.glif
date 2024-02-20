@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G" format="2">
+  <advance width="1357"/>
+  <unicode hex="0047"/>
+  <anchor x="735" y="0" name="bottom"/>
+  <anchor x="700" y="1500" name="top"/>
+  <outline>
+    <contour>
+      <point x="36" y="744" type="qcurve" smooth="yes"/>
+      <point x="36" y="1068"/>
+      <point x="415" y="1520"/>
+      <point x="730" y="1520" type="qcurve" smooth="yes"/>
+      <point x="857" y="1520"/>
+      <point x="1069" y="1460"/>
+      <point x="1118" y="1427" type="qcurve"/>
+      <point x="1141" y="1500" type="line"/>
+      <point x="1160" y="1499" type="line"/>
+      <point x="1160" y="1043" type="line"/>
+      <point x="1138" y="1044" type="line"/>
+      <point x="1101" y="1193" type="line" smooth="yes"/>
+      <point x="1063" y="1347"/>
+      <point x="873" y="1495"/>
+      <point x="740" y="1495" type="qcurve" smooth="yes"/>
+      <point x="447" y="1495"/>
+      <point x="139" y="1110"/>
+      <point x="141" y="768" type="qcurve" smooth="yes"/>
+      <point x="143" y="430"/>
+      <point x="466" y="-7"/>
+      <point x="750" y="-7" type="qcurve" smooth="yes"/>
+      <point x="865" y="-7"/>
+      <point x="1074" y="128"/>
+      <point x="1127" y="226" type="qcurve"/>
+      <point x="1127" y="603" type="line"/>
+      <point x="956" y="638" type="line"/>
+      <point x="956" y="658" type="line"/>
+      <point x="1334" y="658" type="line"/>
+      <point x="1334" y="638" type="line"/>
+      <point x="1221" y="603" type="line"/>
+      <point x="1221" y="219" type="line"/>
+      <point x="1153" y="117"/>
+      <point x="901" y="-30"/>
+      <point x="734" y="-30" type="qcurve" smooth="yes"/>
+      <point x="426" y="-30"/>
+      <point x="36" y="394"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 -1</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XUCR</string>
+        </dict>
+        <key>0 17</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOUC</string>
+        </dict>
+        <key>20 33</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>24 17</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTUC</string>
+        </dict>
+        <key>24 25</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSUC</string>
+        </dict>
+        <key>24 29</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOUC</string>
+        </dict>
+        <key>25 26</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSUC</string>
+        </dict>
+        <key>27 28</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSUC</string>
+        </dict>
+        <key>28 29</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSUC</string>
+        </dict>
+        <key>3 14</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>3 33</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTUC</string>
+        </dict>
+        <key>9 10</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSVU</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

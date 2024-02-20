@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="3042"/>
+  <unicode hex="0057"/>
+  <anchor x="1479" y="0" name="bottom"/>
+  <anchor x="1479" y="1500" name="top"/>
+  <outline>
+    <contour>
+      <point x="879" y="-8" type="line"/>
+      <point x="574" y="624" type="line"/>
+      <point x="245" y="1297" type="line"/>
+      <point x="18" y="1336" type="line"/>
+      <point x="18" y="1500" type="line"/>
+      <point x="699" y="1500" type="line"/>
+      <point x="699" y="1336" type="line"/>
+      <point x="488" y="1295" type="line"/>
+      <point x="781" y="685" type="line"/>
+      <point x="972" y="313" type="line"/>
+      <point x="1021" y="199" type="line"/>
+      <point x="1033" y="199" type="line"/>
+      <point x="1076" y="313" type="line"/>
+      <point x="1233" y="688" type="line"/>
+      <point x="1408" y="1101" type="line"/>
+      <point x="1315" y="1305" type="line"/>
+      <point x="1090" y="1344" type="line"/>
+      <point x="1090" y="1500" type="line"/>
+      <point x="1750" y="1500" type="line"/>
+      <point x="1750" y="1344" type="line"/>
+      <point x="1558" y="1303" type="line"/>
+      <point x="1758" y="843" type="line"/>
+      <point x="1975" y="313" type="line"/>
+      <point x="2017" y="199" type="line"/>
+      <point x="2031" y="199" type="line"/>
+      <point x="2081" y="313" type="line"/>
+      <point x="2334" y="803" type="line"/>
+      <point x="2603" y="1302" type="line"/>
+      <point x="2383" y="1336" type="line"/>
+      <point x="2383" y="1500" type="line"/>
+      <point x="3044" y="1500" type="line"/>
+      <point x="3044" y="1336" type="line"/>
+      <point x="2798" y="1297" type="line"/>
+      <point x="2495" y="760" type="line"/>
+      <point x="2080" y="-8" type="line"/>
+      <point x="1866" y="-8" type="line"/>
+      <point x="1542" y="766" type="line"/>
+      <point x="1498" y="882" type="line"/>
+      <point x="1488" y="882" type="line"/>
+      <point x="1441" y="766" type="line"/>
+      <point x="1086" y="-8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>1 26</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTUC</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

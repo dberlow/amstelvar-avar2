@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghe.bgr" format="2">
+  <advance width="872"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_YOPQ311.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.5734,0.34805</string>
+    </dict>
+  </lib>
+</glyph>

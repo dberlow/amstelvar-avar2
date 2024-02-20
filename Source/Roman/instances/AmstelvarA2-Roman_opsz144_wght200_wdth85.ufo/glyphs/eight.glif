@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight" format="2">
+  <advance width="859"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="45" y="385" type="qcurve" smooth="yes"/>
+      <point x="45" y="569"/>
+      <point x="259" y="777"/>
+      <point x="412" y="828" type="qcurve"/>
+      <point x="415" y="814" type="line"/>
+      <point x="271" y="767"/>
+      <point x="71" y="562"/>
+      <point x="71" y="382" type="qcurve" smooth="yes"/>
+      <point x="71" y="238"/>
+      <point x="260" y="-1"/>
+      <point x="418" y="-1" type="qcurve" smooth="yes"/>
+      <point x="581" y="-1"/>
+      <point x="763" y="218"/>
+      <point x="763" y="360" type="qcurve" smooth="yes"/>
+      <point x="763" y="491"/>
+      <point x="618" y="679"/>
+      <point x="446" y="767" type="qcurve" smooth="yes"/>
+      <point x="270" y="857"/>
+      <point x="136" y="1048"/>
+      <point x="136" y="1169" type="qcurve" smooth="yes"/>
+      <point x="136" y="1333"/>
+      <point x="347" y="1528"/>
+      <point x="487" y="1528" type="qcurve" smooth="yes"/>
+      <point x="622" y="1528"/>
+      <point x="769" y="1348"/>
+      <point x="769" y="1221" type="qcurve" smooth="yes"/>
+      <point x="769" y="1094"/>
+      <point x="645" y="914"/>
+      <point x="480" y="833" type="qcurve"/>
+      <point x="473" y="846" type="line"/>
+      <point x="626" y="921"/>
+      <point x="745" y="1101"/>
+      <point x="744" y="1222" type="qcurve" smooth="yes"/>
+      <point x="743" y="1336"/>
+      <point x="607" y="1507"/>
+      <point x="471" y="1507" type="qcurve" smooth="yes"/>
+      <point x="372" y="1507"/>
+      <point x="215" y="1337"/>
+      <point x="215" y="1203" type="qcurve" smooth="yes"/>
+      <point x="215" y="1084"/>
+      <point x="334" y="920"/>
+      <point x="512" y="836" type="qcurve" smooth="yes"/>
+      <point x="684" y="756"/>
+      <point x="852" y="552"/>
+      <point x="852" y="401" type="qcurve" smooth="yes"/>
+      <point x="852" y="233"/>
+      <point x="622" y="-22"/>
+      <point x="407" y="-22" type="qcurve" smooth="yes"/>
+      <point x="247" y="-22"/>
+      <point x="45" y="227"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 -1</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XFIR</string>
+        </dict>
+        <key>0 7</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>10 47</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>13 44</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>16 41</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>19 38</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>22 35</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>22 47</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTFI</string>
+        </dict>
+        <key>32 25</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>99 44</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XFIR</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarO" format="2">
+  <advance width="835"/>
+  <outline>
+    <contour>
+      <point x="106" y="-122" type="line"/>
+      <point x="163" y="86" type="line"/>
+      <point x="181" y="81" type="line"/>
+      <point x="387" y="871" type="line"/>
+      <point x="495" y="803" type="line"/>
+      <point x="302" y="54" type="line"/>
+      <point x="322" y="50" type="line"/>
+      <point x="279" y="-109" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="1618" type="line"/>
+      <point x="729" y="1618" type="line"/>
+      <point x="676" y="1424" type="line"/>
+      <point x="655" y="1428" type="line"/>
+      <point x="495" y="803" type="line"/>
+      <point x="387" y="871" type="line"/>
+      <point x="535" y="1455" type="line"/>
+      <point x="515" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -3,18 +3,18 @@
   <anchor x="0" y="1000" name="top"/>
   <outline>
     <contour>
-      <point x="-96" y="1337" type="qcurve" smooth="yes"/>
-      <point x="-96" y="1382"/>
-      <point x="-47" y="1431"/>
-      <point x="0" y="1431" type="qcurve" smooth="yes"/>
-      <point x="44" y="1431"/>
-      <point x="96" y="1379"/>
-      <point x="96" y="1337" type="qcurve" smooth="yes"/>
-      <point x="96" y="1292"/>
-      <point x="46" y="1243"/>
-      <point x="0" y="1243" type="qcurve" smooth="yes"/>
-      <point x="-44" y="1243"/>
-      <point x="-96" y="1295"/>
+      <point x="-97" y="1337" type="qcurve" smooth="yes"/>
+      <point x="-97" y="1382"/>
+      <point x="-47" y="1432"/>
+      <point x="0" y="1432" type="qcurve" smooth="yes"/>
+      <point x="44" y="1432"/>
+      <point x="97" y="1379"/>
+      <point x="97" y="1337" type="qcurve" smooth="yes"/>
+      <point x="97" y="1291"/>
+      <point x="47" y="1242"/>
+      <point x="0" y="1242" type="qcurve" smooth="yes"/>
+      <point x="-44" y="1242"/>
+      <point x="-97" y="1294"/>
     </contour>
   </outline>
   <lib>

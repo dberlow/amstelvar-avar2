@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarH" format="2">
+  <advance width="1454"/>
+  <outline>
+    <contour>
+      <point x="1400" y="997" type="line"/>
+      <point x="1218" y="995" type="line"/>
+      <point x="1218" y="1132" type="line"/>
+      <point x="1410" y="1134" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="995" type="line"/>
+      <point x="44" y="1132" type="line"/>
+      <point x="243" y="1132" type="line"/>
+      <point x="243" y="995" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="995" type="line"/>
+      <point x="243" y="1132" type="line"/>
+      <point x="1218" y="1132" type="line"/>
+      <point x="1218" y="995" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

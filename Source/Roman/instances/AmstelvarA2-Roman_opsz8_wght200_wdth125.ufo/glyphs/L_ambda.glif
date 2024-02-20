@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="2355"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="29" y="0" type="line"/>
+      <point x="29" y="100" type="line"/>
+      <point x="269" y="135" type="line"/>
+      <point x="538" y="562" type="line"/>
+      <point x="1139" y="1508" type="line"/>
+      <point x="1249" y="1508" type="line"/>
+      <point x="1826" y="569" type="line"/>
+      <point x="2097" y="135" type="line"/>
+      <point x="2327" y="100" type="line"/>
+      <point x="2327" y="0" type="line"/>
+      <point x="1689" y="0" type="line"/>
+      <point x="1689" y="100" type="line"/>
+      <point x="1920" y="131" type="line"/>
+      <point x="1672" y="504" type="line"/>
+      <point x="1250" y="1172" type="line"/>
+      <point x="1179" y="1286" type="line"/>
+      <point x="1160" y="1286" type="line"/>
+      <point x="1098" y="1172" type="line"/>
+      <point x="674" y="492" type="line"/>
+      <point x="420" y="130" type="line"/>
+      <point x="649" y="100" type="line"/>
+      <point x="649" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>0.9855,0.0093,0.9992,1</string>
+    </dict>
+  </lib>
+</glyph>

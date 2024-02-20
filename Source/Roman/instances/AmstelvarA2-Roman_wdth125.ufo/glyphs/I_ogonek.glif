@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="890"/>
+  <advance width="960"/>
   <unicode hex="012E"/>
   <outline>
-    <component base="I" xOffset="-100"/>
-    <component base="ogonekcomb.case" xOffset="111"/>
+    <component base="I" xOffset="-166"/>
+    <component base="ogonekcomb.case" xOffset="-137"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

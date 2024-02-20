@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="2027"/>
+  <advance width="1815"/>
   <unicode hex="038E"/>
   <outline>
-    <component base="Y" xOffset="724"/>
-    <component base="tonoscomb.case" xOffset="454"/>
+    <component base="Y" xOffset="525"/>
+    <component base="tonoscomb.case" xOffset="248"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

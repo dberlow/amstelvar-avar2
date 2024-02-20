@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="El.bgr" format="2">
-  <advance width="1456"/>
+  <advance width="1886"/>
   <outline>
     <component base="Lambda"/>
   </outline>
@@ -11,7 +11,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>1,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

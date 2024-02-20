@@ -3,7 +3,7 @@
   <advance width="1031"/>
   <unicode hex="04FF"/>
   <outline>
-    <component base="x" xOffset="2"/>
+    <component base="x" xOffset="5"/>
     <component base="ha-stroke" xOffset="-6"/>
   </outline>
   <lib>
@@ -11,7 +11,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

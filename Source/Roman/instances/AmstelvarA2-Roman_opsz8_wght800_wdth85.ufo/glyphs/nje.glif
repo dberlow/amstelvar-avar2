@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje" format="2">
+  <advance width="2435"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="556" y="622" type="line"/>
+      <point x="880" y="619" type="line"/>
+      <point x="1206" y="622" type="line"/>
+      <point x="1206" y="466" type="line"/>
+      <point x="880" y="468" type="line"/>
+      <point x="556" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="500" type="line"/>
+      <point x="228" y="801" type="line"/>
+      <point x="96" y="836" type="line"/>
+      <point x="96" y="1000" type="line"/>
+      <point x="764" y="1000" type="line"/>
+      <point x="764" y="836" type="line"/>
+      <point x="641" y="801" type="line"/>
+      <point x="639" y="500" type="line"/>
+      <point x="641" y="199" type="line"/>
+      <point x="764" y="164" type="line"/>
+      <point x="764" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="164" type="line"/>
+      <point x="228" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="1533" y="140" type="line"/>
+      <point x="1721" y="140" type="line" smooth="yes"/>
+      <point x="1846" y="140"/>
+      <point x="1947" y="242"/>
+      <point x="1947" y="319" type="qcurve" smooth="yes"/>
+      <point x="1947" y="394"/>
+      <point x="1846" y="490"/>
+      <point x="1721" y="490" type="qcurve" smooth="yes"/>
+      <point x="1448" y="490" type="line"/>
+      <point x="1448" y="628" type="line"/>
+      <point x="1817" y="628" type="line" smooth="yes"/>
+      <point x="2086" y="628"/>
+      <point x="2375" y="461"/>
+      <point x="2375" y="319" type="qcurve" smooth="yes"/>
+      <point x="2375" y="175"/>
+      <point x="2086" y="0"/>
+      <point x="1817" y="0" type="qcurve" smooth="yes"/>
+      <point x="998" y="0" type="line"/>
+      <point x="998" y="164" type="line"/>
+      <point x="1121" y="199" type="line"/>
+      <point x="1123" y="500" type="line"/>
+      <point x="1121" y="801" type="line"/>
+      <point x="998" y="836" type="line"/>
+      <point x="998" y="1000" type="line"/>
+      <point x="1665" y="1000" type="line"/>
+      <point x="1665" y="836" type="line"/>
+      <point x="1533" y="801" type="line"/>
+      <point x="1531" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="688"/>
+  <advance width="598"/>
   <unicode hex="006A"/>
   <outline>
     <component base="jdotless"/>
-    <component base="idot" xOffset="345" yOffset="51"/>
+    <component base="idot" xOffset="300" yOffset="51"/>
   </outline>
   <lib>
     <dict>
@@ -82,7 +82,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

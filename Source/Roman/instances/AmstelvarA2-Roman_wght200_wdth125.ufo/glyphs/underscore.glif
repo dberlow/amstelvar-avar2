@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="2967"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="86" y="-480" type="line"/>
+      <point x="86" y="-394" type="line"/>
+      <point x="1490" y="-388" type="line"/>
+      <point x="2881" y="-394" type="line"/>
+      <point x="2881" y="-480" type="line"/>
+      <point x="1490" y="-496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

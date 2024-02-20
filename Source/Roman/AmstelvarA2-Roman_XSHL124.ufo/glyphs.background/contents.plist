@@ -6,16 +6,24 @@
     <string>_notdef.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>Ef</key>
     <string>E_f.glif</string>
+    <key>Lambda</key>
+    <string>L_ambda.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
     <key>Psi</key>
     <string>P_si.glif</string>
     <key>Shha</key>
     <string>S_hha.glif</string>
+    <key>Sigma</key>
+    <string>S_igma.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>Yu</key>
@@ -106,6 +114,12 @@
     <string>i.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
+    <key>kadescender</key>
+    <string>kadescender.glif</string>
+    <key>kaverticalstrokecyr</key>
+    <string>kaverticalstrokecyr.glif</string>
     <key>macronbelowcomb.case</key>
     <string>macronbelowcomb.case.glif</string>
     <key>macroncomb-stack</key>
@@ -138,9 +152,13 @@
     <string>tildecomb-stack.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>ustraight</key>
+    <string>ustraight.glif</string>
     <key>yi</key>
     <string>yi.glif</string>
     <key>yi-dieresiscomb</key>
     <string>yi-dieresiscomb.glif</string>
+    <key>zhedescender</key>
+    <string>zhedescender.glif</string>
   </dict>
 </plist>

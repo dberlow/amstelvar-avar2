@@ -2,31 +2,28 @@
 <glyph name="cheverticalstroke-cy" format="2">
   <advance width="1237"/>
   <unicode hex="04B9"/>
-  <guideline x="302" y="625" angle="90" identifier="ghzYOvRP0g"/>
-  <guideline x="953" y="554" angle="90" identifier="yWzP0ZeDvZ"/>
-  <guideline x="627" y="553" angle="90" identifier="2rptuWkdhO"/>
   <outline>
     <contour>
-      <point x="661" y="762" type="line"/>
-      <point x="661" y="170" type="line"/>
-      <point x="546" y="170" type="line"/>
-      <point x="546" y="762" type="line"/>
+      <point x="661" y="830" type="line"/>
+      <point x="661" y="58" type="line"/>
+      <point x="546" y="58" type="line"/>
+      <point x="546" y="830" type="line"/>
     </contour>
     <contour>
-      <point x="367" y="711" type="line" smooth="yes"/>
-      <point x="366" y="591"/>
-      <point x="482" y="493"/>
-      <point x="610" y="493" type="qcurve" smooth="yes"/>
-      <point x="696" y="493"/>
-      <point x="844" y="519"/>
-      <point x="924" y="552" type="qcurve"/>
-      <point x="924" y="459" type="line"/>
-      <point x="846" y="425"/>
-      <point x="683" y="393"/>
-      <point x="573" y="393" type="qcurve" smooth="yes"/>
-      <point x="399" y="393"/>
-      <point x="202" y="545"/>
-      <point x="200" y="711" type="qcurve" smooth="yes"/>
+      <point x="368" y="879" type="line" smooth="yes"/>
+      <point x="368" y="758"/>
+      <point x="483" y="661"/>
+      <point x="610" y="661" type="qcurve" smooth="yes"/>
+      <point x="696" y="661"/>
+      <point x="844" y="687"/>
+      <point x="924" y="720" type="qcurve"/>
+      <point x="924" y="247" type="line"/>
+      <point x="846" y="213"/>
+      <point x="683" y="181"/>
+      <point x="573" y="181" type="qcurve" smooth="yes"/>
+      <point x="399" y="181"/>
+      <point x="201" y="333"/>
+      <point x="200" y="499" type="qcurve" smooth="yes"/>
       <point x="198" y="885" type="line"/>
       <point x="50" y="920" type="line"/>
       <point x="50" y="1000" type="line"/>

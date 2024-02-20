@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="937"/>
+  <unicode hex="03C5"/>
+  <anchor x="460" y="1000" name="GRKtop"/>
+  <outline>
+    <contour>
+      <point x="505" y="-21" type="qcurve"/>
+      <point x="347" y="-21"/>
+      <point x="190" y="194"/>
+      <point x="187" y="389" type="qcurve" smooth="yes"/>
+      <point x="183" y="760" type="line" smooth="yes"/>
+      <point x="181" y="889"/>
+      <point x="163" y="933"/>
+      <point x="117" y="942" type="qcurve" smooth="yes"/>
+      <point x="55" y="954" type="line"/>
+      <point x="55" y="971" type="line"/>
+      <point x="155" y="1008" type="line"/>
+      <point x="213" y="1008"/>
+      <point x="281" y="938"/>
+      <point x="280" y="831" type="qcurve" smooth="yes"/>
+      <point x="275" y="387" type="line" smooth="yes"/>
+      <point x="273" y="160"/>
+      <point x="392" y="15"/>
+      <point x="505" y="15" type="qcurve" smooth="yes"/>
+      <point x="632" y="15"/>
+      <point x="767" y="223"/>
+      <point x="767" y="519" type="qcurve" smooth="yes"/>
+      <point x="767" y="643"/>
+      <point x="691" y="890"/>
+      <point x="586" y="1017" type="qcurve"/>
+      <point x="606" y="1028" type="line"/>
+      <point x="728" y="990"/>
+      <point x="863" y="744"/>
+      <point x="863" y="520" type="qcurve" smooth="yes"/>
+      <point x="863" y="280"/>
+      <point x="662" y="-21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

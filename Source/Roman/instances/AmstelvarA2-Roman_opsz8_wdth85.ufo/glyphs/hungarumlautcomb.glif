@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="423"/>
+  <unicode hex="030B"/>
+  <anchor x="241" y="1000" name="_top"/>
+  <anchor x="241" y="1534" name="top"/>
+  <outline>
+    <contour>
+      <point x="245" y="1474" type="qcurve" smooth="yes"/>
+      <point x="245" y="1427"/>
+      <point x="202" y="1390"/>
+      <point x="164" y="1357" type="qcurve" smooth="yes"/>
+      <point x="-79" y="1150" type="line"/>
+      <point x="-153" y="1226" type="line"/>
+      <point x="26" y="1453" type="line" smooth="yes"/>
+      <point x="58" y="1493"/>
+      <point x="113" y="1552"/>
+      <point x="150" y="1552" type="qcurve" smooth="yes"/>
+      <point x="184" y="1552"/>
+      <point x="245" y="1509"/>
+    </contour>
+    <contour>
+      <point x="635" y="1474" type="qcurve" smooth="yes"/>
+      <point x="635" y="1427"/>
+      <point x="592" y="1390"/>
+      <point x="554" y="1357" type="qcurve" smooth="yes"/>
+      <point x="311" y="1150" type="line"/>
+      <point x="237" y="1226" type="line"/>
+      <point x="417" y="1453" type="line" smooth="yes"/>
+      <point x="449" y="1493"/>
+      <point x="503" y="1552"/>
+      <point x="540" y="1552" type="qcurve" smooth="yes"/>
+      <point x="574" y="1552"/>
+      <point x="635" y="1509"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

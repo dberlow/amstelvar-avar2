@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="533"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="9" y="487" type="line"/>
+      <point x="9" y="777" type="line"/>
+      <point x="267" y="770" type="line"/>
+      <point x="524" y="777" type="line"/>
+      <point x="524" y="487" type="line"/>
+      <point x="267" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

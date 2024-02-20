@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tonoscomb" format="2">
-  <advance width="577"/>
-  <anchor x="261" y="1000" name="_GRKtop"/>
+  <advance width="958"/>
+  <anchor x="433" y="1000" name="_GRKtop"/>
   <outline>
     <contour>
-      <point x="280" y="1150" type="line"/>
-      <point x="189" y="1183" type="line"/>
-      <point x="295" y="1606" type="line"/>
-      <point x="454" y="1588" type="line"/>
-      <point x="480" y="1543" type="line"/>
+      <point x="370" y="1163" type="line"/>
+      <point x="306" y="1196" type="line"/>
+      <point x="417" y="1656" type="line"/>
+      <point x="563" y="1591" type="line"/>
+      <point x="591" y="1522" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.lf" format="2">
-  <advance width="890"/>
+  <advance width="876"/>
   <outline>
     <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="111" y="94" type="line"/>
-      <point x="367" y="129" type="line"/>
-      <point x="367" y="754" type="line"/>
-      <point x="365" y="1352" type="line"/>
-      <point x="107" y="1386" type="line"/>
-      <point x="107" y="1490" type="line"/>
-      <point x="517" y="1513" type="line"/>
-      <point x="549" y="1478" type="line"/>
-      <point x="543" y="754" type="line"/>
-      <point x="543" y="129" type="line"/>
-      <point x="799" y="94" type="line"/>
-      <point x="799" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="94" type="line"/>
+      <point x="360" y="129" type="line"/>
+      <point x="360" y="754" type="line"/>
+      <point x="358" y="1352" type="line"/>
+      <point x="100" y="1386" type="line"/>
+      <point x="100" y="1490" type="line"/>
+      <point x="510" y="1513" type="line"/>
+      <point x="542" y="1478" type="line"/>
+      <point x="536" y="754" type="line"/>
+      <point x="536" y="129" type="line"/>
+      <point x="792" y="94" type="line"/>
+      <point x="792" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

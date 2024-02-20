@@ -5,39 +5,39 @@
   <outline>
     <contour>
       <point x="1656" y="105" type="line"/>
-      <point x="1816" y="105" type="line"/>
-      <point x="1826" y="-318" type="line"/>
-      <point x="1734" y="-318" type="line"/>
-      <point x="1645" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
+      <point x="1656" y="105" type="line"/>
+      <point x="1666" y="-318" type="line"/>
+      <point x="1574" y="-318" type="line"/>
+      <point x="1485" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="80" type="line"/>
       <point x="228" y="115" type="line"/>
       <point x="230" y="500" type="line"/>
       <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
-      <point x="80" y="1000" type="line"/>
-      <point x="536" y="1000" type="line"/>
-      <point x="536" y="920" type="line"/>
+      <point x="228" y="920" type="line"/>
+      <point x="228" y="1000" type="line"/>
+      <point x="398" y="1000" type="line"/>
+      <point x="398" y="920" type="line"/>
       <point x="398" y="885" type="line"/>
       <point x="396" y="500" type="line"/>
       <point x="398" y="105" type="line"/>
       <point x="857" y="105" type="line"/>
       <point x="859" y="500" type="line"/>
       <point x="856" y="885" type="line"/>
-      <point x="719" y="920" type="line"/>
-      <point x="719" y="1000" type="line"/>
-      <point x="1163" y="1000" type="line"/>
-      <point x="1163" y="920" type="line"/>
+      <point x="856" y="920" type="line"/>
+      <point x="856" y="1000" type="line"/>
+      <point x="1026" y="1000" type="line"/>
+      <point x="1026" y="920" type="line"/>
       <point x="1026" y="885" type="line"/>
       <point x="1025" y="500" type="line"/>
       <point x="1027" y="105" type="line"/>
       <point x="1486" y="105" type="line"/>
       <point x="1488" y="500" type="line"/>
       <point x="1486" y="885" type="line"/>
-      <point x="1348" y="920" type="line"/>
-      <point x="1348" y="1000" type="line"/>
-      <point x="1804" y="1000" type="line"/>
-      <point x="1804" y="920" type="line"/>
+      <point x="1486" y="920" type="line"/>
+      <point x="1486" y="1000" type="line"/>
+      <point x="1656" y="1000" type="line"/>
+      <point x="1656" y="920" type="line"/>
       <point x="1656" y="885" type="line"/>
       <point x="1654" y="500" type="line"/>
     </contour>
@@ -46,6 +46,8 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.57340,0.50332</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
+  <advance width="2378"/>
+  <unicode hex="00E6"/>
+  <anchor x="1162" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="124" y="240" type="qcurve" smooth="yes"/>
+      <point x="124" y="385"/>
+      <point x="510" y="583"/>
+      <point x="998" y="625" type="qcurve"/>
+      <point x="1003" y="541" type="line"/>
+      <point x="764" y="508"/>
+      <point x="502" y="391"/>
+      <point x="502" y="256" type="qcurve" smooth="yes"/>
+      <point x="502" y="182"/>
+      <point x="591" y="102"/>
+      <point x="671" y="102" type="qcurve" smooth="yes"/>
+      <point x="756" y="102"/>
+      <point x="951" y="196"/>
+      <point x="997" y="258" type="qcurve"/>
+      <point x="982" y="287"/>
+      <point x="956" y="426"/>
+      <point x="956" y="486" type="qcurve" smooth="yes"/>
+      <point x="956" y="617" type="line" smooth="yes"/>
+      <point x="956" y="793"/>
+      <point x="842" y="907"/>
+      <point x="747" y="907" type="qcurve" smooth="yes"/>
+      <point x="665" y="907"/>
+      <point x="555" y="866"/>
+      <point x="519" y="835" type="qcurve"/>
+      <point x="554" y="811"/>
+      <point x="594" y="763"/>
+      <point x="601" y="731" type="qcurve" smooth="yes"/>
+      <point x="613" y="683"/>
+      <point x="505" y="603"/>
+      <point x="416" y="603" type="qcurve" smooth="yes"/>
+      <point x="323" y="603"/>
+      <point x="204" y="689"/>
+      <point x="204" y="765" type="qcurve" smooth="yes"/>
+      <point x="204" y="883"/>
+      <point x="522" y="1023"/>
+      <point x="729" y="1023" type="qcurve" smooth="yes"/>
+      <point x="917" y="1023"/>
+      <point x="1117" y="925"/>
+      <point x="1156" y="854" type="qcurve"/>
+      <point x="1164" y="854" type="line"/>
+      <point x="1211" y="913"/>
+      <point x="1480" y="1022"/>
+      <point x="1661" y="1022" type="qcurve" smooth="yes"/>
+      <point x="1934" y="1022"/>
+      <point x="2235" y="793"/>
+      <point x="2263" y="588" type="qcurve"/>
+      <point x="2263" y="528" type="line"/>
+      <point x="1311" y="528" type="line"/>
+      <point x="1311" y="624" type="line"/>
+      <point x="1905" y="624" type="line"/>
+      <point x="1887" y="763"/>
+      <point x="1740" y="908"/>
+      <point x="1628" y="908" type="qcurve" smooth="yes"/>
+      <point x="1490" y="908"/>
+      <point x="1336" y="700"/>
+      <point x="1337" y="511" type="qcurve" smooth="yes"/>
+      <point x="1338" y="326"/>
+      <point x="1543" y="108"/>
+      <point x="1763" y="108" type="qcurve" smooth="yes"/>
+      <point x="1884" y="108"/>
+      <point x="2079" y="163"/>
+      <point x="2166" y="224" type="qcurve"/>
+      <point x="2222" y="160" type="line"/>
+      <point x="2154" y="83"/>
+      <point x="1877" y="-22"/>
+      <point x="1682" y="-22" type="qcurve" smooth="yes"/>
+      <point x="1451" y="-22"/>
+      <point x="1181" y="100"/>
+      <point x="1130" y="172" type="qcurve"/>
+      <point x="1059" y="110"/>
+      <point x="739" y="-16"/>
+      <point x="536" y="-16" type="qcurve" smooth="yes"/>
+      <point x="303" y="-16"/>
+      <point x="124" y="140"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

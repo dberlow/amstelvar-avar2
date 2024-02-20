@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De.bgr" format="2">
+  <advance width="1367"/>
+  <outline>
+    <contour>
+      <point x="847" y="1214" type="move"/>
+      <point x="804" y="1328" type="line"/>
+      <point x="794" y="1328" type="line"/>
+      <point x="756" y="1214" type="line"/>
+    </contour>
+  </outline>
+</glyph>

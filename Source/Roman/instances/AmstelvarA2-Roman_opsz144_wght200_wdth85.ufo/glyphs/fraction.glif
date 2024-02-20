@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="420"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-399" y="-28" type="line"/>
+      <point x="797" y="1529" type="line"/>
+      <point x="816" y="1517" type="line"/>
+      <point x="-380" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

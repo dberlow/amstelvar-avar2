@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <advance width="141"/>
+  <unicode hex="0300"/>
+  <anchor x="71" y="1000" name="_top"/>
+  <anchor x="71" y="1497" name="top"/>
+  <outline>
+    <contour>
+      <point x="-164" y="1464" type="qcurve" smooth="yes"/>
+      <point x="-164" y="1488"/>
+      <point x="-122" y="1518"/>
+      <point x="-99" y="1518" type="qcurve" smooth="yes"/>
+      <point x="-73" y="1518"/>
+      <point x="-17" y="1475"/>
+      <point x="8" y="1450" type="qcurve" smooth="yes"/>
+      <point x="245" y="1212" type="line"/>
+      <point x="200" y="1164" type="line"/>
+      <point x="-109" y="1384" type="line" smooth="yes"/>
+      <point x="-138" y="1400"/>
+      <point x="-164" y="1432"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

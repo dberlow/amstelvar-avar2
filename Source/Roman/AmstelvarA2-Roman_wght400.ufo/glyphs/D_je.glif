@@ -2,7 +2,6 @@
 <glyph name="Dje" format="2">
   <advance width="1630"/>
   <unicode hex="0402"/>
-  <guideline x="568" y="625" angle="90" identifier="YDADns81zF"/>
   <outline>
     <contour>
       <point x="1051" y="746" type="qcurve" smooth="yes"/>

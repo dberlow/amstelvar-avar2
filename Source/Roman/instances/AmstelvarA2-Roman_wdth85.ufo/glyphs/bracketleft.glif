@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketleft" format="2">
-  <advance width="557"/>
+  <advance width="539"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="114" y="508" type="line"/>
-      <point x="102" y="1362" type="line"/>
-      <point x="83" y="1382" type="line"/>
-      <point x="83" y="1500" type="line"/>
-      <point x="509" y="1500" type="line"/>
-      <point x="509" y="1381" type="line"/>
-      <point x="278" y="1362" type="line"/>
-      <point x="266" y="508" type="line"/>
-      <point x="278" y="-342" type="line"/>
-      <point x="509" y="-361" type="line"/>
-      <point x="509" y="-480" type="line"/>
-      <point x="83" y="-480" type="line"/>
-      <point x="83" y="-362" type="line"/>
-      <point x="102" y="-342" type="line"/>
+      <point x="102" y="508" type="line"/>
+      <point x="90" y="1362" type="line"/>
+      <point x="71" y="1382" type="line"/>
+      <point x="71" y="1500" type="line"/>
+      <point x="497" y="1500" type="line"/>
+      <point x="497" y="1381" type="line"/>
+      <point x="266" y="1362" type="line"/>
+      <point x="254" y="508" type="line"/>
+      <point x="266" y="-342" type="line"/>
+      <point x="497" y="-361" type="line"/>
+      <point x="497" y="-480" type="line"/>
+      <point x="71" y="-480" type="line"/>
+      <point x="71" y="-362" type="line"/>
+      <point x="90" y="-342" type="line"/>
     </contour>
   </outline>
   <lib>

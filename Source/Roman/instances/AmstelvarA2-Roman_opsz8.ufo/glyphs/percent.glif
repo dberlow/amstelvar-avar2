@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="percent" format="2">
-  <advance width="2246"/>
+  <advance width="2156"/>
   <unicode hex="0025"/>
   <outline>
-    <component base="zerosuperior" xOffset="45"/>
+    <component base="zerosuperior"/>
     <component base="fraction" xOffset="860"/>
-    <component base="zerosuperior" xOffset="1201" yOffset="-671"/>
+    <component base="zerosuperior" xOffset="1156" yOffset="-671"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

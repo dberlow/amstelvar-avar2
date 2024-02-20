@@ -5,10 +5,10 @@
   <anchor x="843.0" y="1500" name="top"/>
   <outline>
     <contour>
-      <point x="64" y="1386" type="line"/>
-      <point x="64" y="1500" type="line"/>
-      <point x="650" y="1500" type="line"/>
-      <point x="650" y="1386" type="line"/>
+      <point x="262" y="1386" type="line"/>
+      <point x="262" y="1500" type="line"/>
+      <point x="443" y="1500" type="line"/>
+      <point x="443" y="1386" type="line"/>
       <point x="443" y="1352" type="line"/>
       <point x="438" y="794" type="line"/>
       <point x="442" y="474" type="line" smooth="yes"/>
@@ -20,8 +20,8 @@
       <point x="1242" y="494" type="qcurve" smooth="yes"/>
       <point x="1244" y="794" type="line"/>
       <point x="1242" y="1352" type="line"/>
-      <point x="1024" y="1386" type="line"/>
-      <point x="1024" y="1500" type="line"/>
+      <point x="1242" y="1386" type="line"/>
+      <point x="1242" y="1500" type="line"/>
       <point x="1382" y="1500" type="line"/>
       <point x="1380" y="794" type="line"/>
       <point x="1383" y="493" type="line" smooth="yes"/>

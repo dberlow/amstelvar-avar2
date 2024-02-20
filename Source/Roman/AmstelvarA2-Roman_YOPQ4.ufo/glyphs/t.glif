@@ -16,8 +16,8 @@
       <point x="341" y="1180" type="line"/>
       <point x="374" y="1140" type="line"/>
       <point x="367" y="966" type="line"/>
-      <point x="580" y="966" type="line"/>
-      <point x="580" y="959" type="line"/>
+      <point x="580" y="967" type="line"/>
+      <point x="580" y="955" type="line"/>
       <point x="367" y="959" type="line"/>
       <point x="357" y="527" type="line"/>
       <point x="361" y="143" type="line" smooth="yes"/>
@@ -67,8 +67,6 @@
           <string>YOLC</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

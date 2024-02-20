@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="1627"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="556" y="653" type="line" smooth="yes"/>
+      <point x="556" y="533"/>
+      <point x="671" y="435"/>
+      <point x="799" y="435" type="qcurve" smooth="yes"/>
+      <point x="885" y="435"/>
+      <point x="1033" y="466"/>
+      <point x="1113" y="499" type="qcurve"/>
+      <point x="1113" y="459" type="line"/>
+      <point x="1015" y="425"/>
+      <point x="809" y="393"/>
+      <point x="671" y="393" type="qcurve" smooth="yes"/>
+      <point x="451" y="393"/>
+      <point x="202" y="545"/>
+      <point x="200" y="711" type="qcurve" smooth="yes"/>
+      <point x="198" y="917" type="line"/>
+      <point x="76" y="952" type="line"/>
+      <point x="76" y="1000" type="line"/>
+      <point x="671" y="1000" type="line"/>
+      <point x="671" y="952" type="line"/>
+      <point x="557" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="1371" y="0" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="898" y="48" type="line"/>
+      <point x="1028" y="83" type="line"/>
+      <point x="1030" y="442" type="line"/>
+      <point x="1028" y="917" type="line"/>
+      <point x="914" y="952" type="line"/>
+      <point x="914" y="1000" type="line"/>
+      <point x="1509" y="1000" type="line"/>
+      <point x="1509" y="952" type="line"/>
+      <point x="1387" y="917" type="line"/>
+      <point x="1385" y="500" type="line"/>
+      <point x="1387" y="105" type="line"/>
+      <point x="1508" y="105" type="line"/>
+      <point x="1515" y="-212" type="line"/>
+      <point x="1431" y="-212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

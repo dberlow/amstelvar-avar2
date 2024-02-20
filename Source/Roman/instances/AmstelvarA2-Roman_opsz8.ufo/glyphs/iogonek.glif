@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="771"/>
+  <advance width="681"/>
   <unicode hex="012F"/>
   <outline>
-    <component base="idotless" xOffset="-63"/>
-    <component base="idot" xOffset="323" yOffset="51"/>
-    <component base="ogonekcomb" xOffset="431"/>
+    <component base="idotless"/>
+    <component base="idot" xOffset="342" yOffset="51"/>
+    <component base="ogonekcomb" xOffset="712"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

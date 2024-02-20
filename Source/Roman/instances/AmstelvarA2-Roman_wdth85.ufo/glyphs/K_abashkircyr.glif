@@ -2,17 +2,16 @@
 <glyph name="Kabashkircyr" format="2">
   <advance width="1675"/>
   <unicode hex="04A0"/>
-  <guideline x="480" y="796" angle="90.0" identifier="UonMLy8RzJ"/>
   <outline>
     <contour>
       <point x="618" y="716" type="line"/>
       <point x="618" y="846" type="line"/>
       <point x="890" y="842" type="line"/>
       <point x="1277" y="1338" type="line"/>
-      <point x="1129" y="1386" type="line"/>
-      <point x="1129" y="1500" type="line"/>
-      <point x="1624" y="1500" type="line"/>
-      <point x="1624" y="1386" type="line"/>
+      <point x="1140" y="1386" type="line"/>
+      <point x="1140" y="1500" type="line"/>
+      <point x="1611" y="1500" type="line"/>
+      <point x="1611" y="1386" type="line"/>
       <point x="1445" y="1338" type="line"/>
       <point x="966" y="746" type="line"/>
       <point x="924" y="716" type="line"/>
@@ -21,27 +20,27 @@
       <point x="873" y="741" type="line"/>
       <point x="984" y="859" type="line"/>
       <point x="1553" y="135" type="line"/>
-      <point x="1710" y="100" type="line"/>
-      <point x="1710" y="0" type="line"/>
-      <point x="1181" y="0" type="line"/>
-      <point x="1181" y="100" type="line"/>
+      <point x="1697" y="100" type="line"/>
+      <point x="1697" y="0" type="line"/>
+      <point x="1194" y="0" type="line"/>
+      <point x="1194" y="100" type="line"/>
       <point x="1349" y="135" type="line"/>
     </contour>
     <contour>
       <point x="530" y="1384" type="line"/>
-      <point x="185" y="1384" type="line"/>
-      <point x="150" y="1053" type="line"/>
-      <point x="40" y="1053" type="line"/>
-      <point x="40" y="1500" type="line"/>
-      <point x="904" y="1500" type="line"/>
-      <point x="904" y="1386" type="line"/>
+      <point x="184" y="1384" type="line"/>
+      <point x="150" y="1058" type="line"/>
+      <point x="41" y="1058" type="line"/>
+      <point x="41" y="1500" type="line"/>
+      <point x="889" y="1500" type="line"/>
+      <point x="889" y="1386" type="line"/>
       <point x="706" y="1352" type="line"/>
       <point x="704" y="754" type="line"/>
       <point x="706" y="135" type="line"/>
-      <point x="914" y="100" type="line"/>
-      <point x="914" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
-      <point x="322" y="100" type="line"/>
+      <point x="898" y="100" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="338" y="100" type="line"/>
       <point x="530" y="135" type="line"/>
       <point x="532" y="754" type="line"/>
     </contour>

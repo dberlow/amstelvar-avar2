@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="404"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="-19" y="634" type="qcurve"/>
+      <point x="-16" y="638"/>
+      <point x="230" y="985"/>
+      <point x="276" y="1049" type="qcurve" smooth="yes"/>
+      <point x="329" y="1118"/>
+      <point x="430" y="1055"/>
+      <point x="399" y="987" type="qcurve" smooth="yes"/>
+      <point x="348" y="827"/>
+      <point x="306" y="637"/>
+      <point x="303" y="637" type="qcurve"/>
+      <point x="306" y="637"/>
+      <point x="361" y="438"/>
+      <point x="410" y="284" type="qcurve" smooth="yes"/>
+      <point x="442" y="217"/>
+      <point x="342" y="150"/>
+      <point x="290" y="219" type="qcurve" smooth="yes"/>
+      <point x="243" y="287"/>
+      <point x="-17" y="630"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

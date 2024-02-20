@@ -6,6 +6,8 @@
     <string>_notdef.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>Ef</key>
@@ -14,12 +16,18 @@
     <string>F_.glif</string>
     <key>J</key>
     <string>J_.glif</string>
+    <key>Lambda</key>
+    <string>L_ambda.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
     <key>Psi</key>
     <string>P_si.glif</string>
     <key>Shha</key>
     <string>S_hha.glif</string>
+    <key>Sigma</key>
+    <string>S_igma.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>Yu</key>
@@ -86,8 +94,14 @@
     <string>dotaccentcomb.case.glif</string>
     <key>dotbelowcomb.case</key>
     <string>dotbelowcomb.case.glif</string>
+    <key>ecyr</key>
+    <string>ecyr.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>finalsigma</key>
+    <string>finalsigma.glif</string>
+    <key>germandbls</key>
+    <string>germandbls.glif</string>
     <key>gravecomb-stack</key>
     <string>gravecomb-stack.glif</string>
     <key>gravecomb-stack.case</key>
@@ -148,5 +162,7 @@
     <string>yi-dieresiscomb.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>ze</key>
+    <string>ze.glif</string>
   </dict>
 </plist>

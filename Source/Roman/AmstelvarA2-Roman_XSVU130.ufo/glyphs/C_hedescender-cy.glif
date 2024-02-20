@@ -28,10 +28,10 @@
     </contour>
     <contour>
       <point x="1388" y="108" type="line"/>
-      <point x="1596" y="108" type="line"/>
-      <point x="1606" y="-338" type="line"/>
-      <point x="1484" y="-338" type="line"/>
-      <point x="1415" y="0" type="line"/>
+      <point x="1646" y="108" type="line"/>
+      <point x="1656" y="-338" type="line"/>
+      <point x="1384" y="-338" type="line"/>
+      <point x="1315" y="0" type="line"/>
       <point x="980" y="0" type="line"/>
       <point x="980" y="100" type="line"/>
       <point x="1208" y="135" type="line"/>

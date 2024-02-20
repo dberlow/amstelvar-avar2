@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>cedi.rvrn</key>
+    <string>cedi.rvrn.glif</string>
+    <key>eightsuperior</key>
+    <string>eightsuperior.glif</string>
+    <key>fivesuperior</key>
+    <string>fivesuperior.glif</string>
+    <key>foursuperior</key>
+    <string>foursuperior.glif</string>
+    <key>ninesuperior</key>
+    <string>ninesuperior.glif</string>
+    <key>onesuperior</key>
+    <string>onesuperior.glif</string>
+    <key>sevensuperior</key>
+    <string>sevensuperior.glif</string>
+    <key>sixsuperior</key>
+    <string>sixsuperior.glif</string>
+    <key>threesuperior</key>
+    <string>threesuperior.glif</string>
+    <key>twosuperior</key>
+    <string>twosuperior.glif</string>
+    <key>zhedescender</key>
+    <string>zhedescender.glif</string>
+  </dict>
+</plist>

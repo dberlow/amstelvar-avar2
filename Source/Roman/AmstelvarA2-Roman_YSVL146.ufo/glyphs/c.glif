@@ -17,7 +17,7 @@
       <point x="804" y="1006" type="line"/>
       <point x="899" y="1006" type="line"/>
       <point x="899" y="715" type="line"/>
-      <point x="785" y="715" type="line"/>
+      <point x="802" y="715" type="line"/>
       <point x="785" y="715" type="line"/>
       <point x="761" y="800"/>
       <point x="653" y="911"/>
@@ -109,8 +109,6 @@
       </dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

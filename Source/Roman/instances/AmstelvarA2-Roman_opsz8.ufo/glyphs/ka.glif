@@ -1,55 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ka" format="2">
-  <advance width="1256"/>
+  <advance width="1272"/>
   <unicode hex="043A"/>
-  <guideline x="241" y="553" angle="90.0" identifier="lmgRx0QBdK"/>
-  <guideline x="786" y="880" angle="0.0" identifier="nFoPGEsufr"/>
-  <anchor x="657" y="0" name="bottom"/>
-  <anchor x="657" y="1000" name="top"/>
+  <anchor x="659" y="0" name="bottom"/>
+  <anchor x="659" y="1000" name="top"/>
   <outline>
     <contour>
-      <point x="579" y="484" type="line"/>
-      <point x="682" y="586" type="line"/>
-      <point x="1079" y="115" type="line"/>
-      <point x="1197" y="80" type="line"/>
-      <point x="1197" y="0" type="line"/>
-      <point x="898" y="0" type="line"/>
-      <point x="886" y="79" type="line"/>
-      <point x="895" y="111" type="line"/>
+      <point x="230" y="500" type="line"/>
+      <point x="228" y="829" type="line"/>
+      <point x="80" y="864" type="line"/>
+      <point x="80" y="1000" type="line"/>
+      <point x="578" y="1000" type="line"/>
+      <point x="578" y="864" type="line"/>
+      <point x="440" y="829" type="line"/>
+      <point x="438" y="500" type="line"/>
+      <point x="440" y="171" type="line"/>
+      <point x="578" y="136" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="136" type="line"/>
+      <point x="228" y="171" type="line"/>
     </contour>
     <contour>
-      <point x="358" y="567" type="line"/>
-      <point x="587" y="564" type="line"/>
-      <point x="883" y="880" type="line"/>
-      <point x="716" y="920" type="line"/>
+      <point x="354" y="586" type="line"/>
+      <point x="605" y="584" type="line"/>
+      <point x="827" y="821" type="line"/>
+      <point x="716" y="859" type="line"/>
       <point x="716" y="1000" type="line"/>
-      <point x="1162" y="1000" type="line"/>
-      <point x="1162" y="921" type="line"/>
-      <point x="1004" y="875" type="line"/>
-      <point x="611" y="464" type="line"/>
-      <point x="358" y="462" type="line"/>
+      <point x="1202" y="1000" type="line"/>
+      <point x="1202" y="862" type="line"/>
+      <point x="987" y="816" type="line"/>
+      <point x="657" y="470" type="line"/>
+      <point x="663" y="446" type="line"/>
+      <point x="354" y="444" type="line"/>
     </contour>
     <contour>
-      <point x="275" y="500" type="line"/>
-      <point x="273" y="885" type="line"/>
-      <point x="125" y="920" type="line"/>
-      <point x="125" y="1000" type="line"/>
-      <point x="581" y="1000" type="line"/>
-      <point x="581" y="920" type="line"/>
-      <point x="443" y="885" type="line"/>
-      <point x="441" y="500" type="line"/>
-      <point x="443" y="115" type="line"/>
-      <point x="581" y="80" type="line"/>
-      <point x="581" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="125" y="80" type="line"/>
-      <point x="273" y="115" type="line"/>
+      <point x="580" y="491" type="line"/>
+      <point x="738" y="583" type="line"/>
+      <point x="1085" y="171" type="line"/>
+      <point x="1251" y="136" type="line"/>
+      <point x="1251" y="0" type="line"/>
+      <point x="905" y="0" type="line"/>
+      <point x="855" y="135" type="line"/>
+      <point x="854" y="167" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
     </dict>
   </lib>
 </glyph>

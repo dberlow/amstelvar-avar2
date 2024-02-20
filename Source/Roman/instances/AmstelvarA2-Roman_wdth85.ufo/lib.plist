@@ -5,10 +5,6 @@
     <key>designspace.location</key>
     <array>
       <array>
-        <string>XTSP</string>
-        <real>-30.0</real>
-      </array>
-      <array>
         <string>XOPQ</string>
         <real>88.0</real>
       </array>
@@ -50,11 +46,11 @@
       </array>
       <array>
         <string>XSVU</string>
-        <real>55.0</real>
+        <real>54.0</real>
       </array>
       <array>
         <string>YSVU</string>
-        <real>114.0</real>
+        <real>172.0</real>
       </array>
       <array>
         <string>XSHL</string>
@@ -70,7 +66,7 @@
       </array>
       <array>
         <string>YSVL</string>
-        <real>176.0</real>
+        <real>178.0</real>
       </array>
       <array>
         <string>XSHF</string>
@@ -82,11 +78,11 @@
       </array>
       <array>
         <string>XSVF</string>
-        <real>61.0</real>
+        <real>60.0</real>
       </array>
       <array>
         <string>YSVF</string>
-        <real>194.0</real>
+        <real>196.0</real>
       </array>
       <array>
         <string>XTTW</string>
@@ -99,6 +95,10 @@
       <array>
         <string>YTOS</string>
         <real>10.0</real>
+      </array>
+      <array>
+        <string>XUCS</string>
+        <real>130.0</real>
       </array>
     </array>
     <key>public.glyphOrder</key>
@@ -216,7 +216,6 @@
       <string>twosuperior</string>
       <string>threesuperior</string>
       <string>acute</string>
-      <string>mu</string>
       <string>paragraph</string>
       <string>periodcentered</string>
       <string>cedilla</string>
@@ -844,77 +843,7 @@
       <string>horizontalbarlc</string>
       <string>diagonalbarO.rvrn</string>
       <string>diagonalbaro.rvrn</string>
-      <string>Alpha</string>
-      <string>Alphatonos</string>
-      <string>Beta</string>
-      <string>Gamma</string>
-      <string>Delta</string>
-      <string>Epsilon</string>
-      <string>Epsilontonos</string>
-      <string>Zeta</string>
-      <string>Eta</string>
-      <string>Etatonos</string>
-      <string>Theta</string>
-      <string>Iota</string>
-      <string>Iotatonos</string>
-      <string>Iotadieresis</string>
-      <string>Kappa</string>
-      <string>Lambda</string>
-      <string>Mu</string>
-      <string>Nu</string>
-      <string>Xi</string>
-      <string>Omicron</string>
-      <string>Omicrontonos</string>
-      <string>Pi</string>
-      <string>Rho</string>
-      <string>Sigma</string>
-      <string>Tau</string>
-      <string>Upsilon</string>
-      <string>Upsilontonos</string>
-      <string>Upsilondieresis</string>
-      <string>Phi</string>
-      <string>Chi</string>
-      <string>Psi</string>
-      <string>Omega</string>
-      <string>Omegatonos</string>
-      <string>Kaisymbol</string>
       <string>ohm</string>
-      <string>alpha</string>
-      <string>alphatonos</string>
-      <string>beta</string>
-      <string>gamma</string>
-      <string>delta</string>
-      <string>epsilon</string>
-      <string>epsilontonos</string>
-      <string>zeta</string>
-      <string>eta</string>
-      <string>etatonos</string>
-      <string>theta</string>
-      <string>iota</string>
-      <string>iotadieresistonos</string>
-      <string>iotatonos</string>
-      <string>iotadieresis</string>
-      <string>kappa</string>
-      <string>lambda</string>
-      <string>nu</string>
-      <string>xi</string>
-      <string>omicron</string>
-      <string>omicrontonos</string>
-      <string>pi</string>
-      <string>rho</string>
-      <string>finalsigma</string>
-      <string>sigma</string>
-      <string>tau</string>
-      <string>upsilon</string>
-      <string>upsilondieresistonos</string>
-      <string>upsilondieresis</string>
-      <string>upsilontonos</string>
-      <string>phi</string>
-      <string>chi</string>
-      <string>psi</string>
-      <string>omega</string>
-      <string>omegatonos</string>
-      <string>kaisymbol</string>
       <string>numeralsign</string>
       <string>lownumeralsign</string>
       <string>gr:question</string>
@@ -1143,6 +1072,78 @@
       <string>kai-tail</string>
       <string>ustraight-stroke</string>
       <string>yu.bgr-stroke</string>
+      <string>periodcentered.loclCAT.case</string>
+      <string>Alpha</string>
+      <string>Alphatonos</string>
+      <string>Beta</string>
+      <string>Gamma</string>
+      <string>Delta</string>
+      <string>Epsilon</string>
+      <string>Epsilontonos</string>
+      <string>Zeta</string>
+      <string>Eta</string>
+      <string>Etatonos</string>
+      <string>Theta</string>
+      <string>Iota</string>
+      <string>Iotatonos</string>
+      <string>Iotadieresis</string>
+      <string>Kappa</string>
+      <string>Lambda</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Xi</string>
+      <string>Omicron</string>
+      <string>Omicrontonos</string>
+      <string>Pi</string>
+      <string>Rho</string>
+      <string>Sigma</string>
+      <string>Tau</string>
+      <string>Upsilon</string>
+      <string>Upsilontonos</string>
+      <string>Upsilondieresis</string>
+      <string>Phi</string>
+      <string>Chi</string>
+      <string>Psi</string>
+      <string>Omega</string>
+      <string>Omegatonos</string>
+      <string>Kaisymbol</string>
+      <string>mu</string>
+      <string>alpha</string>
+      <string>alphatonos</string>
+      <string>beta</string>
+      <string>gamma</string>
+      <string>delta</string>
+      <string>epsilon</string>
+      <string>epsilontonos</string>
+      <string>zeta</string>
+      <string>eta</string>
+      <string>etatonos</string>
+      <string>theta</string>
+      <string>iota</string>
+      <string>iotadieresistonos</string>
+      <string>iotatonos</string>
+      <string>iotadieresis</string>
+      <string>kappa</string>
+      <string>lambda</string>
+      <string>nu</string>
+      <string>xi</string>
+      <string>omicron</string>
+      <string>omicrontonos</string>
+      <string>pi</string>
+      <string>rho</string>
+      <string>finalsigma</string>
+      <string>sigma</string>
+      <string>tau</string>
+      <string>upsilon</string>
+      <string>upsilondieresistonos</string>
+      <string>upsilondieresis</string>
+      <string>upsilontonos</string>
+      <string>phi</string>
+      <string>chi</string>
+      <string>psi</string>
+      <string>omega</string>
+      <string>omegatonos</string>
+      <string>kaisymbol</string>
     </array>
   </dict>
 </plist>

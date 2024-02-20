@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beta" format="2">
+  <advance width="1103"/>
+  <unicode hex="03B2"/>
+  <outline>
+    <contour>
+      <point x="178" y="-480" type="line"/>
+      <point x="153" y="-444" type="line"/>
+      <point x="164" y="141" type="line"/>
+      <point x="164" y="395" type="line"/>
+      <point x="161" y="1078" type="line" smooth="yes"/>
+      <point x="160" y="1291"/>
+      <point x="370" y="1537"/>
+      <point x="558" y="1537" type="qcurve"/>
+      <point x="733" y="1537"/>
+      <point x="929" y="1336"/>
+      <point x="929" y="1186" type="qcurve"/>
+      <point x="929" y="1096"/>
+      <point x="836" y="919"/>
+      <point x="743" y="866" type="qcurve"/>
+      <point x="743" y="859" type="line"/>
+      <point x="882" y="813"/>
+      <point x="1035" y="606"/>
+      <point x="1035" y="453" type="qcurve"/>
+      <point x="1035" y="267"/>
+      <point x="773" y="-12"/>
+      <point x="567" y="-12" type="qcurve"/>
+      <point x="482" y="-12"/>
+      <point x="332" y="60"/>
+      <point x="303" y="89" type="qcurve"/>
+      <point x="311" y="-459" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="91" type="qcurve"/>
+      <point x="708" y="91"/>
+      <point x="878" y="274"/>
+      <point x="878" y="451" type="qcurve"/>
+      <point x="878" y="602"/>
+      <point x="735" y="773"/>
+      <point x="643" y="787" type="qcurve"/>
+      <point x="460" y="772" type="line"/>
+      <point x="435" y="808" type="line"/>
+      <point x="449" y="926" type="line"/>
+      <point x="643" y="911" type="line"/>
+      <point x="720" y="944"/>
+      <point x="795" y="1073"/>
+      <point x="795" y="1174" type="qcurve"/>
+      <point x="795" y="1289"/>
+      <point x="666" y="1424"/>
+      <point x="559" y="1424" type="qcurve"/>
+      <point x="428" y="1424"/>
+      <point x="304" y="1258"/>
+      <point x="304" y="1077" type="qcurve"/>
+      <point x="304" y="239" type="line"/>
+      <point x="336" y="180"/>
+      <point x="487" y="91"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

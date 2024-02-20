@@ -5,7 +5,10 @@
     <contour>
       <point x="1208" y="17" type="line"/>
       <point x="954" y="699" type="line"/>
-      <point x="718" y="1332" type="line"/>
+      <point x="760" y="1218" type="line"/>
+      <point x="723" y="1332" type="line"/>
+      <point x="713" y="1332" type="line"/>
+      <point x="674" y="1218" type="line"/>
       <point x="472" y="695" type="line"/>
       <point x="219" y="17" type="line"/>
       <point x="210" y="17" type="line"/>
@@ -30,6 +33,8 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_YOPQ4.ufo/glyphs</string>
     </dict>
   </lib>
 </glyph>

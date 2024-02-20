@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="387"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="-13" y="183" type="qcurve" smooth="yes"/>
+      <point x="-13" y="267"/>
+      <point x="103" y="390"/>
+      <point x="193" y="390" type="qcurve" smooth="yes"/>
+      <point x="284" y="390"/>
+      <point x="400" y="267"/>
+      <point x="400" y="183" type="qcurve" smooth="yes"/>
+      <point x="400" y="101"/>
+      <point x="284" y="-22"/>
+      <point x="193" y="-22" type="qcurve" smooth="yes"/>
+      <point x="103" y="-22"/>
+      <point x="-13" y="101"/>
+    </contour>
+    <contour>
+      <point x="10" y="1343" type="line" smooth="yes"/>
+      <point x="2" y="1411"/>
+      <point x="82" y="1546"/>
+      <point x="189" y="1547" type="qcurve" smooth="yes"/>
+      <point x="297" y="1548"/>
+      <point x="384" y="1413"/>
+      <point x="377" y="1344" type="qcurve" smooth="yes"/>
+      <point x="356" y="1108" type="line"/>
+      <point x="271" y="800" type="line"/>
+      <point x="244" y="512" type="line"/>
+      <point x="141" y="512" type="line"/>
+      <point x="114" y="800" type="line"/>
+      <point x="31" y="1108" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 6</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XDOT</string>
+        </dict>
+        <key>3 9</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YDOT</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

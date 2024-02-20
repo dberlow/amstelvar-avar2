@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lj" format="2">
+  <advance width="1660"/>
+  <outline>
+    <component base="L"/>
+    <component base="jdotless" xOffset="1104"/>
+    <component base="idot" xOffset="1230.0000000000114"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.5,1,0.8</string>
+    </dict>
+  </lib>
+</glyph>

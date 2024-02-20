@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <advance width="1298"/>
+  <unicode hex="030C"/>
+  <anchor x="648" y="1000" name="_top"/>
+  <anchor x="648" y="1511" name="top"/>
+  <outline>
+    <contour>
+      <point x="648" y="1122" type="qcurve" smooth="yes"/>
+      <point x="614" y="1122"/>
+      <point x="569" y="1153"/>
+      <point x="538" y="1195" type="qcurve" smooth="yes"/>
+      <point x="335" y="1438" type="line"/>
+      <point x="413" y="1511" type="line"/>
+      <point x="648" y="1296" type="line"/>
+      <point x="883" y="1511" type="line"/>
+      <point x="961" y="1438" type="line"/>
+      <point x="758" y="1195" type="line" smooth="yes"/>
+      <point x="717" y="1146"/>
+      <point x="682" y="1122"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sigma" format="2">
+  <advance width="1188"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="40" y="92" type="line"/>
+      <point x="536" y="722" type="line"/>
+      <point x="536" y="732" type="line"/>
+      <point x="90" y="1410" type="line"/>
+      <point x="90" y="1500" type="line"/>
+      <point x="1118" y="1500" type="line"/>
+      <point x="1118" y="1042" type="line"/>
+      <point x="990" y="1042" type="line"/>
+      <point x="954" y="1382" type="line"/>
+      <point x="304" y="1382" type="line"/>
+      <point x="295" y="1374" type="line"/>
+      <point x="696" y="761" type="line"/>
+      <point x="696" y="684" type="line"/>
+      <point x="250" y="114" type="line"/>
+      <point x="258" y="108" type="line"/>
+      <point x="956" y="108" type="line"/>
+      <point x="1044" y="434" type="line"/>
+      <point x="1172" y="434" type="line"/>
+      <point x="1119" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

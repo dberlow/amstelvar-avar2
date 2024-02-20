@@ -22,10 +22,10 @@
       <point x="335" y="667"/>
       <point x="425" y="667" type="qcurve" smooth="yes"/>
       <point x="522" y="667"/>
-      <point x="626" y="884"/>
-      <point x="626" y="1090" type="qcurve" smooth="yes"/>
-      <point x="626" y="1279"/>
-      <point x="518" y="1495"/>
+      <point x="625" y="884"/>
+      <point x="625" y="1090" type="qcurve" smooth="yes"/>
+      <point x="625" y="1279"/>
+      <point x="517" y="1495"/>
       <point x="426" y="1495" type="qcurve" smooth="yes"/>
       <point x="329" y="1495"/>
       <point x="225" y="1302"/>

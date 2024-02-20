@@ -1,0 +1,1403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="XOPQ" name="XOPQ" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XTRA" name="XTRA" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YOPQ" name="YOPQ" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTUC" name="YTUC" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTLC" name="YTLC" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTAS" name="YTAS" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTDE" name="YTDE" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTFI" name="YTFI" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XSHU" name="XSHU" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YSHU" name="YSHU" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XSVU" name="XSVU" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YSVU" name="YSVU" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XSHL" name="XSHL" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YSHL" name="YSHL" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XSVL" name="XSVL" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YSVL" name="YSVL" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XSHF" name="XSHF" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YSHF" name="YSHF" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XSVF" name="XSVF" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YSVF" name="YSVF" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XTTW" name="XTTW" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTTL" name="YTTL" minimum="-1" maximum="1" default="0"/>
+    <axis tag="YTOS" name="YTOS" minimum="-1" maximum="1" default="0"/>
+    <axis tag="XUCS" name="XUCS" minimum="-1" maximum="1" default="0"/>
+  </axes>
+  <sources>
+    <source filename="AmstelvarA2-Italic_wght400.ufo" familyname="AmstelvarA2" stylename="wght400">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XOPQmin.ufo" familyname="AmstelvarA2" stylename="XOPQmin">
+      <location>
+        <dimension name="XOPQ" xvalue="-1"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XOPQmax.ufo" familyname="AmstelvarA2" stylename="XOPQmax">
+      <location>
+        <dimension name="XOPQ" xvalue="1"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XTRAmin.ufo" familyname="AmstelvarA2" stylename="XTRAmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="-1"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XTRAmax.ufo" familyname="AmstelvarA2" stylename="XTRAmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="1"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YOPQmin.ufo" familyname="AmstelvarA2" stylename="YOPQmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="-1"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YOPQmax.ufo" familyname="AmstelvarA2" stylename="YOPQmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="1"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTUCmin.ufo" familyname="AmstelvarA2" stylename="YTUCmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="-1"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTUCmax.ufo" familyname="AmstelvarA2" stylename="YTUCmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="1"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTLCmin.ufo" familyname="AmstelvarA2" stylename="YTLCmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="-1"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTLCmax.ufo" familyname="AmstelvarA2" stylename="YTLCmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="1"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTASmin.ufo" familyname="AmstelvarA2" stylename="YTASmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="-1"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTASmax.ufo" familyname="AmstelvarA2" stylename="YTASmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="1"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTDEmin.ufo" familyname="AmstelvarA2" stylename="YTDEmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="-1"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTDEmax.ufo" familyname="AmstelvarA2" stylename="YTDEmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="1"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTFImin.ufo" familyname="AmstelvarA2" stylename="YTFImin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="-1"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTFImax.ufo" familyname="AmstelvarA2" stylename="YTFImax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="1"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSHUmin.ufo" familyname="AmstelvarA2" stylename="XSHUmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="-1"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSHUmax.ufo" familyname="AmstelvarA2" stylename="XSHUmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="1"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSHUmin.ufo" familyname="AmstelvarA2" stylename="YSHUmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="-1"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSHUmax.ufo" familyname="AmstelvarA2" stylename="YSHUmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="1"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSVUmin.ufo" familyname="AmstelvarA2" stylename="XSVUmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="-1"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSVUmax.ufo" familyname="AmstelvarA2" stylename="XSVUmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="1"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSVUmin.ufo" familyname="AmstelvarA2" stylename="YSVUmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="-1"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSVUmax.ufo" familyname="AmstelvarA2" stylename="YSVUmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="1"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSHLmin.ufo" familyname="AmstelvarA2" stylename="XSHLmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="-1"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSHLmax.ufo" familyname="AmstelvarA2" stylename="XSHLmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="1"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSHLmin.ufo" familyname="AmstelvarA2" stylename="YSHLmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="-1"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSHLmax.ufo" familyname="AmstelvarA2" stylename="YSHLmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="1"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSVLmin.ufo" familyname="AmstelvarA2" stylename="XSVLmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="-1"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSVLmax.ufo" familyname="AmstelvarA2" stylename="XSVLmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="1"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSVLmin.ufo" familyname="AmstelvarA2" stylename="YSVLmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="-1"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSVLmax.ufo" familyname="AmstelvarA2" stylename="YSVLmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="1"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSHFmin.ufo" familyname="AmstelvarA2" stylename="XSHFmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="-1"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSHFmax.ufo" familyname="AmstelvarA2" stylename="XSHFmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="1"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSHFmin.ufo" familyname="AmstelvarA2" stylename="YSHFmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="-1"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSHFmax.ufo" familyname="AmstelvarA2" stylename="YSHFmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="1"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSVFmin.ufo" familyname="AmstelvarA2" stylename="XSVFmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="-1"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XSVFmax.ufo" familyname="AmstelvarA2" stylename="XSVFmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="1"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSVFmin.ufo" familyname="AmstelvarA2" stylename="YSVFmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="-1"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YSVFmax.ufo" familyname="AmstelvarA2" stylename="YSVFmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="1"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XTTWmin.ufo" familyname="AmstelvarA2" stylename="XTTWmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="-1"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XTTWmax.ufo" familyname="AmstelvarA2" stylename="XTTWmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="1"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTTLmin.ufo" familyname="AmstelvarA2" stylename="YTTLmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="-1"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTTLmax.ufo" familyname="AmstelvarA2" stylename="YTTLmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="1"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTOSmin.ufo" familyname="AmstelvarA2" stylename="YTOSmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="-1"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_YTOSmax.ufo" familyname="AmstelvarA2" stylename="YTOSmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="1"/>
+        <dimension name="XUCS" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XUCSmin.ufo" familyname="AmstelvarA2" stylename="XUCSmin">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Italic_XUCSmax.ufo" familyname="AmstelvarA2" stylename="XUCSmax">
+      <location>
+        <dimension name="XOPQ" xvalue="0"/>
+        <dimension name="XTRA" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="0"/>
+        <dimension name="YTUC" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
+        <dimension name="YTAS" xvalue="0"/>
+        <dimension name="YTDE" xvalue="0"/>
+        <dimension name="YTFI" xvalue="0"/>
+        <dimension name="XSHU" xvalue="0"/>
+        <dimension name="YSHU" xvalue="0"/>
+        <dimension name="XSVU" xvalue="0"/>
+        <dimension name="YSVU" xvalue="0"/>
+        <dimension name="XSHL" xvalue="0"/>
+        <dimension name="YSHL" xvalue="0"/>
+        <dimension name="XSVL" xvalue="0"/>
+        <dimension name="YSVL" xvalue="0"/>
+        <dimension name="XSHF" xvalue="0"/>
+        <dimension name="YSHF" xvalue="0"/>
+        <dimension name="XSVF" xvalue="0"/>
+        <dimension name="YSVF" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="XUCS" xvalue="1"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

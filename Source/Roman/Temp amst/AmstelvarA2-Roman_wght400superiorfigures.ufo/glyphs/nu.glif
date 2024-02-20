@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance width="1029"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="482" y="-8" type="line"/>
+      <point x="296" y="481" type="line"/>
+      <point x="165" y="808" type="line" smooth="yes"/>
+      <point x="150" y="846"/>
+      <point x="118" y="870"/>
+      <point x="87" y="876" type="qcurve" smooth="yes"/>
+      <point x="10" y="891" type="line"/>
+      <point x="10" y="971" type="line"/>
+      <point x="190" y="1008" type="line"/>
+      <point x="226" y="1008"/>
+      <point x="279" y="962"/>
+      <point x="300" y="904" type="qcurve" smooth="yes"/>
+      <point x="433" y="535" type="line"/>
+      <point x="516" y="301" type="line"/>
+      <point x="553" y="187" type="line"/>
+      <point x="563" y="187" type="line"/>
+      <point x="600" y="301" type="line"/>
+      <point x="686" y="539" type="line"/>
+      <point x="823" y="979" type="line"/>
+      <point x="984" y="1000" type="line"/>
+      <point x="1009" y="964" type="line"/>
+      <point x="791" y="498" type="line"/>
+      <point x="604" y="-8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

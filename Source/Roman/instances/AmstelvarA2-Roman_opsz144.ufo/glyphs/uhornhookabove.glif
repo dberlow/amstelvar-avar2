@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhornhookabove" format="2">
-  <advance width="1135"/>
+  <advance width="1076"/>
   <unicode hex="1EED"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="912" yOffset="-80"/>
-    <component base="hookabovecomb" xOffset="405" yOffset="-80"/>
+    <component base="horncomb" xOffset="886" yOffset="-80"/>
+    <component base="hookabovecomb" xOffset="81" yOffset="-80"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.lc" format="2">
-  <advance width="891"/>
+  <advance width="961"/>
   <outline>
     <contour>
-      <point x="37" y="0" type="line"/>
-      <point x="37" y="89" type="line"/>
-      <point x="395" y="124" type="line"/>
-      <point x="395" y="544" type="line"/>
-      <point x="393" y="937" type="line"/>
-      <point x="35" y="971" type="line"/>
-      <point x="35" y="1070" type="line"/>
-      <point x="540" y="1093" type="line"/>
-      <point x="572" y="1058" type="line"/>
-      <point x="566" y="544" type="line"/>
-      <point x="566" y="124" type="line"/>
-      <point x="924" y="89" type="line"/>
-      <point x="924" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="52" y="89" type="line"/>
+      <point x="430" y="124" type="line"/>
+      <point x="430" y="544" type="line"/>
+      <point x="428" y="937" type="line"/>
+      <point x="50" y="971" type="line"/>
+      <point x="50" y="1070" type="line"/>
+      <point x="575" y="1093" type="line"/>
+      <point x="607" y="1058" type="line"/>
+      <point x="601" y="544" type="line"/>
+      <point x="601" y="124" type="line"/>
+      <point x="979" y="89" type="line"/>
+      <point x="979" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

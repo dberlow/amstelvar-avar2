@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu.bgr" format="2">
+  <advance width="1945"/>
+  <outline>
+    <component base="l"/>
+    <component base="yu.bgr-stroke" xOffset="120"/>
+    <component base="o" xOffset="558"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

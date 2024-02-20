@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <advance width="539"/>
+  <unicode hex="032E"/>
+  <anchor x="269" y="0" name="_bottom"/>
+  <anchor x="269" y="-463" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="560" y="-127" type="qcurve"/>
+      <point x="653" y="-197" type="line"/>
+      <point x="614" y="-296"/>
+      <point x="413" y="-463"/>
+      <point x="269" y="-463" type="qcurve" smooth="yes"/>
+      <point x="141" y="-463"/>
+      <point x="-66" y="-310"/>
+      <point x="-114" y="-196" type="qcurve"/>
+      <point x="-14" y="-127" type="line"/>
+      <point x="29" y="-190"/>
+      <point x="174" y="-294"/>
+      <point x="269" y="-294" type="qcurve" smooth="yes"/>
+      <point x="371" y="-294"/>
+      <point x="517" y="-195"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

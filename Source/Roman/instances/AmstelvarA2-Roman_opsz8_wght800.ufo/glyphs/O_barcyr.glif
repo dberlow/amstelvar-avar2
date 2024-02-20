@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarcyr" format="2">
+  <advance width="2191"/>
+  <unicode hex="04E8"/>
+  <outline>
+    <contour>
+      <point x="438" y="678" type="line"/>
+      <point x="438" y="848" type="line"/>
+      <point x="1097" y="840" type="line"/>
+      <point x="1752" y="848" type="line"/>
+      <point x="1752" y="678" type="line"/>
+      <point x="1097" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="737" type="qcurve" smooth="yes"/>
+      <point x="80" y="1068"/>
+      <point x="640" y="1520"/>
+      <point x="1095" y="1520" type="qcurve" smooth="yes"/>
+      <point x="1551" y="1520"/>
+      <point x="2111" y="1097"/>
+      <point x="2111" y="752" type="qcurve" smooth="yes"/>
+      <point x="2111" y="423"/>
+      <point x="1555" y="-31"/>
+      <point x="1099" y="-31" type="qcurve" smooth="yes"/>
+      <point x="655" y="-31"/>
+      <point x="80" y="396"/>
+    </contour>
+    <contour>
+      <point x="533" y="771" type="qcurve" smooth="yes"/>
+      <point x="533" y="496"/>
+      <point x="847" y="143"/>
+      <point x="1097" y="143" type="qcurve" smooth="yes"/>
+      <point x="1370" y="143"/>
+      <point x="1657" y="456"/>
+      <point x="1657" y="745" type="qcurve" smooth="yes"/>
+      <point x="1657" y="1002"/>
+      <point x="1350" y="1338"/>
+      <point x="1097" y="1338" type="qcurve" smooth="yes"/>
+      <point x="824" y="1338"/>
+      <point x="533" y="1033"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

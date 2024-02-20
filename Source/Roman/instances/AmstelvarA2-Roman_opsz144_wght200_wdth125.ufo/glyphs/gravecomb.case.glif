@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <advance width="539"/>
+  <anchor x="269" y="1500" name="_top"/>
+  <anchor x="269" y="2086" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="2008" type="qcurve" smooth="yes"/>
+      <point x="40" y="2043"/>
+      <point x="101" y="2086"/>
+      <point x="135" y="2086" type="qcurve" smooth="yes"/>
+      <point x="172" y="2086"/>
+      <point x="252" y="2024"/>
+      <point x="287" y="1987" type="qcurve" smooth="yes"/>
+      <point x="498" y="1760" type="line"/>
+      <point x="424" y="1684" type="line"/>
+      <point x="121" y="1891" type="line" smooth="yes"/>
+      <point x="80" y="1919"/>
+      <point x="40" y="1961"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

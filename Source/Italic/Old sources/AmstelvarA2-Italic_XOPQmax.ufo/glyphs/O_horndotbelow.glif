@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorndotbelow" format="2">
+  <advance width="1528"/>
+  <unicode hex="1EE2"/>
+  <outline>
+    <component base="O"/>
+    <component base="horncomb.case" xOffset="848.99999999994"/>
+    <component base="dotbelowcomb.case" xOffset="709"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.5,1,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance width="528"/>
+  <unicode hex="03B9"/>
+  <anchor x="230" y="1000" name="GRKtop"/>
+  <outline>
+    <contour>
+      <point x="294" y="-8" type="line"/>
+      <point x="212" y="-8"/>
+      <point x="158" y="78"/>
+      <point x="158" y="163" type="qcurve"/>
+      <point x="158" y="425" type="line"/>
+      <point x="151" y="978" type="line"/>
+      <point x="247" y="1000" type="line"/>
+      <point x="272" y="964" type="line"/>
+      <point x="249" y="423" type="line"/>
+      <point x="253" y="156" type="line" smooth="yes"/>
+      <point x="254" y="91"/>
+      <point x="315" y="49"/>
+      <point x="398" y="49" type="qcurve"/>
+      <point x="473" y="49" type="line"/>
+      <point x="473" y="29" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tedescender-cy" format="2">
+  <advance width="1482"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <contour>
+      <point x="822" y="124" type="line"/>
+      <point x="1096" y="124" type="line"/>
+      <point x="1106" y="-354" type="line"/>
+      <point x="976" y="-354" type="line"/>
+      <point x="907" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="116" type="line"/>
+      <point x="660" y="152" type="line"/>
+      <point x="662" y="754" type="line"/>
+      <point x="660" y="1362" type="line"/>
+      <point x="651" y="1382" type="line"/>
+      <point x="296" y="1382" type="line"/>
+      <point x="261" y="1036" type="line"/>
+      <point x="143" y="1036" type="line"/>
+      <point x="143" y="1500" type="line"/>
+      <point x="1339" y="1500" type="line"/>
+      <point x="1339" y="1036" type="line"/>
+      <point x="1221" y="1036" type="line"/>
+      <point x="1186" y="1382" type="line"/>
+      <point x="841" y="1382" type="line"/>
+      <point x="822" y="1362" type="line"/>
+      <point x="820" y="754" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

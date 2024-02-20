@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="perthousand" format="2">
-  <advance width="2784"/>
+  <advance width="2777"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="zerosuperior" xOffset="28"/>
-    <component base="fraction" xOffset="735"/>
-    <component base="zerosuperior" xOffset="1049" yOffset="-671"/>
-    <component base="zerosuperior" xOffset="1895" yOffset="-671"/>
+    <component base="zerosuperior" xOffset="21"/>
+    <component base="fraction" xOffset="737"/>
+    <component base="zerosuperior" xOffset="1044" yOffset="-671"/>
+    <component base="zerosuperior" xOffset="1893" yOffset="-671"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

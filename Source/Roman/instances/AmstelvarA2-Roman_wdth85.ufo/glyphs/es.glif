@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="es" format="2">
-  <advance width="1016"/>
+  <advance width="949"/>
   <unicode hex="0441"/>
   <outline>
-    <component base="c" xOffset="26"/>
+    <component base="c" xOffset="36"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance width="790"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="-45" y="-111" type="line"/>
+      <point x="672" y="1555" type="line"/>
+      <point x="812" y="1505" type="line"/>
+      <point x="95" y="-161" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

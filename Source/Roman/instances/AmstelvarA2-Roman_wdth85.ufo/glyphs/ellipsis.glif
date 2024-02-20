@@ -3,9 +3,9 @@
   <advance width="1752"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="41"/>
-    <component base="period" xOffset="625"/>
-    <component base="period" xOffset="1209"/>
+    <component base="period" xOffset="57"/>
+    <component base="period" xOffset="641"/>
+    <component base="period" xOffset="1225"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@
       <key>com.typemytype.robofont.Image.Sharpness</key>
       <real>0.4</real>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

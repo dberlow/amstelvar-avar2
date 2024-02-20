@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghe" format="2">
+  <advance width="954"/>
+  <unicode hex="0433"/>
+  <anchor x="555" y="1000" name="top"/>
+  <anchor x="-47" y="498" name="center"/>
+  <outline>
+    <contour>
+      <point x="758" y="976" type="line"/>
+      <point x="416" y="976" type="line"/>
+      <point x="414" y="500" type="line"/>
+      <point x="416" y="59" type="line"/>
+      <point x="608" y="24" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="24" type="line"/>
+      <point x="254" y="59" type="line"/>
+      <point x="256" y="500" type="line"/>
+      <point x="254" y="941" type="line"/>
+      <point x="80" y="976" type="line"/>
+      <point x="80" y="1000" type="line"/>
+      <point x="904" y="1000" type="line"/>
+      <point x="904" y="858" type="line"/>
+      <point x="775" y="858" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

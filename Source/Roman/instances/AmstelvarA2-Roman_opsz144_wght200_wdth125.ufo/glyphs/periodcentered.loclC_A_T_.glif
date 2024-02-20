@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="512"/>
+  <anchor x="256" y="665" name="_centerright"/>
+  <outline>
+    <contour>
+      <point x="112" y="674" type="qcurve" smooth="yes"/>
+      <point x="112" y="732"/>
+      <point x="193" y="818"/>
+      <point x="256" y="818" type="qcurve" smooth="yes"/>
+      <point x="319" y="818"/>
+      <point x="400" y="732"/>
+      <point x="400" y="674" type="qcurve" smooth="yes"/>
+      <point x="400" y="617"/>
+      <point x="319" y="531"/>
+      <point x="256" y="531" type="qcurve" smooth="yes"/>
+      <point x="193" y="531"/>
+      <point x="112" y="617"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

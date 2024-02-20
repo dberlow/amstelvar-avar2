@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="872"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="72" y="1013" type="line"/>
+      <point x="506" y="1517" type="line"/>
+      <point x="609" y="1497" type="line"/>
+      <point x="631" y="1469" type="line"/>
+      <point x="634" y="948" type="line"/>
+      <point x="634" y="774" type="line"/>
+      <point x="772" y="755" type="line"/>
+      <point x="772" y="670" type="line"/>
+      <point x="340" y="670" type="line"/>
+      <point x="340" y="755" type="line"/>
+      <point x="495" y="774" type="line"/>
+      <point x="497" y="947" type="line"/>
+      <point x="501" y="1356" type="line"/>
+      <point x="217" y="1036" type="line"/>
+      <point x="218" y="1018" type="line"/>
+      <point x="787" y="1014" type="line"/>
+      <point x="787" y="921" type="line"/>
+      <point x="96" y="919" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

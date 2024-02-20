@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idot" format="2">
+  <anchor x="194" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="154" y="1337" type="qcurve" smooth="yes"/>
+      <point x="160" y="1396"/>
+      <point x="222" y="1460"/>
+      <point x="275" y="1460" type="qcurve" smooth="yes"/>
+      <point x="324" y="1460"/>
+      <point x="378" y="1392"/>
+      <point x="372" y="1337" type="qcurve" smooth="yes"/>
+      <point x="366" y="1278"/>
+      <point x="304" y="1214"/>
+      <point x="251" y="1214" type="qcurve" smooth="yes"/>
+      <point x="202" y="1214"/>
+      <point x="148" y="1282"/>
+    </contour>
+  </outline>
+</glyph>

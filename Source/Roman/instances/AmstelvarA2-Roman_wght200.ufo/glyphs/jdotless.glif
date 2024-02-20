@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jdotless" format="2">
-  <advance width="542"/>
-  <anchor x="282" y="-436" name="bottom"/>
-  <anchor x="275" y="991" name="top"/>
+  <advance width="529"/>
+  <anchor x="276" y="-436" name="bottom"/>
+  <anchor x="269" y="991" name="top"/>
   <outline>
     <contour>
-      <point x="-14" y="-479" type="qcurve"/>
-      <point x="-14" y="-401" type="line"/>
-      <point x="130" y="-397"/>
-      <point x="246" y="-294"/>
-      <point x="246" y="-140" type="qcurve" smooth="yes"/>
-      <point x="245" y="525" type="line"/>
-      <point x="241" y="873" type="line"/>
-      <point x="59" y="903" type="line"/>
-      <point x="59" y="964" type="line"/>
-      <point x="283" y="998" type="line"/>
-      <point x="331" y="998" type="line"/>
-      <point x="354" y="959" type="line"/>
-      <point x="349" y="525" type="line"/>
-      <point x="350" y="-122" type="line" smooth="yes"/>
-      <point x="351" y="-301"/>
-      <point x="187" y="-490"/>
+      <point x="-20" y="-479" type="qcurve"/>
+      <point x="-21" y="-399" type="line"/>
+      <point x="123" y="-395"/>
+      <point x="239" y="-292"/>
+      <point x="239" y="-140" type="qcurve" smooth="yes"/>
+      <point x="238" y="525" type="line"/>
+      <point x="234" y="873" type="line"/>
+      <point x="52" y="903" type="line"/>
+      <point x="52" y="964" type="line"/>
+      <point x="278" y="998" type="line"/>
+      <point x="325" y="998" type="line"/>
+      <point x="348" y="959" type="line"/>
+      <point x="344" y="525" type="line"/>
+      <point x="345" y="-122" type="line" smooth="yes"/>
+      <point x="346" y="-301"/>
+      <point x="181" y="-490"/>
     </contour>
   </outline>
   <lib>

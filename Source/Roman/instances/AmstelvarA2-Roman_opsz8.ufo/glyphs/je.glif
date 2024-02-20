@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="je" format="2">
-  <advance width="688"/>
+  <advance width="597"/>
   <unicode hex="0458"/>
   <outline>
     <component base="jdotless"/>
-    <component base="idot" xOffset="345" yOffset="51"/>
+    <component base="idot" xOffset="300" yOffset="51"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

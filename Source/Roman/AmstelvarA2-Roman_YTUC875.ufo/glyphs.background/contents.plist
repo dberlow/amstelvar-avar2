@@ -14,6 +14,8 @@
     <string>D_.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>Ef</key>
@@ -30,12 +32,16 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Lambda</key>
+    <string>L_ambda.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>N</key>
     <string>N_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Phi</key>
@@ -50,6 +56,8 @@
     <string>S_.glif</string>
     <key>Shha</key>
     <string>S_hha.glif</string>
+    <key>Sigma</key>
+    <string>S_igma.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U</key>
@@ -130,6 +138,8 @@
     <string>dotbelowcomb.case.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
     <key>gravecomb-stack</key>
     <string>gravecomb-stack.glif</string>
     <key>gravecomb-stack.case</key>

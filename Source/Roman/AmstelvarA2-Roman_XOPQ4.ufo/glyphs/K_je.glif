@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kje" format="2">
-  <advance width="1267"/>
+  <advance width="1075"/>
   <unicode hex="040C"/>
   <outline>
-    <component base="K"/>
-    <component base="acutecomb.case" xOffset="597"/>
+    <component base="Ka"/>
+    <component base="acutecomb.case" xOffset="601"/>
   </outline>
   <lib>
     <dict>

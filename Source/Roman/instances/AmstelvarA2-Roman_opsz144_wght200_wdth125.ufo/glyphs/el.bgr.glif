@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el.bgr" format="2">
+  <advance width="1097"/>
+  <outline>
+    <contour>
+      <point x="1103" y="20" type="line"/>
+      <point x="1103" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="673" y="20" type="line"/>
+      <point x="867" y="57" type="line"/>
+      <point x="715" y="477" type="line"/>
+      <point x="621" y="732" type="line"/>
+      <point x="580" y="852" type="line"/>
+      <point x="570" y="852" type="line"/>
+      <point x="531" y="732" type="line"/>
+      <point x="434" y="462" type="line"/>
+      <point x="292" y="50" type="line"/>
+      <point x="490" y="20" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="-6" y="0" type="line"/>
+      <point x="-6" y="20" type="line"/>
+      <point x="159" y="55" type="line"/>
+      <point x="330" y="503" type="line"/>
+      <point x="516" y="1008" type="line"/>
+      <point x="601" y="1008" type="line"/>
+      <point x="792" y="507" type="line"/>
+      <point x="968" y="55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

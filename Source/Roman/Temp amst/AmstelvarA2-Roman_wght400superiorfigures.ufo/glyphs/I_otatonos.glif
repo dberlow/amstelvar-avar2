@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotatonos" format="2">
+  <advance width="1095"/>
+  <unicode hex="038A"/>
+  <outline>
+    <component base="I" xOffset="315"/>
+    <component base="tonoscomb.case" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse" format="2">
+  <advance width="1158"/>
+  <unicode hex="0446"/>
+  <outline>
+    <contour>
+      <point x="238" y="500" type="line"/>
+      <point x="236" y="913" type="line"/>
+      <point x="80" y="948" type="line"/>
+      <point x="80" y="1000" type="line"/>
+      <point x="479" y="1000" type="line"/>
+      <point x="479" y="948" type="line"/>
+      <point x="341" y="913" type="line"/>
+      <point x="339" y="500" type="line"/>
+      <point x="341" y="64" type="line"/>
+      <point x="811" y="64" type="line"/>
+      <point x="813" y="500" type="line"/>
+      <point x="811" y="913" type="line"/>
+      <point x="673" y="948" type="line"/>
+      <point x="673" y="1000" type="line"/>
+      <point x="1069" y="1000" type="line"/>
+      <point x="1069" y="948" type="line"/>
+      <point x="917" y="913" type="line"/>
+      <point x="915" y="500" type="line"/>
+      <point x="918" y="105" type="line"/>
+      <point x="1068" y="105" type="line"/>
+      <point x="1076" y="-254" type="line"/>
+      <point x="999" y="-254" type="line"/>
+      <point x="927" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="52" type="line"/>
+      <point x="236" y="87" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

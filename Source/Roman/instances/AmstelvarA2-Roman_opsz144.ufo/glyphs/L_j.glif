@@ -2,16 +2,16 @@
 <glyph name="Lj" format="2">
   <advance width="1723"/>
   <outline>
-    <component base="L" xOffset="22"/>
+    <component base="L" xOffset="64"/>
     <component base="jdotless" xOffset="1178"/>
-    <component base="idot" xOffset="1462" yOffset="-79"/>
+    <component base="idot" xOffset="1461" yOffset="-79"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

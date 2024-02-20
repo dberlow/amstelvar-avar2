@@ -1,0 +1,726 @@
+# -------------------------------
+#  L A T I N   U P P E R C A S E 
+# -------------------------------
+
+Aacute                  = A + acutecomb.case@top                                                  | 0xc1
+Abreve                  = A + brevecomb.case@top                                                  | 0x102
+Abreveacute             = A + brevecomb-stack.case@top + acutecomb-stack.case@top                 | 0x1eae
+Abrevecyr               = A + breve.cyrcomb.case@top                                              | 0x04D0
+Abrevedotbelow          = A + brevecomb.case@top + dotbelowcomb.case@A:bottom                     | 0x1eb6
+Abrevegrave             = A + brevecomb-stack.case@top + gravecomb-stack.case@top                 | 0x1eb0
+Abrevehookabove         = A + brevecomb-stack.case@top + hookabovecomb-stack.case@top             | 0x1eb2
+Abrevetilde             = A + brevecomb-stack.case@top + tildecomb-stack.case@top                 | 0x1eb4
+Acircumflex             = A + circumflexcomb.case@top                                             | 0xc2
+Acircumflexacute        = A + circumflexcomb-stack.case@top + acutecomb-stack.case@topright       | 0x1ea4
+Acircumflexdotbelow     = A + circumflexcomb.case@top + dotbelowcomb.case@A:bottom                | 0x1eac
+Acircumflexgrave        = A + circumflexcomb-stack.case@top + gravecomb-stack.case@topright       | 0x1ea6     # @topleft
+Acircumflexhookabove    = A + circumflexcomb-stack.case@top + hookabovecomb-stack.case@topright   | 0x1ea8
+Acircumflextilde        = A + circumflexcomb-stack.case@top + tildecomb-stack.case@top            | 0x1eaa
+Adblgrave               = A + d blgravecomb.case@top                                              | 0x200
+Adieresis               = A + dieresiscomb.case@top                                               | 0xc4
+Adieresiscyr            = A + dieresiscomb.case@top                                               | 0x04D2
+Adotbelow               = A + dotbelowcomb.case@bottom                                            | 0x1ea0
+Agrave                  = A + gravecomb.case@top                                                  | 0xc0
+Ahookabove              = A + hookabovecomb.case@top                                              | 0x1ea2
+Ainvertedbreve          = A + breveinvertedcomb.case@top                                          | 0x202
+Amacron                 = A + macroncomb.case@top                                                 | 0x100
+Amacroncyr              = A + macroncomb.case@top                                                 | 0xf50e
+Aogonek                 = A + ogonekcomb.case@ogonek                                              | 0x104
+Aring                   = A + ringcomb.case@top                                                   | 0xc5
+Aringacute              = A + ringcomb-stack.case@top + acutecomb-stack.case@top                  | 0x1fa
+Atilde                  = A + tildecomb.case@top                                                  | 0xc3
+
+AEacute                 = AE + acutecomb.case@top                                                 | 0x1fc
+
+Cacute                  = C + acutecomb.case@top                                                  | 0x106
+Ccaron                  = C + caroncomb.case@top                                                  | 0x10c
+Ccedilla                = C + cedillacomb.case@bottom                                             | 0xc7
+Ccircumflex             = C + circumflexcomb.case@top                                             | 0x108
+Cdotaccent              = C + dotaccentcomb.case@top                                              | 0x10a
+
+Dcaron                  = D + caroncomb.case@top                                                  | 0x10e
+Dcroat                  = D + horizontalbar@center                                                | 0x110
+
+Eacute                  = E + acutecomb.case@top                                                  | 0xc9
+Ebreve                  = E + brevecomb.case@top                                                  | 0x114
+Ecaron                  = E + caroncomb.case@top                                                  | 0x11a
+Ecircumflex             = E + circumflexcomb.case@top                                             | 0xca
+Ecircumflexacute        = E + circumflexcomb-stack.case@top + acutecomb-stack.case@topright       | 0x1ebe
+Ecircumflexdotbelow     = E + circumflexcomb.case@top + dotbelowcomb.case@E:bottom                | 0x1ec6
+Ecircumflexgrave        = E + circumflexcomb-stack.case@top + gravecomb-stack.case@topright       | 0x1ec0
+Ecircumflexhookabove    = E + circumflexcomb-stack.case@top + hookabovecomb-stack.case@topright   | 0x1ec2
+Ecircumflextilde        = E + circumflexcomb-stack.case@top + tildecomb-stack.case@top            | 0x1ec4
+Edblgrave               = E + dblgravecomb.case@top                                               | 0x204
+Edieresis               = E + dieresiscomb.case@top                                               | 0xcb
+Edotaccent              = E + dotaccentcomb.case@top                                              | 0x116
+Edotbelow               = E + dotbelowcomb.case@bottom                                            | 0x1eb8
+Egrave                  = E + gravecomb.case@top                                                  | 0xc8
+Ehookabove              = E + hookabovecomb.case@top                                              | 0x1eba
+Einvertedbreve          = E + breveinvertedcomb.case@top                                          | 0x206
+Emacron                 = E + macroncomb.case@top                                                 | 0x112
+Eogonek                 = E + ogonekcomb.case@ogonek                                              | 0x118
+Etilde                  = E + tildecomb.case@top                                                  | 0x1ebc
+
+Eng                     = N + engtail@engtail                                                     | 0x14a
+Eth                     = D + horizontalbar@center                                                | 0xd0
+
+Gbreve                  = G + brevecomb.case@top                                                  | 0x11e
+Gcaron                  = G + caroncomb.case@top                                                  | 0x1e6
+Gcircumflex             = G + circumflexcomb.case@top                                             | 0x11c
+Gcommaaccent            = G + commaaccentcomb.case@bottom                                         | 0x122
+Gdotaccent              = G + dotaccentcomb.case@top                                              | 0x120
+
+Hbar                    = H + horizontalbarH@center                                               | 0x126
+Hcircumflex             = H + circumflexcomb.case@top                                             | 0x124
+
+Iacute                  = I + acutecomb.case@top                                                  | 0xcd
+Ibreve                  = I + brevecomb.case@top                                                  | 0x12c
+Icircumflex             = I + circumflexcomb.case@top                                             | 0xce
+Idblgrave               = I + dblgravecomb.case@top                                               | 0x208
+Idieresis               = I + dieresiscomb.case@top                                               | 0xcf
+Idotaccent              = I + dotaccentcomb.case@top                                              | 0x130
+Idotbelow               = I + dotbelowcomb.case@bottom                                            | 0x1eca
+Igrave                  = I + gravecomb.case@top                                                  | 0xcc
+Ihookabove              = I + hookabovecomb.case@top                                              | 0x1ec8
+Iinvertedbreve          = I + breveinvertedcomb.case@top                                          | 0x20a
+Imacron                 = I + macroncomb.case@top                                                 | 0x12a
+Iogonek                 = I + ogonekcomb.case@ogonek                                              | 0x12e
+Itilde                  = I + tildecomb.case@top                                                  | 0x128
+
+Jacute.loclNLD          = J + acutecomb.case@top                                                  | None
+Jcircumflex             = J + circumflexcomb.case@top                                             | 0x134
+
+Kcommaaccent            = K + commaaccentcomb.case@bottom                                         | 0x136
+
+Lacute                  = L + acutecomb.case@top                                                  | 0x139
+Lcaron                  = L + caroncomb.alt@topright                                              | 0x13d
+Lcommaaccent            = L + commaaccentcomb.case@bottom                                         | 0x13b
+Ldot                    = L + periodcentered.loclCAT@centerright                                  | 0x13f
+Lslash                  = L + diagonalbarl@center                                                 | 0x141
+
+Nacute                  = N + acutecomb.case@top                                                  | 0x143
+Ncaron                  = N + caroncomb.case@top                                                  | 0x147
+Ncommaaccent            = N + commaaccentcomb.case@bottom                                         | 0x145
+Ntilde                  = N + tildecomb.case@top                                                  | 0xd1
+
+Oacute                  = O + acutecomb.case@top                                                  | 0xd3
+Obreve                  = O + brevecomb.case@top                                                  | 0x14e
+Ocircumflex             = O + circumflexcomb.case@top                                             | 0xd4
+Ocircumflexacute        = O + circumflexcomb-stack.case@top + acutecomb-stack.case@topright       | 0x1ed0
+Ocircumflexdotbelow     = O + circumflexcomb.case@top + dotbelowcomb.case@O:bottom                | 0x1ed8
+Ocircumflexgrave        = O + circumflexcomb-stack.case@top + gravecomb-stack.case@topright       | 0x1ed2
+Ocircumflexhookabove    = O + circumflexcomb-stack.case@top + hookabovecomb-stack.case@topright   | 0x1ed4
+Ocircumflextilde        = O + circumflexcomb-stack.case@top + tildecomb-stack.case@top            | 0x1ed6
+Odblgrave               = O + dblgravecomb.case@top                                               | 0x20c
+Odieresis               = O + dieresiscomb.case@top                                               | 0xd6
+Odieresismacron         = O + dieresiscomb-stack.case@top + macroncomb-stack.case@top             | 0x22a
+Odotaccentmacron        = O + dotaccentcomb-stack.case@top + macroncomb-stack.case@top            | 0x230
+Odotbelow               = O + dotbelowcomb.case@bottom                                            | 0x1ecc
+Ograve                  = O + gravecomb.case@top                                                  | 0xd2
+Ohookabove              = O + hookabovecomb.case@top                                              | 0x1ece
+Ohorn                   = O + horncomb.case@topright                                              | 0x1a0
+Ohornacute              = O + horncomb.case@topright + acutecomb.case@O:top                       | 0x1eda
+Ohorndotbelow           = O + horncomb.case@topright + dotbelowcomb.case@O:bottom                 | 0x1ee2
+Ohorngrave              = O + horncomb.case@topright + gravecomb.case@O:top                       | 0x1edc
+Ohornhookabove          = O + horncomb.case@topright + hookabovecomb.case@O:top                   | 0x1ede
+Ohorntilde              = O + horncomb.case@topright + tildecomb.case@O:top                       | 0x1ee0
+Ohungarumlaut           = O + hungarumlautcomb.case@57%,top                                       | 0x150
+Oinvertedbreve          = O + breveinvertedcomb.case@top                                          | 0x20e
+Omacron                 = O + macroncomb.case@top                                                 | 0x14c
+Oogonek                 = O + ogonekcomb.case@ogonek                                              | 0x1ea
+Oslash.rvrn             = O + diagonalbarO.rvrn@center                                            | None
+Oslash                  = O + diagonalbarO@center                                                 | 0xd8
+Oslashacute             = O + diagonalbarO@center + acutecomb.case@O:top                          | 0x1fe
+Otilde                  = O + tildecomb.case@top                                                  | 0xd5
+Otildemacron            = O + tildecomb-stack.case@top + macroncomb-stack.case@top                | 0x22c
+
+Racute                  = R + acutecomb.case@top                                                  | 0x154
+Rcaron                  = R + caroncomb.case@top                                                  | 0x158
+Rcommaaccent            = R + commaaccentcomb.case@bottom                                         | 0x156
+Rdblgrave               = R + dblgravecomb.case@top                                               | 0x210
+Rinvertedbreve          = R + breveinvertedcomb.case@top                                          | 0x212
+
+Sacute                  = S + acutecomb.case@top                                                  | 0x15a
+Scaron                  = S + caroncomb.case@top                                                  | 0x160
+Scedilla                = S + cedillacomb.case@bottom                                             | 0x15e
+Scircumflex             = S + circumflexcomb.case@top                                             | 0x15c
+Scommaaccent            = S + commaaccentcomb.case@bottom                                         | 0x218
+
+Tbar                    = T + horizontalbar@center                                                | 0x166
+Tcaron                  = T + caroncomb.case@top                                                  | 0x164
+Tcedilla                = T + cedillacomb.case@bottom                                             | 0x162
+Tcommaaccent            = T + commaaccentcomb.case@bottom                                         | 0x21a
+
+Uacute                  = U + acutecomb.case@top                                                  | 0xda
+Ubreve                  = U + brevecomb.case@top                                                  | 0x16c
+Ucircumflex             = U + circumflexcomb.case@top                                             | 0xdb
+Udblgrave               = U + dblgravecomb.case@top                                               | 0x214
+Udieresis               = U + dieresiscomb.case@top                                               | 0xdc
+
+Udotbelow               = U + dotbelowcomb.case@bottom                                            | 0x1ee4
+Ugrave                  = U + gravecomb.case@top                                                  | 0xd9
+Uhookabove              = U + hookabovecomb.case@top                                              | 0x1ee6
+Uhorn                   = hornU + horncomb.case@topright                                          | 0x1af
+Uhornacute              = hornU + horncomb.case@topright + acutecomb.case@U:top                   | 0x1ee8
+Uhorndotbelow           = hornU + horncomb.case@topright + dotbelowcomb.case@U:bottom             | 0x1ef0
+Uhorngrave              = hornU + horncomb.case@topright + gravecomb.case@U:top                   | 0x1eea
+Uhornhookabove          = hornU + horncomb.case@topright + hookabovecomb.case@U:top               | 0x1eec
+Uhorntilde              = hornU + horncomb.case@topright + tildecomb.case@U:top                   | 0x1eee
+Uhungarumlaut           = U + hungarumlautcomb.case@top                                           | 0x170
+Uinvertedbreve          = U + breveinvertedcomb.case@top                                          | 0x216
+Umacron                 = U + macroncomb.case@top                                                 | 0x16a
+Uogonek                 = U + ogonekcomb.case@ogonek                                              | 0x172
+Uring                   = U + ringcomb.case@top                                                   | 0x16e
+Utilde                  = U + tildecomb.case@top                                                  | 0x168
+
+Wacute                  = W + acutecomb.case@top                                                  | 0x1e82
+Wcircumflex             = W + circumflexcomb.case@top                                             | 0x174
+Wdieresis               = W + dieresiscomb.case@top                                               | 0x1e84
+Wgrave                  = W + gravecomb.case@top                                                  | 0x1e80
+
+Yacute                  = Y + acutecomb.case@top                                                  | 0xdd
+Ycircumflex             = Y + circumflexcomb.case@top                                             | 0x176
+Ydieresis               = Y + dieresiscomb.case@top                                               | 0x178
+Ydotbelow               = Y + dotbelowcomb.case@bottom                                            | 0x1ef4
+Ygrave                  = Y + gravecomb.case@top                                                  | 0x1ef2
+Yhookabove              = Y + hookabovecomb.case@top                                              | 0x1ef6
+Ymacron                 = Y + macroncomb.case@top                                                 | 0x232
+Ytilde                  = Y + tildecomb.case@top                                                  | 0x1ef8
+
+Zacute                  = Z + acutecomb.case@top                                                  | 0x179
+Zcaron                  = Z + caroncomb.case@top                                                  | 0x17d
+Zdotaccent              = Z + dotaccentcomb.case@top                                              | 0x17b
+
+# -------------------------------
+#  G R E E K   U P P E R C A S E 
+# -------------------------------
+
+Alpha                   = A                                                                       | 0x391
+Alphatonos              = A + tonoscomb.case@tonos                                                | 0x0386
+Beta                    = B                                                                       | 0x392
+Chi                     = X                                                                       | 0x3a7
+Epsilon                 = E                                                                       | 0x395
+Epsilontonos            = E + tonoscomb.case@tonos ^ 230,E                                        | 0x0388 # 50,E
+Eta                     = H                                                                       | 0x397
+Etatonos                = H + tonoscomb.case@tonos ^ 230,H                                        | 0x0389 # 10,H
+# Gamma                 = Ghe                                                                     | 0x393
+Iota                    = I                                                                       | 0x399
+Iotadieresis            = I + dieresiscomb.case@top                                               | 0x03AA
+Iotatonos               = I + tonoscomb.case@tonos ^ 230,I                                        | 0x038A # 10,I
+Kappa                   = K                                                                       | 0x39a
+Mu                      = M                                                                       | 0x39c
+Nu                      = N                                                                       | 0x39d
+Omegatonos              = Omega + tonoscomb.case@tonos ^ 230,O                                    | 0x038F # 10,O
+Omicron                 = O                                                                       | 0x39f
+Omicrontonos            = O + tonoscomb.case@tonos ^ 230,O                                        | 0x038C # 10,O
+Rho                     = P                                                                       | 0x3a1
+Tau                     = T                                                                       | 0x3a4
+Upsilon                 = Y                                                                       | 0x3a5
+Upsilondieresis         = Y + dieresiscomb.case@top                                               | 0x03AB
+Upsilontonos            = Y + tonoscomb.case@tonos ^ 230,Y                                        | 0x038E # 10,Y
+Zeta                    = Z                                                                       | 0x396
+
+# -------------------------------------
+#  C Y R I L L I C   U P P E R C A S E 
+# -------------------------------------
+
+Acyr                    = A                                                                       | 0x0410
+Chedescender-cy         = Che + cy-descendercomb.case@cy_descender                                | 0x4b6
+Dze                     = S                                                                       | 0x405
+Ebrevecyr               = Ecyr + breve.cyrcomb.case@top                                           | 0xf524
+Emacroncyr              = Ecyr + macroncomb.case@top                                              | 0xf522
+Ef                      = Phi                                                                     | 0x424
+El.bgr                  = Lambda                                                                  | None
+Em                      = M                                                                       | 0x41c
+En                      = H                                                                       | 0x41d
+Endescender             = H + cy-descendercomb.case@cy_descender                                  | 0x4a2
+Er                      = P                                                                       | 0x420
+Es                      = C                                                                       | 0x421
+Esdescendercyr          = C + cedillacomb.case@bottom                                             | 0x4aa
+Ghe                     = Gamma                                                                   | 0x413
+Ghestroke               = Gamma + horizontalbar@center                                            | 0x0492
+Gje                     = Gamma + acutecomb.case@top                                              | 0x0403
+Ha                      = X                                                                       | 0x425
+Hadescender             = X + cy-descendercomb.case@cy_descender                                  | 0x4b2
+Hastroke-cy             = X + Hacyr-stroke                                                        | 0x04FE
+Igravecyr               = Icyr + gravecomb.case@top                                               | 0x040D
+Ie                      = E                                                                       | 0x0415
+Iebrevecyr              = E + breve.cyrcomb.case@top                                              | 0x04D6
+Iemacroncyr             = E + macroncomb.case@top                                                 | 0xf510
+Io                      = E + dieresiscomb.case@top                                               | 0x0401
+Ishort                  = Icyr + breve.cyrcomb.case@top                                           | 0x0419
+Iukran                  = I                                                                       | 0x406
+Je                      = J                                                                       | 0x408
+Ka.bgr                  = K                                                                       | None
+Kadescender             = Ka + cy-descendercomb.case@cy_descender                                 | 0x49a
+Kje                     = K + acutecomb.case@top                                                  | 0x040C
+Obarcyr                 = O + Obarcyr-stroke                                                      | 0x04E8
+Obrevecyr               = O + breve.cyrcomb.case@top                                              | 0xf51a
+Ocyr                    = O                                                                       | 0x41e
+Odieresiscyr            = O + dieresiscomb.case@top                                               | 0x4e6
+Omacroncyr              = O + macroncomb.case@top                                                 | 0xf518
+Palochka                = I                                                                       | 0x04C0
+Pe                      = Pi                                                                      | 0x041F
+Shcha                   = Sha + cy-descendercomb.case@cy_descender                                | 0x429
+Te                      = T                                                                       | 0x422
+Tedescender-cy          = T + cy-descendercomb.case@cy_descender                                  | 0x4ac
+Udieresiscyr            = Ucyr + dieresiscomb.case@top                                            | 0x4f0
+Uhungarumlautcyr        = Ucyr + hungarumlautcomb.case@top                                        | 0x4f2
+Umacroncyr              = Ucyr + macroncomb.case@top                                              | 0x4ee
+Ushort                  = Ucyr + breve.cyrcomb.case@top                                           | 0x40e
+Ustraight               = Y                                                                       | 0x4ae
+Ustraightstroke         = Y + U-stroke                                                            | 0x4B0
+Ve                      = B                                                                       | 0x0412
+Yamacron                = Ya + macroncomb.case@top                                                | 0xf528
+Yeru                    = Soft & I                                                                | 0x042B
+Yi                      = I + dieresiscomb.case@top                                               | 0x407 # Yi-dieresiscomb
+Yu                      = I + Yu-dash.case@yu_dash + O@yu_dash ^ I,O                              | 0x042E
+Yumacron                = Yu + macroncomb.case@top                                                | 0xf52c
+Zedescendercyr          = Ze + cedillacomb.case@bottom                                            | 0x498
+Zhebrevecyr             = Zhe + breve.cyrcomb.case@top                                            | 04C1
+Zhedescender            = Zhe + cy-descendercomb.case@cy_descender                                | 0x496
+Zhedieresiscyr          = Zhe + dieresiscomb.case@top                                             | 04DC
+
+# -------------------------------
+#  L A T I N   L O W E R C A S E 
+# -------------------------------
+
+aacute                 = a + acutecomb@top                                                        | 0xe1
+abreve                 = a + brevecomb@top                                                        | 0x103
+abreveacute            = a + brevecomb-stack@top + acutecomb-stack@top                            | 0x1eaf
+abrevedotbelow         = a + brevecomb@top + dotbelowcomb@a:bottom                                | 0x1eb7
+abrevegrave            = a + brevecomb-stack@top + gravecomb-stack@top                            | 0x1eb1
+abrevehookabove        = a + brevecomb-stack@top + hookabovecomb-stack@top                        | 0x1eb3
+abrevetilde            = a + brevecomb-stack@top + tildecomb-stack@top                            | 0x1eb5
+acircumflex            = a + circumflexcomb@top                                                   | 0xe2
+acircumflexacute       = a + circumflexcomb-stack@top + acutecomb-stack@topright                  | 0x1ea5
+acircumflexdotbelow    = a + circumflexcomb@top + dotbelowcomb@a:bottom                           | 0x1ead
+acircumflexgrave       = a + circumflexcomb-stack@top + gravecomb-stack@topright                  | 0x1ea7 # @topleft
+acircumflexhookabove   = a + circumflexcomb-stack@top + hookabovecomb-stack@topright              | 0x1ea9
+acircumflextilde       = a + circumflexcomb-stack@top + tildecomb-stack@top                       | 0x1eab
+adblgrave              = a + dblgravecomb@top                                                     | 0x201
+adieresis              = a + dieresiscomb@top                                                     | 0xe4
+adotbelow              = a + dotbelowcomb@bottom                                                  | 0x1ea1
+agrave                 = a + gravecomb@top                                                        | 0xe0
+ahookabove             = a + hookabovecomb@top                                                    | 0x1ea3
+ainvertedbreve         = a + breveinvertedcomb@top                                                | 0x203
+amacron                = a + macroncomb@top                                                       | 0x101
+aogonek                = a + ogonekcomb@ogonek                                                    | 0x105
+aring                  = a + ringcomb@top                                                         | 0xe5
+aringacute             = a + ringcomb-stack@top + acutecomb-stack@top                             | 0x1fb
+atilde                 = a + tildecomb@top                                                        | 0xe3
+
+aeacute                = ae + acutecomb@top                                                       | 0x1fd
+
+cacute                 = c + acutecomb@top                                                        | 0x107
+ccaron                 = c + caroncomb@top                                                        | 0x10d
+ccedilla               = c + cedillacomb@bottom                                                   | 0xe7
+ccircumflex            = c + circumflexcomb@top                                                   | 0x109
+cdotaccent             = c + dotaccentcomb@top                                                    | 0x10b
+
+dcaron                 = d + caroncomb.alt@topright                                               | 0x10f
+dcroat                 = d + horizontalbarlc@center                                               | 0x111
+
+eacute                 = e + acutecomb@top                                                        | 0xe9
+ebreve                 = e + brevecomb@top                                                        | 0x115
+ecaron                 = e + caroncomb@top                                                        | 0x11b
+ecircumflex            = e + circumflexcomb@top                                                   | 0xea
+ecircumflexacute       = e + circumflexcomb-stack@top + acutecomb-stack@topright                  | 0x1ebf
+ecircumflexdotbelow    = e + circumflexcomb@top + dotbelowcomb@e:bottom                           | 0x1ec7
+ecircumflexgrave       = e + circumflexcomb-stack@top + gravecomb-stack@topright                  | 0x1ec1 # @topleft
+ecircumflexhookabove   = e + circumflexcomb-stack@top + hookabovecomb-stack@topright              | 0x1ec3
+ecircumflextilde       = e + circumflexcomb-stack@top + tildecomb-stack@top                       | 0x1ec5
+edblgrave              = e + dblgravecomb@top                                                     | 0x205
+edieresis              = e + dieresiscomb@top                                                     | 0xeb
+edotaccent             = e + dotaccentcomb@top                                                    | 0x117
+edotbelow              = e + dotbelowcomb@bottom                                                  | 0x1eb9
+egrave                 = e + gravecomb@top                                                        | 0xe8
+ehookabove             = e + hookabovecomb@top                                                    | 0x1ebb
+einvertedbreve         = e + breveinvertedcomb@top                                                | 0x207
+emacron                = e + macroncomb@top                                                       | 0x113
+etilde                 = e + tildecomb@top                                                        | 0x1ebd
+eogonek                = e + ogonekcomb@ogonek                                                    | 0x119
+
+eng                    = engn + engtail@engtail                                                   | 0x14b
+
+gbreve                 = g + brevecomb@top                                                        | 0x11f
+gcaron                 = g + caroncomb@top                                                        | 0x1e7
+gcircumflex            = g + circumflexcomb@top                                                   | 0x11d
+gcommaaccent           = g + commaaccentturnedcomb@top                                            | 0x123
+gdotaccent             = g + dotaccentcomb@top                                                    | 0x121
+
+hbar                   = h + horizontalbarlc@center                                               | 0x127
+hcircumflex            = h + circumflexcomb@top                                                   | 0x125
+
+i                      = idotless + idot@top                                                      | 0x0069
+iacute                 = idotless + acutecomb@top                                                 | 0xed
+ibreve                 = idotless + brevecomb@top                                                 | 0x12d
+icircumflex            = idotless + circumflexcomb@top                                            | 0xee
+idblgrave              = idotless + dblgravecomb@top                                              | 0x209
+idieresis              = idotless + dieresiscomb@top                                              | 0xef
+idotaccent             = idotless + dotaccentcomb@idotless:top                                    | None
+idotbelow              = idotless + idot@top + dotbelowcomb@idotless:bottom                       | 0x1ecb
+igrave                 = idotless + gravecomb@top                                                 | 0xec
+ihookabove             = idotless + hookabovecomb@top                                             | 0x1ec9
+iinvertedbreve         = idotless + breveinvertedcomb@top                                         | 0x20b
+imacron                = idotless + macroncomb@top                                                | 0x12b
+iogonek                = idotless + idot@top + ogonekcomb@idotless:ogonek                         | 0x12f
+itilde                 = idotless + tildecomb@top                                                 | 0x129
+
+j                      = jdotless + idot@top                                                      | 0x006A
+jacute.loclNLD         = jdotless + acutecomb@top                                                 | None
+jcircumflex            = jdotless + circumflexcomb@top                                            | 0x135
+
+kcommaaccent           = k + commaaccentcomb@bottom                                               | 0x137
+
+lacute                 = l + acutecomb@top                                                        | 0x13a
+lcaron                 = l + caroncomb.alt@topright                                               | 0x13e
+lcommaaccent           = l + commaaccentcomb@bottom                                               | 0x13c
+ldot                   = l + periodcentered.loclCAT@centerright ^ l, l                            | 0x140
+lslash                 = l + diagonalbarl@center                                                  | 0x142
+
+nacute                 = n + acutecomb@top                                                        | 0x144
+napostrophe            = n&\quoteright                                                            | 0x149
+ncaron                 = n + caroncomb@top                                                        | 0x148
+ncommaaccent           = n + commaaccentcomb@bottom                                               | 0x146
+ntilde                 = n + tildecomb@top                                                        | 0xf1
+
+oacute                 = o + acutecomb@top                                                        | 0xf3
+obreve                 = o + brevecomb@top                                                        | 0x14f
+ocircumflex            = o + circumflexcomb@top                                                   | 0xf4
+ocircumflexacute       = o + circumflexcomb-stack@top + acutecomb-stack@topright                  | 0x1ed1
+ocircumflexdotbelow    = o + circumflexcomb@top + dotbelowcomb@o:bottom                           | 0x1ed9
+ocircumflexgrave       = o + circumflexcomb-stack@top + gravecomb-stack@topright                  | 0x1ed3 # @topleft
+ocircumflexhookabove   = o + circumflexcomb-stack@top + hookabovecomb-stack@topright              | 0x1ed5
+ocircumflextilde       = o + circumflexcomb-stack@top + tildecomb-stack@top                       | 0x1ed7
+odblgrave              = o + dblgravecomb@top                                                     | 0x20d
+odieresis              = o + dieresiscomb@top                                                     | 0xf6
+odieresismacron        = o + dieresiscomb-stack@top + macroncomb-stack@top                        | 0x22b
+odotaccentmacron       = o + dotaccentcomb-stack@top + macroncomb-stack@top                       | 0x231
+odotbelow              = o + dotbelowcomb@bottom                                                  | 0x1ecd
+ograve                 = o + gravecomb@top                                                        | 0xf2
+ohookabove             = o + hookabovecomb@top                                                    | 0x1ecf
+ohorn                  = o + horncomb@topright                                                    | 0x1a1
+ohornacute             = o + horncomb@topright + acutecomb@o:top                                  | 0x1edb
+ohorndotbelow          = o + horncomb@topright + dotbelowcomb@o:bottom                            | 0x1ee3
+ohorngrave             = o + horncomb@topright + gravecomb@o:top                                  | 0x1edd
+ohornhookabove         = o + horncomb@topright + hookabovecomb@o:top                              | 0x1edf
+ohorntilde             = o + horncomb@topright + tildecomb@o:top                                  | 0x1ee1
+ohungarumlaut          = o + hungarumlautcomb@57%,top                                             | 0x151
+oinvertedbreve         = o + breveinvertedcomb@top                                                | 0x20f
+omacron                = o + macroncomb@top                                                       | 0x14d
+oogonek                = o + ogonekcomb@ogonek                                                    | 0x1eb
+oslash                 = o + diagonalbaro@center                                                  | 0xf8
+oslash.rvrn            = o + diagonalbaro.rvrn@center                                             | None
+oslashacute            = o + diagonalbaro@center + acutecomb@o:top                                | 0x1ff
+otilde                 = o + tildecomb@top                                                        | 0xf5
+otildemacron           = o + tildecomb-stack@top + macroncomb-stack@top                           | 0x22d
+
+racute                 = r + acutecomb@top                                                        | 0x155
+rcaron                 = r + caroncomb@top                                                        | 0x159
+rcommaaccent           = r + commaaccentcomb@bottom                                               | 0x157
+rdblgrave              = r + dblgravecomb@top                                                     | 0x211
+rinvertedbreve         = r + breveinvertedcomb@top                                                | 0x213
+
+sacute                 = s + acutecomb@top                                                        | 0x15b
+scaron                 = s + caroncomb@top                                                        | 0x161
+scedilla               = s + cedillacomb@bottom                                                   | 0x15f
+scircumflex            = s + circumflexcomb@top                                                   | 0x15d
+scommaaccent           = s + commaaccentcomb@bottom                                               | 0x219
+
+tbar                   = t + horizontalbarlc@center                                               | 0x167
+tcaron                 = t + caroncomb.alt@topright ^ t, t                                        | 0x165
+tcedilla               = t + cedillacomb@bottom                                                   | 0x163
+tcommaaccent           = t + commaaccentcomb@bottom                                               | 0x21b
+
+uacute                 = u + acutecomb@top                                                        | 0xfa
+ubreve                 = u + brevecomb@top                                                        | 0x16d
+ucircumflex            = u + circumflexcomb@top                                                   | 0xfb
+udblgrave              = u + dblgravecomb@top                                                     | 0x215
+udieresis              = u + dieresiscomb@top                                                     | 0xfc
+udotbelow              = u + dotbelowcomb@bottom                                                  | 0x1ee5
+ugrave                 = u + gravecomb@top                                                        | 0xf9
+uhookabove             = u + hookabovecomb@top                                                    | 0x1ee7
+uhorn                  = u + horncomb@topright                                                    | 0x1b0
+uhornacute             = u + horncomb@topright + acutecomb@u:top                                  | 0x1ee9
+uhorndotbelow          = u + horncomb@topright + dotbelowcomb@u:bottom                            | 0x1ef1
+uhorngrave             = u + horncomb@topright + gravecomb@u:top                                  | 0x1eeb
+uhornhookabove         = u + horncomb@topright + hookabovecomb@u:top                              | 0x1eed
+uhorntilde             = u + horncomb@topright + tildecomb@u:top                                  | 0x1eef
+uhungarumlaut          = u + hungarumlautcomb@top                                                 | 0x171
+uinvertedbreve         = u + breveinvertedcomb@top                                                | 0x217
+umacron                = u + macroncomb@top                                                       | 0x16b
+uring                  = u + ringcomb@top                                                         | 0x16f
+utilde                 = u + tildecomb@top                                                        | 0x169
+
+wacute                 = w + acutecomb@top                                                        | 0x1e83
+wcircumflex            = w + circumflexcomb@top                                                   | 0x175
+wdieresis              = w + dieresiscomb@top                                                     | 0x1e85
+wgrave                 = w + gravecomb@top                                                        | 0x1e81
+
+yacute                 = y + acutecomb@top                                                        | 0xfd
+ycircumflex            = y + circumflexcomb@top                                                   | 0x177
+ydieresis              = y + dieresiscomb@top                                                     | 0xff
+ydotbelow              = y + dotbelowcomb@bottom                                                  | 0x1ef5
+ygrave                 = y + gravecomb@top                                                        | 0x1ef3
+yhookabove             = y + hookabovecomb@top                                                    | 0x1ef7
+ymacron                = y + macroncomb@top                                                       | 0x233
+ytilde                 = y + tildecomb@top                                                        | 0x1ef9
+
+zacute                 = z + acutecomb@top                                                        | 0x17a
+zcaron                 = z + caroncomb@top                                                        | 0x17e
+zdotaccent             = z + dotaccentcomb@top                                                    | 0x17c
+
+# -------------------------------
+#  G R E E K   L O W E R C A S E 
+# -------------------------------
+
+alphatonos             = alpha + tonoscomb@GRKtop                                                 | 0x03AC
+etatonos               = eta + tonoscomb@GRKtop                                                   | 0x03AE
+epsilontonos           = epsilon + tonoscomb@GRKtop                                               | 0x03AD
+iotadieresis           = iota + dieresiscomb@GRKtop                                               | 0x03CA
+iotadieresistonos      = iota + dieresistonoscomb@GRKtop                                          | 0x0390
+iotatonos              = iota + tonoscomb@GRKtop                                                  | 0x03AF
+nu                     = v                                                                        | 0x3bd
+omegatonos             = omega + tonoscomb@GRKtop                                                 | 0x03CE
+omicron                = o                                                                        | 0x3bf
+omicrontonos           = o + tonoscomb@GRKtop                                                     | 0x03CC
+upsilondieresis        = upsilon + dieresiscomb@GRKtop                                            | 0x03CB
+upsilondieresistonos   = upsilon + dieresistonoscomb@GRKtop                                       | 0x03B0
+upsilontonos           = upsilon + tonoscomb@GRKtop                                               | 0x03CD
+
+# -------------------------------------
+#  C Y R I L L I C   L O W E R C A S E 
+# -------------------------------------
+
+abrevecyr              = a + breve.cyrcomb@top                                                    | 0x4d1
+acyr                   = a                                                                        | 0x430
+adieresiscyr           = a + dieresiscomb@top                                                     | 0x4d3
+amacroncyr             = a + macroncomb@top                                                       | 0xf50f
+chedescender-cy        = che + cy-descendercomb@cy_descender                                      | 0x4b7
+de.locl                = de                                                                       | None
+dje                    = h + horizontalbarlc@center + engtail@h:engtail                           | 0x0452
+dze                    = s                                                                        | 0x455
+ebrevecyr              = ecyr + breve.cyrcomb@top                                                 | 0xf525
+ef                     = phi                                                                      | 0x444
+er                     = p                                                                        | 0x0440
+es                     = c                                                                        | 0x0441
+esdescendercyr         = c + cedillacomb@bottom                                                   | 0x4ab
+emacroncyr             = ecyr + macroncomb@top                                                    | 0xf523
+endescender            = en + cy-descendercomb@cy_descender                                       | 0x4a3
+ghe.locl               = ghe                                                                      | None
+ghestroke              = ghe + horizontalbarlc@center                                             | 0x493
+gje                    = ghe + acutecomb@top                                                      | 0x453
+ha                     = x                                                                        | 0x445
+hadescender            = x + cy-descendercomb@cy_descender                                        | 0x4b3
+hastroke-cy            = x + hacyr-stroke                                                         | 0x04FF
+icyr                   = u                                                                        | 0x0438
+ishort                 = u + breve.cyrcomb@top                                                 | 0x439
+igravecyr              = u + gravecomb@top                                                     | 0x45d
+ie                     = e                                                                        | 0x435
+iebrevecyr             = e + breve.cyrcomb@top                                                    | 0x4d7
+iemacroncyr            = e + macroncomb@top                                                       | 0xf511
+io                     = e + dieresiscomb@top                                                     | 0x451
+iukran                 = idotless + idot@top                                                      | 0x456
+je                     = jdotless + idot@top                                                      | 0x458
+kadescender            = ka + cy-descendercomb@cy_descender                                       | 0x49b
+kje                    = ka + acutecomb@top                                                       | 0x45c
+ocyr                   = o                                                                        | 0x043E
+obarcyr                = o + obarcyr-stroke                                                       | 0x04E9
+obrevecyr              = o + breve.cyrcomb@top                                                    | 0xf51b
+odieresiscyr           = o + dieresiscomb@top                                                     | 0x4e7
+omacroncyr             = o + macroncomb@top                                                       | 0xf519
+palochka               = l                                                                        | 0x4cf
+pe.locl                = pe                                                                       | None
+schwacyr               = schwa                                                                    | 0x4d9
+shcha                  = sha + cy-descendercomb@cy_descender                                      | 0x449
+shha                   = h                                                                        | 0x4bb
+te.locl                = te                                                                       | None
+tedescender-cy         = te + cy-descendercomb@cy_descender                                       | 0x4ad
+tshe                   = h + horizontalbarlc@center                                               | 0x045B
+ucyr                   = y                                                                        | 0443
+udieresiscyr           = y + dieresiscomb@top                                                     | 0x4f1
+uhungarumlautcyr       = y + hungarumlautcomb@top                                                 | 0x4f3
+umacroncyr             = y + macroncomb@top                                                       | 0x4ef
+ushort                 = y + breve.cyrcomb@top                                                    | 0x45e
+ustraightstroke        = ustraight + u-stroke                                                     | 0x4b1
+yamacron               = ya + macroncomb@top                                                      | 0xf529
+yeru                   = soft & idotless                                                          | 0x044B
+yi                     = idotless + yi-dieresiscomb@top                                           | 0x457
+yu                     = idotless + yu-dash@yu_dash + o@yu_dash ^ idotless,o                      | 0x044E
+yumacron               = yu + macroncomb@top                                                      | 0xf52d
+
+zedescendercyr         = ze + cedillacomb@bottom                                                  | 0x499
+zhebrevecyr            = zhe + breve.cyrcomb@top                                                  | 0x4c2
+zhedescender           = zhe + cy-descendercomb@cy_descender                                      | 0x497
+zhedieresiscyr         = zhe + dieresiscomb@top                                                   | 0x4dd
+
+che.bgr                = che                                                                      | None
+de.bgr                 = g                                                                        | None
+en.bgr                 = en                                                                       | None
+i.bgr                  = u                                                                        | None
+igrave.bgr             = u + gravecomb@top                                                        | None
+ishort.bgr             = u + breve.cyrcomb@top                                                    | None
+ka.bgr                 = k                                                                        | None
+pe.bgr                 = n                                                                        | None
+shcha.bgr              = sha.bgr + cy-descendercomb@cy_descender                                  | None
+te.bgr                 = m                                                                        | None
+tse.bgr                = u + cy-descendercomb@cy_descender                                        | None
+
+# -----------------
+#  D I G R A P H S
+# -----------------
+
+IJ                     = I&J                                                                      | 0x132
+IJacute                = I&J + acutecomb.case@top                                                 | None
+Iacute_J.loclNLD       = I + acutecomb.case@top&J + acutecomb.case@top                            | None
+
+ij                     = idotless + idot@top&jdotless + idot@top                                  | 0x133
+ijacute                = idotless + idot@top&jdotless + acutecomb@jdotless:top                    | None
+iacute_j.loclNLD       = idotless + acutecomb@top&jdotless + acutecomb@top                        | None
+
+DZcaron                = D&\Z + caroncomb.case@top                                                | 0x1c4
+Dzcaron                = D &\z + caroncomb@top                                                    | 0x1c5
+dzcaron                = d&\z + caroncomb@top                                                     | 0x1c6
+
+LJ                     = L&J                                                                      | 0x1c7
+Lj                     = L&jdotless + idot@top                                                    | 0x1c8
+lj                     = l&jdotless + idot@top                                                    | 0x1c9
+
+NJ                     = N&J                                                                      | 0x1ca
+Nj                     = N&jdotless + idot@top                                                    | 0x1cb
+nj                     = n&jdotless + idot@top                                                    | 0x1cc
+
+# -------------------
+#  L I G A T U R E S 
+# -------------------
+
+f_f                    = f&f                                                                      | FB00
+f_f_i                  = f&f&idotless + idot@top                                                  | FB03
+f_f_ij                 = f&f&idotless + idot@top&jdotless + idot@top                              | None
+f_f_l                  = f&f&l                                                                    | FB04
+f_ij                   = f&idotless + idot@top&jdotless + idot@top                                | None
+fi                     = f&idotless + idot@top                                                    | FB01
+fl                     = f&l                                                                      | FB02
+
+# ---------------
+#  A C C E N T S
+# ---------------
+
+acute                         = acutecomb ^ 1048
+acute.case                    = acutecomb.case ^ 1048
+acute-stack                   = acutecomb ^ 1048
+acute-stack.case              = acutecomb.case ^ 1048
+
+breve                         = brevecomb ^ 1048
+breve.case                    = brevecomb.case ^ 1048
+breve-stack                   = brevecomb ^ 1048
+breve-stack.case              = brevecomb.case ^ 1048
+
+brevebelow                    = brevebelowcomb ^ 1048
+brevebelow.case               = brevebelowcomb.case ^ 1048
+
+breveinverted                 = breveinvertedcomb ^ 1048
+breveinverted.case            = breveinvertedcomb.case ^ 1048
+breveinverted-stack           = breveinvertedcomb ^ 1048
+breveinverted-stack.case      = breveinvertedcomb.case ^ 1048
+
+caron                         = caroncomb ^ 1048
+caron.case                    = caroncomb.case ^ 1048
+caron-stack                   = caroncomb ^ 1048
+caron-stack.case              = caroncomb.case ^ 1048
+
+cedilla                       = cedillacomb ^ 1048
+cedilla.case                  = cedillacomb.case ^ 1048
+
+circumflex                    = circumflexcomb ^ 1048
+circumflex.case               = circumflexcomb.case ^ 1048
+circumflex-stack              = circumflexcomb ^ 1048
+circumflex-stack.case         = circumflexcomb.case ^ 1048
+
+commaaccent                   = commaaccentcomb ^ 1048
+commaaccent.case              = commaaccentcomb.case ^ 1048
+commaaccentturned             = commaaccentturnedcomb ^ 1048
+
+dblgrave                      = dblgravecomb ^ 1048
+dblgrave.case                 = dblgravecomb.case ^ 1048
+dblgrave-stack                = dblgravecomb ^ 1048
+dblgrave-stack.case           = dblgravecomb.case ^ 1048
+
+dieresis                      = dieresiscomb ^ 1048
+dieresis.case                 = dieresiscomb.case ^ 1048
+dieresis-stack                = dieresiscomb ^ 1048
+dieresis-stack.case           = dieresiscomb.case ^ 1048
+
+dieresisbelow                 = dieresisbelowcomb ^ 1048
+dieresisbelow.case            = dieresisbelowcomb.case ^ 1048
+
+dotaccent                     = dotaccentcomb ^ 1048
+dotaccent.case                = dotaccentcomb.case ^ 1048
+dotaccent-stack               = dotaccentcomb ^ 1048
+dotaccent-stack.case          = dotaccentcomb.case ^ 1048
+
+dotbelow                      = dotbelowcomb ^ 1048
+dotbelow.case                 = dotbelowcomb.case ^ 1048
+
+grave                         = gravecomb ^ 1048
+grave.case                    = gravecomb.case ^ 1048
+grave-stack                   = gravecomb ^ 1048
+grave-stack.case              = gravecomb.case ^ 1048
+
+hookabove                     = hookabovecomb ^ 1048
+hookabove.case                = hookabovecomb.case ^ 1048
+hookabove-stack               = hookabovecomb ^ 1048
+hookabove-stack.case          = hookabovecomb.case ^ 1048
+
+horn                          = horncomb ^ 1048
+horn.case                     = horncomb.case ^ 1048
+
+hungarumlaut                  = hungarumlautcomb ^ 1048
+hungarumlaut.case             = hungarumlautcomb.case ^ 1048
+hungarumlaut-stack            = hungarumlautcomb ^ 1048
+hungarumlaut-stack.case       = hungarumlautcomb.case ^ 1048
+
+macron                        = macroncomb ^ 1048
+macron.case                   = macroncomb.case ^ 1048
+macron-stack                  = macroncomb ^ 1048
+macron-stack.case             = macroncomb.case ^ 1048
+
+macronbelow                   = macronbelowcomb ^ 1048
+macronbelow.case              = macronbelowcomb.case ^ 1048
+
+ogonek                        = ogonekcomb ^ 1048
+ogonek.case                   = ogonekcomb.case ^ 1048
+
+ring                          = ringcomb ^ 1048
+ring.case                     = ringcomb.case ^ 1048
+ring-stack                    = ringcomb ^ 1048
+ring-stack.case               = ringcomb.case ^ 1048
+
+tilde                         = tildecomb ^ 1048
+tilde.case                    = tildecomb.case ^ 1048
+tilde-stack                   = tildecomb ^ 1048
+tilde-stack.case              = tildecomb.case ^ 1048
+
+tonos                         = tonoscomb ^ 1048 | 0x0384 
+dieresistonos                 = dieresistonoscomb ^ 1048 | 0x0385 
+
+breve.cyr                     = breve.cyrcomb ^ 1048
+breve.cyr.case                = breve.cyrcomb.case ^ 1048
+
+firsttonechinese              = macroncomb ^ 1048
+
+# -----------------
+#  E T C E T E R A
+# -----------------
+
+ellipsis                      = period&period&period                                              | 0x2026
+
+hyphentwo                     = hyphen                                                            | 0x2010
+softhyphen                    = hyphen                                                            | 0xooAD
+
+periodcentered.loclCAT        = periodcentered                                                    | None
+periodcentered.loclCAT.case   = periodcentered                                                    | None
+
+increment                     = Delta                                                             | 0x2206
+ohm                           = Omega                                                             | 0x2126

@@ -6,7 +6,7 @@
   <anchor x="715" y="998" name="top"/>
   <outline>
     <contour>
-      <point x="415" y="-8" type="line"/>
+      <point x="416" y="-8" type="line"/>
       <point x="252" y="476" type="line"/>
       <point x="110" y="873" type="line"/>
       <point x="3" y="908" type="line"/>
@@ -33,19 +33,19 @@
       <point x="990" y="192" type="line"/>
       <point x="1023" y="305" type="line"/>
       <point x="1099" y="530" type="line"/>
-      <point x="1206" y="878" type="line"/>
-      <point x="1082" y="908" type="line"/>
-      <point x="1082" y="998" type="line"/>
+      <point x="1205" y="878" type="line"/>
+      <point x="1081" y="908" type="line"/>
+      <point x="1081" y="998" type="line"/>
       <point x="1458" y="998" type="line"/>
       <point x="1458" y="908" type="line"/>
       <point x="1324" y="873" type="line"/>
       <point x="1191" y="493" type="line"/>
       <point x="1027" y="-8" type="line"/>
       <point x="913" y="-8" type="line"/>
-      <point x="759" y="440" type="line"/>
+      <point x="758" y="440" type="line"/>
       <point x="723" y="555" type="line"/>
       <point x="713" y="555" type="line"/>
-      <point x="679" y="440" type="line"/>
+      <point x="680" y="440" type="line"/>
       <point x="529" y="-8" type="line"/>
     </contour>
   </outline>

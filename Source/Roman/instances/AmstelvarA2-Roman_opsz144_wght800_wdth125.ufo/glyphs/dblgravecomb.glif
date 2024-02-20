@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <advance width="310"/>
+  <unicode hex="0311"/>
+  <anchor x="155" y="1000" name="_top"/>
+  <anchor x="155" y="1585" name="top"/>
+  <outline>
+    <contour>
+      <point x="-364" y="1492" type="qcurve"/>
+      <point x="-364" y="1532"/>
+      <point x="-307" y="1577"/>
+      <point x="-271" y="1577" type="qcurve" smooth="yes"/>
+      <point x="-229" y="1577"/>
+      <point x="-172" y="1524"/>
+      <point x="-138" y="1478" type="qcurve" smooth="yes"/>
+      <point x="43" y="1230" type="line"/>
+      <point x="-44" y="1151" type="line"/>
+      <point x="-271" y="1353" type="line" smooth="yes"/>
+      <point x="-304" y="1383"/>
+      <point x="-364" y="1454"/>
+    </contour>
+    <contour>
+      <point x="33" y="1492" type="qcurve"/>
+      <point x="33" y="1532"/>
+      <point x="90" y="1577"/>
+      <point x="126" y="1577" type="qcurve" smooth="yes"/>
+      <point x="168" y="1577"/>
+      <point x="226" y="1523"/>
+      <point x="260" y="1477" type="qcurve" smooth="yes"/>
+      <point x="440" y="1230" type="line"/>
+      <point x="353" y="1151" type="line"/>
+      <point x="126" y="1353" type="line" smooth="yes"/>
+      <point x="93" y="1383"/>
+      <point x="33" y="1454"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

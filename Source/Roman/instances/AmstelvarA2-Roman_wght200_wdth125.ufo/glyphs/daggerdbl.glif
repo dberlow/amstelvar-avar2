@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="1208"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="597" y="-540" type="line"/>
+      <point x="519" y="-58" type="line"/>
+      <point x="543" y="550" type="line"/>
+      <point x="541" y="830" type="line"/>
+      <point x="509" y="1438" type="line"/>
+      <point x="559" y="1503" type="line"/>
+      <point x="639" y="1506" type="line"/>
+      <point x="685" y="1438" type="line"/>
+      <point x="661" y="830" type="line"/>
+      <point x="663" y="550" type="line"/>
+      <point x="685" y="-58" type="line"/>
+      <point x="617" y="-540" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="852" type="line"/>
+      <point x="190" y="1000" type="line"/>
+      <point x="603" y="992" type="line"/>
+      <point x="1014" y="1000" type="line"/>
+      <point x="1014" y="852" type="line"/>
+      <point x="603" y="856" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="423" type="line"/>
+      <point x="194" y="571" type="line"/>
+      <point x="607" y="563" type="line"/>
+      <point x="1018" y="571" type="line"/>
+      <point x="1018" y="423" type="line"/>
+      <point x="607" y="427" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

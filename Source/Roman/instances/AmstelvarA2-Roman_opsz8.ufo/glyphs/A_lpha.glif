@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alpha" format="2">
-  <advance width="1678"/>
+  <advance width="1588"/>
   <unicode hex="0391"/>
   <outline>
     <component base="A"/>
@@ -10,7 +10,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

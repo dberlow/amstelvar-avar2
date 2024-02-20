@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarl" format="2">
+  <advance width="717"/>
+  <outline>
+    <contour>
+      <point x="319" y="807" type="line"/>
+      <point x="387" y="861" type="line"/>
+      <point x="467" y="719" type="line"/>
+      <point x="394" y="690" type="line"/>
+      <point x="128" y="469" type="line"/>
+      <point x="44" y="614" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

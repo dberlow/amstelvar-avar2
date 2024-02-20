@@ -5,10 +5,10 @@
   <outline>
     <contour>
       <point x="1656" y="105" type="line"/>
-      <point x="1816" y="105" type="line"/>
-      <point x="1826" y="-318" type="line"/>
-      <point x="1734" y="-318" type="line"/>
-      <point x="1645" y="0" type="line"/>
+      <point x="1786" y="105" type="line"/>
+      <point x="1796" y="-318" type="line"/>
+      <point x="1796" y="-318" type="line"/>
+      <point x="1707" y="0" type="line"/>
       <point x="80" y="0" type="line"/>
       <point x="80" y="80" type="line"/>
       <point x="228" y="115" type="line"/>
@@ -46,6 +46,8 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.5734,0.34590</string>
     </dict>
   </lib>
 </glyph>

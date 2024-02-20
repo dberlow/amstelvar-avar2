@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkircyr" format="2">
+  <advance width="1787"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="438" y="954" type="line"/>
+      <point x="186" y="954" type="line"/>
+      <point x="134" y="681" type="line"/>
+      <point x="71" y="681" type="line"/>
+      <point x="71" y="1000" type="line"/>
+      <point x="963" y="1000" type="line"/>
+      <point x="963" y="948" type="line"/>
+      <point x="801" y="913" type="line"/>
+      <point x="799" y="500" type="line"/>
+      <point x="801" y="87" type="line"/>
+      <point x="963" y="52" type="line"/>
+      <point x="963" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="266" y="52" type="line"/>
+      <point x="438" y="87" type="line"/>
+      <point x="440" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="716" y="519" type="line"/>
+      <point x="1049" y="518" type="line"/>
+      <point x="1397" y="908" type="line"/>
+      <point x="1190" y="948" type="line"/>
+      <point x="1190" y="1000" type="line"/>
+      <point x="1605" y="1000" type="line"/>
+      <point x="1605" y="948" type="line"/>
+      <point x="1448" y="903" type="line"/>
+      <point x="1070" y="485" type="line"/>
+      <point x="1061" y="474" type="line"/>
+      <point x="716" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="515" type="line"/>
+      <point x="1269" y="573" type="line"/>
+      <point x="1678" y="87" type="line"/>
+      <point x="1797" y="52" type="line"/>
+      <point x="1797" y="0" type="line"/>
+      <point x="1229" y="0" type="line"/>
+      <point x="1224" y="51" type="line"/>
+      <point x="1277" y="83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

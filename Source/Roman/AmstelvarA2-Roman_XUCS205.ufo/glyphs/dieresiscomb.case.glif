@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="1469"/>
+  <anchor x="734" y="1500" name="_top"/>
+  <anchor x="734" y="1901" name="top"/>
+  <outline>
+    <contour>
+      <point x="388" y="1787" type="qcurve" smooth="yes"/>
+      <point x="388" y="1842"/>
+      <point x="448" y="1901"/>
+      <point x="504" y="1901" type="qcurve" smooth="yes"/>
+      <point x="557" y="1901"/>
+      <point x="620" y="1838"/>
+      <point x="620" y="1787" type="qcurve" smooth="yes"/>
+      <point x="620" y="1733"/>
+      <point x="561" y="1674"/>
+      <point x="504" y="1674" type="qcurve" smooth="yes"/>
+      <point x="451" y="1674"/>
+      <point x="388" y="1736"/>
+    </contour>
+    <contour>
+      <point x="848" y="1787" type="qcurve" smooth="yes"/>
+      <point x="848" y="1842"/>
+      <point x="908" y="1901"/>
+      <point x="964" y="1901" type="qcurve" smooth="yes"/>
+      <point x="1017" y="1901"/>
+      <point x="1080" y="1838"/>
+      <point x="1080" y="1787" type="qcurve" smooth="yes"/>
+      <point x="1080" y="1733"/>
+      <point x="1021" y="1674"/>
+      <point x="964" y="1674" type="qcurve" smooth="yes"/>
+      <point x="911" y="1674"/>
+      <point x="848" y="1736"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

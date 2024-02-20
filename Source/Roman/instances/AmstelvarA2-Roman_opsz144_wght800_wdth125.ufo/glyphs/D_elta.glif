@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="1436"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="47" type="line"/>
+      <point x="317" y="533" type="line"/>
+      <point x="669" y="1508" type="line"/>
+      <point x="731" y="1508" type="line"/>
+      <point x="1111" y="535" type="line"/>
+      <point x="1308" y="48" type="line"/>
+      <point x="1308" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="47" type="line"/>
+      <point x="681" y="41" type="line"/>
+      <point x="1095" y="47" type="line"/>
+      <point x="1103" y="53" type="line"/>
+      <point x="940" y="513" type="line"/>
+      <point x="689" y="1156" type="line"/>
+      <point x="652" y="1270" type="line"/>
+      <point x="642" y="1270" type="line"/>
+      <point x="605" y="1156" type="line"/>
+      <point x="364" y="498" type="line"/>
+      <point x="207" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaisymbol" format="2">
+  <advance width="1082"/>
+  <unicode hex="03D7"/>
+  <outline>
+    <component base="kappa"/>
+    <component base="ka-swash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

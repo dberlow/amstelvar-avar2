@@ -4,7 +4,7 @@
   <unicode hex="1EEC"/>
   <outline>
     <component base="hornU"/>
-    <component base="horncomb.case" xOffset="1589"/>
+    <component base="horncomb.case" xOffset="1969"/>
     <component base="hookabovecomb.case" xOffset="1032"/>
   </outline>
   <lib>

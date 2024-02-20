@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <advance width="307"/>
-  <anchor x="154" y="1500" name="_top"/>
-  <anchor x="154" y="2086" name="top"/>
+  <advance width="902"/>
+  <anchor x="451" y="1500" name="_top"/>
+  <anchor x="451" y="2086" name="top"/>
   <outline>
     <contour>
-      <point x="-75" y="2008" type="qcurve" smooth="yes"/>
-      <point x="-75" y="2043"/>
-      <point x="-14" y="2086"/>
-      <point x="20" y="2086" type="qcurve" smooth="yes"/>
-      <point x="57" y="2086"/>
-      <point x="137" y="2024"/>
-      <point x="172" y="1987" type="qcurve" smooth="yes"/>
-      <point x="383" y="1760" type="line"/>
-      <point x="309" y="1684" type="line"/>
-      <point x="6" y="1891" type="line" smooth="yes"/>
-      <point x="-35" y="1919"/>
-      <point x="-75" y="1961"/>
+      <point x="222" y="2008" type="qcurve" smooth="yes"/>
+      <point x="222" y="2043"/>
+      <point x="283" y="2086"/>
+      <point x="317" y="2086" type="qcurve" smooth="yes"/>
+      <point x="354" y="2086"/>
+      <point x="434" y="2024"/>
+      <point x="469" y="1987" type="qcurve" smooth="yes"/>
+      <point x="680" y="1760" type="line"/>
+      <point x="606" y="1684" type="line"/>
+      <point x="303" y="1891" type="line" smooth="yes"/>
+      <point x="262" y="1919"/>
+      <point x="222" y="1961"/>
     </contour>
   </outline>
   <lib>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hornU" format="2">
   <advance width="1632"/>
-  <anchor x="1382" y="1500" name="topright"/>
+  <anchor x="1211" y="1500" name="topright"/>
   <anchor x="843.0" y="1500" name="top"/>
   <outline>
     <contour>

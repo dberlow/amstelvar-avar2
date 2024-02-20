@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-  <advance width="914"/>
+  <advance width="817"/>
   <unicode hex="0407"/>
   <note>
 Yi-dieresiscomb
 </note>
   <outline>
-    <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="182"/>
+    <component base="I" xOffset="-4"/>
+    <component base="dieresiscomb.case" xOffset="408"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

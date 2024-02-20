@@ -2,8 +2,8 @@
 <glyph name="s" format="2">
   <advance width="1252"/>
   <unicode hex="0073"/>
-  <anchor x="468.0" y="0" name="bottom"/>
-  <anchor x="416.0" y="1000" name="top"/>
+  <anchor x="608.0" y="0" name="bottom"/>
+  <anchor x="606.0" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="52" y="0" type="line"/>
@@ -115,8 +115,6 @@
           <string>XOLC</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

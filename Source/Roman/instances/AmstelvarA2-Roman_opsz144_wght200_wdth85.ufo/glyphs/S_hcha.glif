@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha" format="2">
+  <advance width="2092"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="1846" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="20" type="line"/>
+      <point x="290" y="55" type="line"/>
+      <point x="292" y="746" type="line"/>
+      <point x="290" y="1443" type="line"/>
+      <point x="126" y="1477" type="line"/>
+      <point x="126" y="1500" type="line"/>
+      <point x="551" y="1500" type="line"/>
+      <point x="551" y="1477" type="line"/>
+      <point x="387" y="1443" type="line"/>
+      <point x="385" y="746" type="line"/>
+      <point x="387" y="49" type="line"/>
+      <point x="427" y="21" type="line"/>
+      <point x="957" y="21" type="line"/>
+      <point x="997" y="49" type="line"/>
+      <point x="999" y="754" type="line"/>
+      <point x="997" y="1443" type="line"/>
+      <point x="826" y="1476" type="line"/>
+      <point x="826" y="1500" type="line"/>
+      <point x="1267" y="1500" type="line"/>
+      <point x="1267" y="1476" type="line"/>
+      <point x="1095" y="1443" type="line"/>
+      <point x="1093" y="754" type="line"/>
+      <point x="1095" y="49" type="line"/>
+      <point x="1135" y="21" type="line"/>
+      <point x="1665" y="21" type="line"/>
+      <point x="1705" y="49" type="line"/>
+      <point x="1707" y="746" type="line"/>
+      <point x="1705" y="1443" type="line"/>
+      <point x="1541" y="1477" type="line"/>
+      <point x="1541" y="1500" type="line"/>
+      <point x="1966" y="1500" type="line"/>
+      <point x="1966" y="1477" type="line"/>
+      <point x="1802" y="1443" type="line"/>
+      <point x="1800" y="746" type="line"/>
+      <point x="1802" y="108" type="line"/>
+      <point x="1925" y="108" type="line"/>
+      <point x="1934" y="-329" type="line"/>
+      <point x="1913" y="-329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

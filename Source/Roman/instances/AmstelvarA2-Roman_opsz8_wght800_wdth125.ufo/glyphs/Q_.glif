@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="2483"/>
+  <unicode hex="0051"/>
+  <anchor x="1241" y="0" name="bottom"/>
+  <anchor x="1294" y="1488" name="top"/>
+  <outline>
+    <contour>
+      <point x="122" y="746" type="qcurve" smooth="yes"/>
+      <point x="122" y="1071"/>
+      <point x="753" y="1524"/>
+      <point x="1241" y="1524" type="qcurve" smooth="yes"/>
+      <point x="1742" y="1524"/>
+      <point x="2361" y="1100"/>
+      <point x="2361" y="754" type="qcurve" smooth="yes"/>
+      <point x="2361" y="404"/>
+      <point x="1716" y="-20"/>
+      <point x="1241" y="-20" type="qcurve" smooth="yes"/>
+      <point x="736" y="-20"/>
+      <point x="122" y="419"/>
+    </contour>
+    <contour>
+      <point x="580" y="772" type="qcurve" smooth="yes"/>
+      <point x="582" y="515"/>
+      <point x="944" y="164"/>
+      <point x="1239" y="164" type="qcurve" smooth="yes"/>
+      <point x="1557" y="164"/>
+      <point x="1901" y="484"/>
+      <point x="1903" y="747" type="qcurve" smooth="yes"/>
+      <point x="1905" y="996"/>
+      <point x="1542" y="1319"/>
+      <point x="1243" y="1319" type="qcurve" smooth="yes"/>
+      <point x="922" y="1319"/>
+      <point x="578" y="1028"/>
+    </contour>
+    <contour>
+      <point x="761" y="100" type="qcurve" identifier="jWZBD98qkQ"/>
+      <point x="1965" y="-167" type="line" identifier="7ZXZEQkAbx"/>
+      <point x="2025" y="-167"/>
+      <point x="2119" y="-77"/>
+      <point x="2155" y="-16" type="qcurve"/>
+      <point x="2296" y="-92" type="line"/>
+      <point x="2190" y="-320"/>
+      <point x="2007" y="-514"/>
+      <point x="1875" y="-514" type="qcurve" identifier="bSft9tBggp"/>
+      <point x="690" y="-247" type="line" identifier="aDYWDNvZlZ"/>
+      <point x="629" y="-247"/>
+      <point x="505" y="-296"/>
+      <point x="445" y="-352" type="qcurve"/>
+      <point x="328" y="-242" type="line"/>
+      <point x="426" y="-61"/>
+      <point x="664" y="100"/>
+    </contour>
+    <contour>
+      <point x="894" y="-96" type="line"/>
+      <point x="1051" y="202" type="line"/>
+      <point x="1204" y="144" type="line"/>
+      <point x="1043" y="-146" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 -1</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XUCR</string>
+        </dict>
+        <key>0 12</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOUC</string>
+        </dict>
+        <key>12 18</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTUC</string>
+        </dict>
+        <key>15 9</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>18 6</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOUC</string>
+        </dict>
+        <key>3 21</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>3 9</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTUC</string>
+        </dict>
+        <key>31 40</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>32 39</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>99 6</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XUCR</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.linkPoints</key>
+      <array>
+        <array>
+          <string>7ZXZEQkAbx</string>
+          <string>bSft9tBggp</string>
+        </array>
+        <array>
+          <string>jWZBD98qkQ</string>
+          <string>aDYWDNvZlZ</string>
+        </array>
+      </array>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

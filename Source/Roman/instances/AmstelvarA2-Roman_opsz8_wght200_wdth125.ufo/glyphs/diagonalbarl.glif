@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarl" format="2">
+  <advance width="841"/>
+  <outline>
+    <contour>
+      <point x="381" y="807" type="line"/>
+      <point x="526" y="926" type="line"/>
+      <point x="606" y="784" type="line"/>
+      <point x="456" y="690" type="line"/>
+      <point x="190" y="469" type="line"/>
+      <point x="106" y="614" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,19 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yu" format="2">
-  <advance width="2161"/>
+  <advance width="2138"/>
   <unicode hex="042E"/>
-  <guideline x="732" y="785" angle="90.0" identifier="6nH5tb4DEh"/>
   <anchor x="1044" y="0" name="bottom"/>
   <anchor x="1044" y="1500" name="top"/>
   <outline>
-    <component base="I" xOffset="22"/>
+    <component base="I" xOffset="64"/>
     <component base="Yu-dash.case" xOffset="-5"/>
-    <component base="O" xOffset="701"/>
+    <component base="O" xOffset="742"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

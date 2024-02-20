@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="underscore" format="2">
-  <advance width="1757"/>
+  <advance width="1737"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="5" y="-480" type="line"/>
-      <point x="5" y="-396" type="line"/>
-      <point x="883" y="-390" type="line"/>
-      <point x="1752" y="-396" type="line"/>
-      <point x="1752" y="-480" type="line"/>
-      <point x="883" y="-496" type="line"/>
+      <point x="-2" y="-480" type="line"/>
+      <point x="-2" y="-394" type="line"/>
+      <point x="873" y="-388" type="line"/>
+      <point x="1739" y="-394" type="line"/>
+      <point x="1739" y="-480" type="line"/>
+      <point x="873" y="-496" type="line"/>
     </contour>
   </outline>
   <lib>

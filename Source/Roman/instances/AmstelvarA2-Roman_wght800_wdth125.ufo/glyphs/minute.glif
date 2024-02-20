@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="738"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="187" y="986" type="line"/>
+      <point x="400" y="1455" type="line" smooth="yes"/>
+      <point x="419" y="1497"/>
+      <point x="506" y="1542"/>
+      <point x="559" y="1512" type="qcurve" smooth="yes"/>
+      <point x="611" y="1484"/>
+      <point x="623" y="1382"/>
+      <point x="593" y="1348" type="qcurve" smooth="yes"/>
+      <point x="246" y="964" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

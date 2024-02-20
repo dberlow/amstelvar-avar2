@@ -2,9 +2,6 @@
 <glyph name="cheverticalstroke-cy" format="2">
   <advance width="1237"/>
   <unicode hex="04B9"/>
-  <guideline x="302" y="625" angle="90" identifier="ghzYOvRP0g"/>
-  <guideline x="953" y="554" angle="90" identifier="yWzP0ZeDvZ"/>
-  <guideline x="627" y="553" angle="90" identifier="2rptuWkdhO"/>
   <outline>
     <contour>
       <point x="661" y="762" type="line"/>

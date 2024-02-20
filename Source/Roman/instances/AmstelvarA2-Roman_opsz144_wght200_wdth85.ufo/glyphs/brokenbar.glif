@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="386"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="113" y="688" type="line"/>
+      <point x="122" y="900" type="line"/>
+      <point x="110" y="1208" type="line"/>
+      <point x="98" y="1480" type="line"/>
+      <point x="288" y="1550" type="line"/>
+      <point x="276" y="1208" type="line"/>
+      <point x="262" y="900" type="line"/>
+      <point x="264" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="-540" type="line"/>
+      <point x="110" y="-128" type="line"/>
+      <point x="124" y="180" type="line"/>
+      <point x="122" y="348" type="line"/>
+      <point x="273" y="408" type="line"/>
+      <point x="264" y="180" type="line"/>
+      <point x="276" y="-128" type="line"/>
+      <point x="288" y="-451" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -6,6 +6,8 @@
     <string>_notdef.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>Ef</key>
@@ -14,12 +16,18 @@
     <string>F_.glif</string>
     <key>J</key>
     <string>J_.glif</string>
+    <key>Lambda</key>
+    <string>L_ambda.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
     <key>Psi</key>
     <string>P_si.glif</string>
     <key>Shha</key>
     <string>S_hha.glif</string>
+    <key>Sigma</key>
+    <string>S_igma.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>Yu</key>
@@ -70,6 +78,8 @@
     <string>dblgravecomb-stack.case.glif</string>
     <key>dblgravecomb.case</key>
     <string>dblgravecomb.case.glif</string>
+    <key>delta</key>
+    <string>delta.glif</string>
     <key>dieresisbelowcomb.case</key>
     <string>dieresisbelowcomb.case.glif</string>
     <key>dieresiscomb-stack</key>
@@ -86,8 +96,18 @@
     <string>dotaccentcomb.case.glif</string>
     <key>dotbelowcomb.case</key>
     <string>dotbelowcomb.case.glif</string>
+    <key>ecyr</key>
+    <string>ecyr.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
+    <key>finalsigma</key>
+    <string>finalsigma.glif</string>
+    <key>germandbls</key>
+    <string>germandbls.glif</string>
+    <key>ghe.bgr</key>
+    <string>ghe.bgr.glif</string>
     <key>gravecomb-stack</key>
     <string>gravecomb-stack.glif</string>
     <key>gravecomb-stack.case</key>
@@ -108,6 +128,8 @@
     <string>hungarumlautcomb.case.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>ieukran</key>
+    <string>ieukran.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>macronbelowcomb.case</key>
@@ -144,5 +166,9 @@
     <string>yi.glif</string>
     <key>yi-dieresiscomb</key>
     <string>yi-dieresiscomb.glif</string>
+    <key>ze.bgr</key>
+    <string>ze.bgr.glif</string>
+    <key>zeta</key>
+    <string>zeta.glif</string>
   </dict>
 </plist>

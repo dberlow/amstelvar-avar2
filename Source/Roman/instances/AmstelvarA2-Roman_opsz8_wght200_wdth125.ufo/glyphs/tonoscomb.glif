@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonoscomb" format="2">
+  <advance width="1154"/>
+  <anchor x="521" y="1000" name="_GRKtop"/>
+  <outline>
+    <contour>
+      <point x="395" y="1174" type="line"/>
+      <point x="359" y="1204" type="line"/>
+      <point x="469" y="1692" type="line"/>
+      <point x="606" y="1593" type="line"/>
+      <point x="636" y="1507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

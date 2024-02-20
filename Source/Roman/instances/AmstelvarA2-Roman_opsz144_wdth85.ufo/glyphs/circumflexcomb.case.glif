@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <advance width="1326"/>
+  <anchor x="663" y="1500" name="_top"/>
+  <anchor x="663" y="2063" name="top"/>
+  <outline>
+    <contour>
+      <point x="663" y="2063" type="qcurve" smooth="yes"/>
+      <point x="697" y="2063"/>
+      <point x="742" y="2032"/>
+      <point x="773" y="1990" type="qcurve" smooth="yes"/>
+      <point x="996" y="1747" type="line"/>
+      <point x="924" y="1667" type="line"/>
+      <point x="663" y="1869" type="line"/>
+      <point x="408" y="1674" type="line"/>
+      <point x="330" y="1747" type="line"/>
+      <point x="553" y="1990" type="line" smooth="yes"/>
+      <point x="596" y="2037"/>
+      <point x="629" y="2063"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

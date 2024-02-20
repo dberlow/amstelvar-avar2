@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el" format="2">
+  <advance width="1207"/>
+  <outline>
+    <contour>
+      <point x="567" y="439" type="move"/>
+      <point x="523" y="203"/>
+      <point x="272" y="-17"/>
+      <point x="-7" y="-17" type="qcurve" smooth="yes"/>
+      <point x="-48" y="-17"/>
+      <point x="-114" y="-11"/>
+      <point x="-167" y="-2" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

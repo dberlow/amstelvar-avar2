@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.cyr" format="2">
+  <advance width="1070"/>
+  <anchor x="535" y="1000" name="_top"/>
+  <outline>
+    <component base="breve.cyrcomb" xOffset="535"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>1,0.8,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

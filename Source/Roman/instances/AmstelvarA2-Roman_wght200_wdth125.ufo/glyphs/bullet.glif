@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="996"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="210" y="773" type="qcurve" smooth="yes"/>
+      <point x="210" y="889"/>
+      <point x="372" y="1061"/>
+      <point x="498" y="1061" type="qcurve" smooth="yes"/>
+      <point x="624" y="1061"/>
+      <point x="786" y="889"/>
+      <point x="786" y="773" type="qcurve" smooth="yes"/>
+      <point x="786" y="659"/>
+      <point x="624" y="487"/>
+      <point x="498" y="487" type="qcurve" smooth="yes"/>
+      <point x="372" y="487"/>
+      <point x="210" y="659"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

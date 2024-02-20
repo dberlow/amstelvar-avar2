@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="999"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="55" y="708" type="line"/>
+      <point x="919" y="708" type="line"/>
+      <point x="919" y="200" type="line"/>
+      <point x="759" y="200" type="line"/>
+      <point x="759" y="556" type="line"/>
+      <point x="55" y="556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

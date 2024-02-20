@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacroncyr" format="2">
+  <advance width="1126"/>
+  <unicode hex="F50F"/>
+  <outline>
+    <component base="a"/>
+    <component base="macroncomb" xOffset="-250" yOffset="-45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

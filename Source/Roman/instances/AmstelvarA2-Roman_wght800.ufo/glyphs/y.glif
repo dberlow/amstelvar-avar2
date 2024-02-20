@@ -3,7 +3,7 @@
   <advance width="1141"/>
   <unicode hex="0079"/>
   <anchor x="936" y="0" name="bottom"/>
-  <anchor x="633" y="1034" name="top"/>
+  <anchor x="634" y="1034" name="top"/>
   <outline>
     <contour>
       <point x="-10" y="916" type="line"/>
@@ -16,7 +16,7 @@
       <point x="678" y="212" type="line"/>
       <point x="688" y="212" type="line"/>
       <point x="717" y="326" type="line"/>
-      <point x="783" y="563" type="line"/>
+      <point x="782" y="563" type="line"/>
       <point x="867" y="886" type="line"/>
       <point x="740" y="916" type="line"/>
       <point x="740" y="1034" type="line"/>
@@ -25,9 +25,9 @@
       <point x="1012" y="881" type="line"/>
       <point x="900" y="519" type="line"/>
       <point x="653" y="-287" type="line" smooth="yes"/>
-      <point x="619" y="-400"/>
-      <point x="463" y="-492"/>
-      <point x="371" y="-492" type="qcurve"/>
+      <point x="618" y="-401"/>
+      <point x="463" y="-494"/>
+      <point x="371" y="-494" type="qcurve"/>
       <point x="235" y="-460" type="line"/>
       <point x="235" y="-357" type="line"/>
       <point x="328" y="-357" type="line" smooth="yes"/>
@@ -36,7 +36,7 @@
       <point x="554" y="-187" type="qcurve" smooth="yes"/>
       <point x="607" y="0" type="line"/>
       <point x="399" y="0" type="line"/>
-      <point x="242" y="495" type="line"/>
+      <point x="241" y="495" type="line"/>
       <point x="119" y="881" type="line"/>
     </contour>
   </outline>

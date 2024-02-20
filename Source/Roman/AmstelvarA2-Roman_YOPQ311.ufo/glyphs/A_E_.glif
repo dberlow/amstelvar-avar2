@@ -13,17 +13,17 @@
       <point x="756" y="1386" type="line"/>
       <point x="756" y="1500" type="line"/>
       <point x="1810" y="1500" type="line"/>
-      <point x="1810" y="1152" type="line"/>
-      <point x="1700" y="1152" type="line"/>
-      <point x="1665" y="1382" type="line"/>
-      <point x="1172" y="1382" type="line"/>
-      <point x="1143" y="1362" type="line"/>
+      <point x="1810" y="852" type="line"/>
+      <point x="1700" y="852" type="line"/>
+      <point x="1665" y="1082" type="line"/>
+      <point x="1172" y="1082" type="line"/>
+      <point x="1143" y="1062" type="line"/>
       <point x="1141" y="783" type="line"/>
-      <point x="1143" y="132" type="line"/>
-      <point x="1173" y="108" type="line"/>
-      <point x="1728" y="108" type="line"/>
-      <point x="1804" y="378" type="line"/>
-      <point x="1914" y="378" type="line"/>
+      <point x="1143" y="432" type="line"/>
+      <point x="1173" y="418" type="line"/>
+      <point x="1728" y="418" type="line"/>
+      <point x="1804" y="688" type="line"/>
+      <point x="1914" y="688" type="line"/>
       <point x="1874" y="0" type="line"/>
       <point x="756" y="0" type="line"/>
       <point x="756" y="100" type="line"/>
@@ -49,14 +49,14 @@
       <point x="725" y="448" type="line"/>
     </contour>
     <contour>
-      <point x="1055" y="738" type="line"/>
-      <point x="1055" y="834" type="line"/>
-      <point x="1519" y="844" type="line"/>
-      <point x="1554" y="1004" type="line"/>
-      <point x="1664" y="1004" type="line"/>
-      <point x="1664" y="568" type="line"/>
-      <point x="1554" y="568" type="line"/>
-      <point x="1519" y="728" type="line"/>
+      <point x="1055" y="538" type="line"/>
+      <point x="1055" y="936" type="line"/>
+      <point x="1519" y="946" type="line"/>
+      <point x="1554" y="1106" type="line"/>
+      <point x="1664" y="1106" type="line"/>
+      <point x="1664" y="368" type="line"/>
+      <point x="1554" y="368" type="line"/>
+      <point x="1519" y="528" type="line"/>
     </contour>
   </outline>
   <lib>

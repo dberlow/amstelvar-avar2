@@ -20,8 +20,8 @@
       <point x="536" y="920" type="line"/>
       <point x="398" y="885" type="line"/>
       <point x="396" y="500" type="line"/>
-      <point x="398" y="105" type="line"/>
-      <point x="857" y="105" type="line"/>
+      <point x="398" y="7" type="line"/>
+      <point x="857" y="7" type="line"/>
       <point x="859" y="500" type="line"/>
       <point x="856" y="885" type="line"/>
       <point x="719" y="920" type="line"/>
@@ -30,8 +30,8 @@
       <point x="1163" y="920" type="line"/>
       <point x="1026" y="885" type="line"/>
       <point x="1025" y="500" type="line"/>
-      <point x="1027" y="105" type="line"/>
-      <point x="1486" y="105" type="line"/>
+      <point x="1027" y="7" type="line"/>
+      <point x="1486" y="7" type="line"/>
       <point x="1488" y="500" type="line"/>
       <point x="1486" y="885" type="line"/>
       <point x="1348" y="920" type="line"/>

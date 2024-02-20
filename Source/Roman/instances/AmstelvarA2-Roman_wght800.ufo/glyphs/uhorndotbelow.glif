@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorndotbelow" format="2">
-  <advance width="1482"/>
+  <advance width="1478"/>
   <unicode hex="1EF1"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="1276" yOffset="34"/>
-    <component base="dotbelowcomb" xOffset="417"/>
+    <component base="horncomb" xOffset="1274" yOffset="34"/>
+    <component base="dotbelowcomb" xOffset="399"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -128136,7 +128136,7 @@
         <key>smartSetName</key>
         <string>uppercase</string>
         <key>uniqueKey</key>
-        <string>8200316096:7397596736</string>
+        <string>8200316096:5692681664</string>
       </dict>
       <dict>
         <key>group</key>
@@ -128349,6 +128349,8 @@
               <string>jdotless</string>
               <string>jcircumflex</string>
               <string>jacute.loclNLD</string>
+              <string>f_f_ij</string>
+              <string>f_ij</string>
             </array>
             <key>smartSetName</key>
             <string>lowercase latin</string>
@@ -128515,7 +128517,7 @@
         <key>smartSetName</key>
         <string>lowercase</string>
         <key>uniqueKey</key>
-        <string>8200316096:7397596288</string>
+        <string>8200316096:5692681984</string>
       </dict>
       <dict>
         <key>group</key>
@@ -128613,7 +128615,7 @@
         <key>smartSetName</key>
         <string>figures</string>
         <key>uniqueKey</key>
-        <string>8200316096:7397595712</string>
+        <string>8200316096:19672492736</string>
       </dict>
       <dict>
         <key>group</key>
@@ -128695,7 +128697,7 @@
         <key>smartSetName</key>
         <string>ascenders</string>
         <key>uniqueKey</key>
-        <string>8200316096:7397596416</string>
+        <string>8200316096:19672491456</string>
       </dict>
       <dict>
         <key>group</key>
@@ -128803,7 +128805,7 @@
         <key>smartSetName</key>
         <string>descenders</string>
         <key>uniqueKey</key>
-        <string>8200316096:7411413184</string>
+        <string>8200316096:19672491840</string>
       </dict>
       <dict>
         <key>group</key>
@@ -129005,7 +129007,7 @@
         <key>smartSetName</key>
         <string>accents</string>
         <key>uniqueKey</key>
-        <string>8200316096:7411413760</string>
+        <string>8200316096:19672490432</string>
       </dict>
     </array>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>

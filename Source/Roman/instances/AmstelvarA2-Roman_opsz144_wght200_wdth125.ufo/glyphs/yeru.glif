@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru" format="2">
+  <advance width="1433"/>
+  <unicode hex="044B"/>
+  <outline>
+    <contour>
+      <point x="368" y="24" type="line"/>
+      <point x="556" y="24" type="line" smooth="yes"/>
+      <point x="681" y="24"/>
+      <point x="782" y="190"/>
+      <point x="782" y="316" type="qcurve" smooth="yes"/>
+      <point x="782" y="438"/>
+      <point x="681" y="597"/>
+      <point x="556" y="597" type="qcurve" smooth="yes"/>
+      <point x="320" y="597" type="line"/>
+      <point x="320" y="621" type="line"/>
+      <point x="537" y="621" type="line" smooth="yes"/>
+      <point x="705" y="621"/>
+      <point x="885" y="455"/>
+      <point x="885" y="314" type="qcurve" smooth="yes"/>
+      <point x="885" y="172"/>
+      <point x="705" y="0"/>
+      <point x="537" y="0" type="qcurve" smooth="yes"/>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="20" type="line"/>
+      <point x="272" y="55" type="line"/>
+      <point x="274" y="500" type="line"/>
+      <point x="272" y="945" type="line"/>
+      <point x="84" y="980" type="line"/>
+      <point x="84" y="1000" type="line"/>
+      <point x="556" y="1000" type="line"/>
+      <point x="556" y="980" type="line"/>
+      <point x="368" y="945" type="line"/>
+      <point x="366" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1159" y="500" type="line"/>
+      <point x="1161" y="55" type="line"/>
+      <point x="1349" y="20" type="line"/>
+      <point x="1349" y="0" type="line"/>
+      <point x="877" y="0" type="line"/>
+      <point x="877" y="20" type="line"/>
+      <point x="1065" y="55" type="line"/>
+      <point x="1067" y="500" type="line"/>
+      <point x="1065" y="945" type="line"/>
+      <point x="877" y="980" type="line"/>
+      <point x="877" y="1000" type="line"/>
+      <point x="1349" y="1000" type="line"/>
+      <point x="1349" y="980" type="line"/>
+      <point x="1161" y="945" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

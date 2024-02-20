@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkircyr" format="2">
+  <advance width="1007"/>
+  <unicode hex="04A1"/>
+  <guideline x="241" y="553" angle="90" identifier="YNDjbAFYXT"/>
+  <guideline x="786" y="880" angle="0" identifier="xSy3cLxM1d"/>
+  <anchor x="663" y="0" name="bottom"/>
+  <anchor x="663" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="628" y="537" type="line"/>
+      <point x="634" y="543" type="line"/>
+      <point x="995" y="115" type="line"/>
+      <point x="1133" y="80" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="972" y="0" type="line"/>
+      <point x="960" y="79" type="line"/>
+      <point x="989" y="111" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="567" type="line"/>
+      <point x="593" y="564" type="line"/>
+      <point x="889" y="880" type="line"/>
+      <point x="722" y="920" type="line"/>
+      <point x="722" y="1000" type="line"/>
+      <point x="1168" y="1000" type="line"/>
+      <point x="1168" y="921" type="line"/>
+      <point x="1010" y="875" type="line"/>
+      <point x="626" y="473" type="line"/>
+      <point x="617" y="464" type="line"/>
+      <point x="443" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="500" type="line"/>
+      <point x="438" y="885" type="line"/>
+      <point x="290" y="920" type="line"/>
+      <point x="290" y="1000" type="line"/>
+      <point x="587" y="1000" type="line"/>
+      <point x="587" y="920" type="line"/>
+      <point x="449" y="885" type="line"/>
+      <point x="447" y="500" type="line"/>
+      <point x="449" y="115" type="line"/>
+      <point x="587" y="80" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="80" type="line"/>
+      <point x="438" y="115" type="line"/>
+    </contour>
+  </outline>
+</glyph>

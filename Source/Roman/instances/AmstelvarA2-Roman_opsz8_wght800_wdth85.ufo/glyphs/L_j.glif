@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lj" format="2">
+  <advance width="2112"/>
+  <outline>
+    <component base="L" xOffset="73"/>
+    <component base="jdotless" xOffset="1314"/>
+    <component base="idot" xOffset="1733" yOffset="83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

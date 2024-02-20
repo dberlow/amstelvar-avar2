@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <advance width="2040"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="106" y="1199" type="line"/>
+      <point x="253" y="1363"/>
+      <point x="651" y="1519"/>
+      <point x="937" y="1519" type="qcurve" smooth="yes"/>
+      <point x="1406" y="1519"/>
+      <point x="1918" y="1094"/>
+      <point x="1918" y="789" type="qcurve" smooth="yes"/>
+      <point x="1918" y="445"/>
+      <point x="1419" y="-30"/>
+      <point x="956" y="-30" type="qcurve" smooth="yes"/>
+      <point x="520" y="-30"/>
+      <point x="132" y="299"/>
+      <point x="132" y="578" type="qcurve" smooth="yes"/>
+      <point x="132" y="721" type="line"/>
+      <point x="1297" y="721" type="line"/>
+      <point x="1391" y="550" type="line"/>
+      <point x="950" y="558" type="line"/>
+      <point x="583" y="552" type="line"/>
+      <point x="583" y="487" type="line" smooth="yes"/>
+      <point x="583" y="337"/>
+      <point x="788" y="141"/>
+      <point x="987" y="141" type="qcurve" smooth="yes"/>
+      <point x="1197" y="141"/>
+      <point x="1463" y="480"/>
+      <point x="1460" y="750" type="qcurve" smooth="yes"/>
+      <point x="1457" y="1027"/>
+      <point x="1075" y="1332"/>
+      <point x="817" y="1332" type="qcurve" smooth="yes"/>
+      <point x="607" y="1332"/>
+      <point x="328" y="1214"/>
+      <point x="213" y="1088" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight" format="2">
+  <advance width="905"/>
+  <unicode hex="04AF"/>
+  <anchor x="540.0" y="-121" name="bottom"/>
+  <anchor x="540.0" y="879" name="top"/>
+  <outline>
+    <contour>
+      <point x="513" y="180" type="move"/>
+      <point x="551" y="66" type="line"/>
+      <point x="561" y="66" type="line"/>
+      <point x="597" y="180" type="line"/>
+    </contour>
+  </outline>
+</glyph>

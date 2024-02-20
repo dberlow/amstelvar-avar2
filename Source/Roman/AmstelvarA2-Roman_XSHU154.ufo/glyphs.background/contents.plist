@@ -10,12 +10,22 @@
     <string>D_.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
+    <key>De.bgr</key>
+    <string>D_e.bgr.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>Ef</key>
     <string>E_f.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>Kaisymbol</key>
+    <string>K_aisymbol.glif</string>
+    <key>Lambda</key>
+    <string>L_ambda.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
     <key>Psi</key>
@@ -24,6 +34,10 @@
     <string>R_.glif</string>
     <key>Shha</key>
     <string>S_hha.glif</string>
+    <key>Sigma</key>
+    <string>S_igma.glif</string>
+    <key>Ucyr</key>
+    <string>U_cyr.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>W</key>

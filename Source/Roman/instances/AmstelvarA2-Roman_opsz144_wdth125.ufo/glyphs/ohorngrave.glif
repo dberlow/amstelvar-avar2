@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorngrave" format="2">
+  <advance width="1380"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb" xOffset="871" yOffset="-81"/>
+    <component base="gravecomb" xOffset="544" yOffset="-81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

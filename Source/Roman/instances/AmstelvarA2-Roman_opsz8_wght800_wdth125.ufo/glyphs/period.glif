@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="823"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="190" y="198" type="qcurve" smooth="yes"/>
+      <point x="190" y="287"/>
+      <point x="314" y="419"/>
+      <point x="411" y="419" type="qcurve" smooth="yes"/>
+      <point x="508" y="419"/>
+      <point x="633" y="287"/>
+      <point x="633" y="198" type="qcurve" smooth="yes"/>
+      <point x="633" y="110"/>
+      <point x="508" y="-22"/>
+      <point x="411" y="-22" type="qcurve"/>
+      <point x="314" y="-22"/>
+      <point x="190" y="110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 6</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XDOT</string>
+        </dict>
+        <key>3 9</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YDOT</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

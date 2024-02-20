@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iukran" format="2">
-  <advance width="749"/>
+  <advance width="819"/>
   <unicode hex="0456"/>
   <outline>
     <component base="idotless"/>
-    <component base="idot" xOffset="375" yOffset="-2"/>
+    <component base="idot" xOffset="410" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

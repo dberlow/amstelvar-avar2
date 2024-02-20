@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="1094"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="230" y="1243" type="qcurve" smooth="yes"/>
+      <point x="230" y="1371"/>
+      <point x="408" y="1560"/>
+      <point x="547" y="1560" type="qcurve" smooth="yes"/>
+      <point x="686" y="1560"/>
+      <point x="864" y="1371"/>
+      <point x="864" y="1243" type="qcurve" smooth="yes"/>
+      <point x="864" y="1118"/>
+      <point x="686" y="928"/>
+      <point x="547" y="928" type="qcurve" smooth="yes"/>
+      <point x="408" y="928"/>
+      <point x="230" y="1118"/>
+    </contour>
+    <contour>
+      <point x="351" y="1243" type="qcurve" smooth="yes"/>
+      <point x="351" y="1167"/>
+      <point x="462" y="1049"/>
+      <point x="547" y="1049" type="qcurve" smooth="yes"/>
+      <point x="633" y="1049"/>
+      <point x="743" y="1167"/>
+      <point x="743" y="1243" type="qcurve" smooth="yes"/>
+      <point x="743" y="1323"/>
+      <point x="633" y="1439"/>
+      <point x="547" y="1439" type="qcurve" smooth="yes"/>
+      <point x="462" y="1439"/>
+      <point x="351" y="1323"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

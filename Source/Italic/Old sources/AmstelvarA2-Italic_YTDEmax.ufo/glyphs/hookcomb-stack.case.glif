@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcomb-stack.case" format="2">
+  <anchor x="0.0" y="1500" name="_top"/>
+  <anchor x="0.0" y="1949" name="top"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

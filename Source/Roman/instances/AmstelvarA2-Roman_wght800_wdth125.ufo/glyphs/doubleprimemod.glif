@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprimemod" format="2">
+  <advance width="872"/>
+  <unicode hex="02BA"/>
+  <outline>
+    <contour>
+      <point x="266" y="1502" type="line"/>
+      <point x="455" y="1502" type="line"/>
+      <point x="337" y="1004" type="line"/>
+      <point x="215" y="1009" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="1502" type="line"/>
+      <point x="755" y="1502" type="line"/>
+      <point x="637" y="1004" type="line"/>
+      <point x="515" y="1009" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzhe" format="2">
+  <advance width="1669"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="946" y="0" type="line"/>
+      <point x="897" y="-350" type="line"/>
+      <point x="772" y="-350" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="114" type="line"/>
+      <point x="290" y="149" type="line"/>
+      <point x="292" y="736" type="line"/>
+      <point x="290" y="1338" type="line"/>
+      <point x="84" y="1372" type="line"/>
+      <point x="84" y="1500" type="line"/>
+      <point x="650" y="1500" type="line"/>
+      <point x="650" y="1372" type="line"/>
+      <point x="444" y="1338" type="line"/>
+      <point x="442" y="736" type="line"/>
+      <point x="444" y="138" type="line"/>
+      <point x="484" y="110" type="line"/>
+      <point x="1184" y="110" type="line"/>
+      <point x="1224" y="138" type="line"/>
+      <point x="1226" y="736" type="line"/>
+      <point x="1224" y="1338" type="line"/>
+      <point x="1018" y="1372" type="line"/>
+      <point x="1018" y="1500" type="line"/>
+      <point x="1585" y="1500" type="line"/>
+      <point x="1585" y="1372" type="line"/>
+      <point x="1379" y="1338" type="line"/>
+      <point x="1377" y="736" type="line"/>
+      <point x="1379" y="149" type="line"/>
+      <point x="1585" y="114" type="line"/>
+      <point x="1585" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

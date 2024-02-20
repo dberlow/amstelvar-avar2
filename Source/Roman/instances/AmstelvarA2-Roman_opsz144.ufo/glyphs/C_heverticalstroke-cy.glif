@@ -2,7 +2,6 @@
 <glyph name="Cheverticalstroke-cy" format="2">
   <advance width="1654"/>
   <unicode hex="04B8"/>
-  <guideline x="1330" y="777" angle="90.0" identifier="SFQDOVOlnA"/>
   <outline>
     <contour>
       <point x="887" y="1145" type="line"/>
@@ -11,29 +10,29 @@
       <point x="737" y="1145" type="line"/>
     </contour>
     <contour>
-      <point x="968" y="0" type="line"/>
-      <point x="968" y="100" type="line"/>
-      <point x="1196" y="135" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1016" y="24" type="line"/>
+      <point x="1196" y="59" type="line"/>
       <point x="1198" y="754" type="line"/>
-      <point x="1196" y="1352" type="line"/>
-      <point x="988" y="1386" type="line"/>
-      <point x="988" y="1500" type="line"/>
-      <point x="1572" y="1500" type="line"/>
-      <point x="1572" y="1386" type="line"/>
-      <point x="1364" y="1352" type="line"/>
+      <point x="1196" y="1439" type="line"/>
+      <point x="1032" y="1473" type="line"/>
+      <point x="1032" y="1500" type="line"/>
+      <point x="1528" y="1500" type="line"/>
+      <point x="1528" y="1473" type="line"/>
+      <point x="1364" y="1439" type="line"/>
       <point x="1362" y="754" type="line"/>
-      <point x="1364" y="135" type="line"/>
-      <point x="1572" y="100" type="line"/>
-      <point x="1572" y="0" type="line"/>
+      <point x="1364" y="59" type="line"/>
+      <point x="1528" y="24" type="line"/>
+      <point x="1528" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="1386" type="line"/>
-      <point x="50" y="1500" type="line"/>
-      <point x="634" y="1500" type="line"/>
-      <point x="634" y="1386" type="line"/>
-      <point x="427" y="1352" type="line"/>
+      <point x="94" y="1473" type="line"/>
+      <point x="94" y="1500" type="line"/>
+      <point x="590" y="1500" type="line"/>
+      <point x="590" y="1473" type="line"/>
+      <point x="427" y="1439" type="line"/>
       <point x="426" y="1016" type="line" smooth="yes"/>
-      <point x="425" y="821"/>
+      <point x="426" y="821"/>
       <point x="630" y="666"/>
       <point x="854" y="666" type="qcurve" smooth="yes"/>
       <point x="973" y="666"/>
@@ -46,7 +45,7 @@
       <point x="551" y="637"/>
       <point x="258" y="854"/>
       <point x="258" y="1081" type="qcurve" smooth="yes"/>
-      <point x="258" y="1352" type="line"/>
+      <point x="258" y="1439" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha" format="2">
+  <advance width="2311"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="1235" y="140" type="line"/>
+      <point x="1275" y="112" type="line"/>
+      <point x="1805" y="112" type="line"/>
+      <point x="1845" y="140" type="line"/>
+      <point x="1847" y="746" type="line"/>
+      <point x="1845" y="1336" type="line"/>
+      <point x="1625" y="1370" type="line"/>
+      <point x="1625" y="1500" type="line"/>
+      <point x="2223" y="1500" type="line"/>
+      <point x="2223" y="1370" type="line"/>
+      <point x="2003" y="1336" type="line"/>
+      <point x="2001" y="746" type="line"/>
+      <point x="2003" y="151" type="line"/>
+      <point x="2223" y="116" type="line"/>
+      <point x="2223" y="0" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="88" y="116" type="line"/>
+      <point x="308" y="151" type="line"/>
+      <point x="310" y="746" type="line"/>
+      <point x="308" y="1336" type="line"/>
+      <point x="88" y="1370" type="line"/>
+      <point x="88" y="1500" type="line"/>
+      <point x="686" y="1500" type="line"/>
+      <point x="686" y="1370" type="line"/>
+      <point x="466" y="1336" type="line"/>
+      <point x="464" y="746" type="line"/>
+      <point x="466" y="140" type="line"/>
+      <point x="506" y="112" type="line"/>
+      <point x="1036" y="112" type="line"/>
+      <point x="1076" y="140" type="line"/>
+      <point x="1078" y="754" type="line"/>
+      <point x="1076" y="1333" type="line"/>
+      <point x="846" y="1366" type="line"/>
+      <point x="846" y="1500" type="line"/>
+      <point x="1465" y="1500" type="line"/>
+      <point x="1465" y="1366" type="line"/>
+      <point x="1235" y="1333" type="line"/>
+      <point x="1233" y="754" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="firsttonechinese" format="2">
   <advance width="1048"/>
   <outline>
-    <component base="macroncomb" xOffset="524.0"/>
+    <component base="macroncomb" xOffset="524"/>
   </outline>
   <lib>
     <dict>

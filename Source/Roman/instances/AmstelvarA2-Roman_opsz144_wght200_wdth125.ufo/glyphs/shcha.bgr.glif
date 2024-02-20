@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha.bgr" format="2">
+  <advance width="1803"/>
+  <outline>
+    <contour>
+      <point x="1595" y="0" type="line"/>
+      <point x="1448" y="0" type="line"/>
+      <point x="1429" y="27" type="line"/>
+      <point x="1416" y="147" type="line"/>
+      <point x="1365" y="72"/>
+      <point x="1197" y="-21"/>
+      <point x="1107" y="-21" type="qcurve" smooth="yes"/>
+      <point x="998" y="-21"/>
+      <point x="865" y="74"/>
+      <point x="845" y="159" type="qcurve"/>
+      <point x="788" y="71"/>
+      <point x="617" y="-21"/>
+      <point x="524" y="-21" type="qcurve" smooth="yes"/>
+      <point x="386" y="-21"/>
+      <point x="248" y="128"/>
+      <point x="248" y="258" type="qcurve" smooth="yes"/>
+      <point x="248" y="330"/>
+      <point x="252" y="448"/>
+      <point x="252" y="473" type="qcurve" smooth="yes"/>
+      <point x="248" y="913" type="line"/>
+      <point x="60" y="943" type="line"/>
+      <point x="60" y="966" type="line"/>
+      <point x="285" y="1000" type="line"/>
+      <point x="320" y="1000" type="line"/>
+      <point x="345" y="964" type="line"/>
+      <point x="343" y="473" type="line"/>
+      <point x="343" y="262" type="line" smooth="yes"/>
+      <point x="343" y="167"/>
+      <point x="445" y="13"/>
+      <point x="540" y="13" type="qcurve" smooth="yes"/>
+      <point x="618" y="13"/>
+      <point x="783" y="120"/>
+      <point x="834" y="227" type="qcurve"/>
+      <point x="834" y="236"/>
+      <point x="834" y="254"/>
+      <point x="834" y="263" type="qcurve" smooth="yes"/>
+      <point x="834" y="351"/>
+      <point x="836" y="451"/>
+      <point x="836" y="473" type="qcurve" smooth="yes"/>
+      <point x="831" y="913" type="line"/>
+      <point x="643" y="943" type="line"/>
+      <point x="643" y="966" type="line"/>
+      <point x="867" y="1000" type="line"/>
+      <point x="902" y="1000" type="line"/>
+      <point x="927" y="964" type="line"/>
+      <point x="926" y="473" type="line"/>
+      <point x="926" y="262" type="line" smooth="yes"/>
+      <point x="926" y="166"/>
+      <point x="1029" y="13"/>
+      <point x="1123" y="13" type="qcurve" smooth="yes"/>
+      <point x="1201" y="13"/>
+      <point x="1362" y="120"/>
+      <point x="1414" y="228" type="qcurve"/>
+      <point x="1415" y="473" type="line"/>
+      <point x="1413" y="913" type="line"/>
+      <point x="1235" y="943" type="line"/>
+      <point x="1235" y="966" type="line"/>
+      <point x="1449" y="1000" type="line"/>
+      <point x="1484" y="1000" type="line"/>
+      <point x="1509" y="964" type="line"/>
+      <point x="1507" y="473" type="line"/>
+      <point x="1511" y="105" type="line"/>
+      <point x="1697" y="105" type="line"/>
+      <point x="1701" y="-85" type="line"/>
+      <point x="1619" y="-85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

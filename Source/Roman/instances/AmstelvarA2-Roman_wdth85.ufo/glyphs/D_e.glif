@@ -4,22 +4,22 @@
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="1432" y="-338" type="line"/>
-      <point x="1363" y="0" type="line"/>
-      <point x="241" y="0" type="line"/>
-      <point x="172" y="-338" type="line"/>
-      <point x="50" y="-338" type="line"/>
-      <point x="60" y="107" type="line"/>
-      <point x="1544" y="107" type="line"/>
-      <point x="1554" y="-338" type="line"/>
+      <point x="1416" y="-332" type="line"/>
+      <point x="1348" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="184" y="-332" type="line"/>
+      <point x="63" y="-332" type="line"/>
+      <point x="73" y="107" type="line"/>
+      <point x="1527" y="107" type="line"/>
+      <point x="1537" y="-332" type="line"/>
     </contour>
     <contour>
       <point x="390" y="794" type="qcurve" smooth="yes"/>
       <point x="438" y="1352" type="line"/>
-      <point x="230" y="1386" type="line"/>
-      <point x="230" y="1500" type="line"/>
-      <point x="1544" y="1500" type="line"/>
-      <point x="1544" y="1386" type="line"/>
+      <point x="246" y="1386" type="line"/>
+      <point x="246" y="1500" type="line"/>
+      <point x="1528" y="1500" type="line"/>
+      <point x="1528" y="1386" type="line"/>
       <point x="1336" y="1352" type="line"/>
       <point x="1334" y="754" type="line"/>
       <point x="1336" y="49" type="line"/>

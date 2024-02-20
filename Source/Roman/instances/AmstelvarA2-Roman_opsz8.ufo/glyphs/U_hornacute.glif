@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhornacute" format="2">
-  <advance width="1894"/>
+  <advance width="1848"/>
   <unicode hex="1EE8"/>
   <outline>
     <component base="hornU"/>
-    <component base="horncomb.case" xOffset="1352"/>
-    <component base="acutecomb.case" xOffset="675"/>
+    <component base="horncomb.case" xOffset="1671"/>
+    <component base="acutecomb.case" xOffset="878"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

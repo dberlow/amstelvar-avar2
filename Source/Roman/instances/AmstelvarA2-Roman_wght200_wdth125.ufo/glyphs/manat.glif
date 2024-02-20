@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="1646"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="1524" y="114" type="line"/>
+      <point x="1524" y="0" type="line"/>
+      <point x="998" y="0" type="line"/>
+      <point x="998" y="114" type="line"/>
+      <point x="1175" y="148" type="line"/>
+      <point x="1180" y="506" type="line"/>
+      <point x="1176" y="926" type="line" smooth="yes"/>
+      <point x="1174" y="1118"/>
+      <point x="979" y="1286"/>
+      <point x="800" y="1286" type="qcurve" smooth="yes"/>
+      <point x="639" y="1286"/>
+      <point x="438" y="1103"/>
+      <point x="436" y="906" type="qcurve" smooth="yes"/>
+      <point x="434" y="506" type="line"/>
+      <point x="436" y="148" type="line"/>
+      <point x="624" y="114" type="line"/>
+      <point x="624" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="114" type="line"/>
+      <point x="296" y="148" type="line"/>
+      <point x="298" y="506" type="line"/>
+      <point x="295" y="907" type="line" smooth="yes"/>
+      <point x="293" y="1167"/>
+      <point x="576" y="1431"/>
+      <point x="815" y="1431" type="qcurve" smooth="yes"/>
+      <point x="1072" y="1431"/>
+      <point x="1358" y="1158"/>
+      <point x="1356" y="919" type="qcurve" smooth="yes"/>
+      <point x="1354" y="506" type="line"/>
+      <point x="1356" y="148" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="260" type="line"/>
+      <point x="738" y="662" type="line"/>
+      <point x="740" y="1350" type="line"/>
+      <point x="711" y="1530" type="line"/>
+      <point x="901" y="1600" type="line"/>
+      <point x="873" y="1350" type="line"/>
+      <point x="877" y="762" type="line"/>
+      <point x="901" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

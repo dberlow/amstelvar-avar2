@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odieresismacron" format="2">
-  <advance width="1844"/>
+  <advance width="1754"/>
   <unicode hex="022A"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb-stack.case" xOffset="922"/>
-    <component base="macroncomb-stack.case" xOffset="922" yOffset="401"/>
+    <component base="dieresiscomb-stack.case" xOffset="877"/>
+    <component base="macroncomb-stack.case" xOffset="877" yOffset="401"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

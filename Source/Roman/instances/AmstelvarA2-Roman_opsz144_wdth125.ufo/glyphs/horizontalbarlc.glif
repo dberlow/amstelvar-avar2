@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarlc" format="2">
+  <advance width="684"/>
+  <outline>
+    <contour>
+      <point x="342" y="730" type="line"/>
+      <point x="80" y="730" type="line"/>
+      <point x="84" y="757" type="line"/>
+      <point x="375" y="757" type="line"/>
+      <point x="650" y="757" type="line"/>
+      <point x="650" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

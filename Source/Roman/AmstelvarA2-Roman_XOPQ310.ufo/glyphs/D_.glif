@@ -3,7 +3,7 @@
   <advance width="2479"/>
   <unicode hex="0044"/>
   <anchor x="1127.0" y="0" name="bottom"/>
-  <anchor x="889.0" y="754.0" name="center"/>
+  <anchor x="596.0" y="754.0" name="center"/>
   <anchor x="1127.0" y="1500" name="top"/>
   <outline>
     <contour>
@@ -130,8 +130,6 @@
       </dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

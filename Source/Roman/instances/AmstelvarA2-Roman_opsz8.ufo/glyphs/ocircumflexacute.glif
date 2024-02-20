@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflexacute" format="2">
-  <advance width="1342"/>
+  <advance width="1252"/>
   <unicode hex="1ED1"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb-stack" xOffset="672" yOffset="-2"/>
-    <component base="acutecomb-stack" xOffset="984" yOffset="246"/>
+    <component base="circumflexcomb-stack" xOffset="627" yOffset="-2"/>
+    <component base="acutecomb-stack" xOffset="939" yOffset="246"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kje" format="2">
-  <advance width="1440"/>
+  <advance width="1441"/>
   <unicode hex="040C"/>
   <outline>
-    <component base="K"/>
+    <component base="Ka"/>
     <component base="acutecomb.case" xOffset="770"/>
   </outline>
   <lib>
@@ -11,7 +11,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.5,1,0.8</string>
     </dict>
   </lib>
 </glyph>

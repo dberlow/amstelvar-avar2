@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="1631"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="110" y="143" type="qcurve"/>
+      <point x="155" y="208" type="line"/>
+      <point x="274" y="126"/>
+      <point x="588" y="56"/>
+      <point x="781" y="56" type="qcurve" smooth="yes"/>
+      <point x="996" y="56"/>
+      <point x="1279" y="220"/>
+      <point x="1279" y="391" type="qcurve" smooth="yes"/>
+      <point x="1279" y="580"/>
+      <point x="874" y="754"/>
+      <point x="558" y="755" type="qcurve" smooth="yes"/>
+      <point x="474" y="755" type="line"/>
+      <point x="426" y="819" type="line"/>
+      <point x="592" y="824" type="line" smooth="yes"/>
+      <point x="895" y="833"/>
+      <point x="1225" y="1025"/>
+      <point x="1225" y="1192" type="qcurve" smooth="yes"/>
+      <point x="1225" y="1318"/>
+      <point x="1008" y="1452"/>
+      <point x="836" y="1452" type="qcurve" smooth="yes"/>
+      <point x="657" y="1452"/>
+      <point x="369" y="1379"/>
+      <point x="211" y="1279" type="qcurve"/>
+      <point x="173" y="1346" type="line"/>
+      <point x="281" y="1431"/>
+      <point x="571" y="1526"/>
+      <point x="771" y="1526" type="qcurve" smooth="yes"/>
+      <point x="1037" y="1526"/>
+      <point x="1351" y="1337"/>
+      <point x="1351" y="1189" type="qcurve" smooth="yes"/>
+      <point x="1351" y="1031"/>
+      <point x="1107" y="847"/>
+      <point x="848" y="803" type="qcurve"/>
+      <point x="847" y="796" type="line"/>
+      <point x="1131" y="784"/>
+      <point x="1406" y="599"/>
+      <point x="1406" y="404" type="qcurve" smooth="yes"/>
+      <point x="1406" y="190"/>
+      <point x="1012" y="-22"/>
+      <point x="700" y="-22" type="qcurve" smooth="yes"/>
+      <point x="520" y="-22"/>
+      <point x="180" y="67"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>1 7</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTFI</string>
+        </dict>
+        <key>11 12</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>16 22</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTFI</string>
+        </dict>
+        <key>16 29</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>26 19</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>26 39</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTFI</string>
+        </dict>
+        <key>4 39</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>7 36</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

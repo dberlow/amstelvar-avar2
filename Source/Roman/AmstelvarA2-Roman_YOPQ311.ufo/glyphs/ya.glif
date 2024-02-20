@@ -2,28 +2,25 @@
 <glyph name="ya" format="2">
   <advance width="1101"/>
   <unicode hex="044F"/>
-  <guideline x="302" y="625" angle="90" identifier="XQgmgmO2xX"/>
-  <guideline x="953" y="554" angle="90" identifier="MobSutKfE9"/>
-  <guideline x="627" y="553" angle="90" identifier="l2g0Cp9ZiO"/>
   <anchor x="496.0" y="0" name="bottom"/>
   <anchor x="525.0" y="1000" name="top"/>
   <outline>
     <contour>
-      <point x="703" y="895" type="line"/>
-      <point x="525" y="895" type="line" smooth="yes"/>
-      <point x="400" y="895"/>
-      <point x="299" y="782"/>
-      <point x="299" y="696" type="qcurve" smooth="yes"/>
-      <point x="299" y="612"/>
-      <point x="400" y="504"/>
-      <point x="525" y="504" type="qcurve" smooth="yes"/>
-      <point x="788" y="504" type="line"/>
-      <point x="788" y="404" type="line"/>
-      <point x="458" y="399" type="line"/>
-      <point x="422" y="410" type="line"/>
-      <point x="278" y="438"/>
-      <point x="113" y="568"/>
-      <point x="113" y="696" type="qcurve" smooth="yes"/>
+      <point x="703" y="653" type="line"/>
+      <point x="525" y="653" type="line" smooth="yes"/>
+      <point x="400" y="653"/>
+      <point x="299" y="626"/>
+      <point x="299" y="605" type="qcurve" smooth="yes"/>
+      <point x="299" y="585"/>
+      <point x="400" y="560"/>
+      <point x="525" y="560" type="qcurve" smooth="yes"/>
+      <point x="788" y="560" type="line"/>
+      <point x="788" y="204" type="line"/>
+      <point x="344" y="197" type="line"/>
+      <point x="362" y="233" type="line"/>
+      <point x="245" y="279"/>
+      <point x="113" y="464"/>
+      <point x="113" y="632" type="qcurve" smooth="yes"/>
       <point x="113" y="833"/>
       <point x="327" y="1000"/>
       <point x="525" y="1000" type="qcurve" smooth="yes"/>

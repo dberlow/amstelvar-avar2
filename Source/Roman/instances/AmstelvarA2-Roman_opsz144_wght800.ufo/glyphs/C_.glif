@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="1158"/>
+  <unicode hex="0043"/>
+  <anchor x="629" y="0" name="bottom"/>
+  <anchor x="637" y="1500" name="top"/>
+  <outline>
+    <contour>
+      <point x="-26" y="700" type="qcurve" smooth="yes"/>
+      <point x="-26" y="1061"/>
+      <point x="322" y="1524"/>
+      <point x="641" y="1524" type="qcurve" smooth="yes"/>
+      <point x="741" y="1524"/>
+      <point x="920" y="1476"/>
+      <point x="983" y="1422" type="qcurve"/>
+      <point x="1039" y="1500" type="line"/>
+      <point x="1088" y="1500" type="line"/>
+      <point x="1088" y="1035" type="line"/>
+      <point x="1028" y="1035" type="line"/>
+      <point x="992" y="1199" type="line" smooth="yes"/>
+      <point x="962" y="1334"/>
+      <point x="837" y="1471"/>
+      <point x="737" y="1471" type="qcurve" smooth="yes"/>
+      <point x="567" y="1471"/>
+      <point x="367" y="1100"/>
+      <point x="369" y="740" type="qcurve" smooth="yes"/>
+      <point x="370" y="399"/>
+      <point x="560" y="25"/>
+      <point x="739" y="25" type="qcurve" smooth="yes"/>
+      <point x="849" y="25"/>
+      <point x="1053" y="160"/>
+      <point x="1123" y="279" type="qcurve"/>
+      <point x="1163" y="245" type="line"/>
+      <point x="1071" y="107"/>
+      <point x="793" y="-34"/>
+      <point x="630" y="-34" type="qcurve" smooth="yes"/>
+      <point x="327" y="-34"/>
+      <point x="-26" y="369"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 -1</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XUCR</string>
+        </dict>
+        <key>0 17</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOUC</string>
+        </dict>
+        <key>10 17</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTUC</string>
+        </dict>
+        <key>17 23</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTUC</string>
+        </dict>
+        <key>20 27</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>3 14</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOUC</string>
+        </dict>
+        <key>3 27</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTUC</string>
+        </dict>
+        <key>9 10</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSVU</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

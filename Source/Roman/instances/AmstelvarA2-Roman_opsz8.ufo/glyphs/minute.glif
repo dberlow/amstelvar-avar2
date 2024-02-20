@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minute" format="2">
-  <advance width="744"/>
+  <advance width="654"/>
   <unicode hex="2032"/>
   <outline>
     <contour>
-      <point x="190" y="986" type="line"/>
-      <point x="403" y="1455" type="line" smooth="yes"/>
-      <point x="422" y="1497"/>
-      <point x="509" y="1542"/>
-      <point x="562" y="1512" type="qcurve" smooth="yes"/>
-      <point x="614" y="1484"/>
-      <point x="626" y="1382"/>
-      <point x="596" y="1348" type="qcurve" smooth="yes"/>
-      <point x="249" y="964" type="line"/>
+      <point x="145" y="986" type="line"/>
+      <point x="358" y="1455" type="line" smooth="yes"/>
+      <point x="377" y="1497"/>
+      <point x="464" y="1542"/>
+      <point x="517" y="1512" type="qcurve" smooth="yes"/>
+      <point x="569" y="1484"/>
+      <point x="581" y="1382"/>
+      <point x="551" y="1348" type="qcurve" smooth="yes"/>
+      <point x="204" y="964" type="line"/>
     </contour>
   </outline>
   <lib>

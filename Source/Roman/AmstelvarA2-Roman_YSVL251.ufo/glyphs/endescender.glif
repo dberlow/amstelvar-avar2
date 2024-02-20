@@ -2,9 +2,6 @@
 <glyph name="endescender" format="2">
   <advance width="1288"/>
   <unicode hex="04A3"/>
-  <guideline x="302" y="625" angle="90" identifier="jHuxcyi1x5"/>
-  <guideline x="953" y="554" angle="90" identifier="b1mHk7wgTR"/>
-  <guideline x="627" y="553" angle="90" identifier="m4aYe0x4PZ"/>
   <outline>
     <contour>
       <point x="313" y="574" type="line"/>
@@ -33,8 +30,8 @@
     <contour>
       <point x="1048" y="105" type="line"/>
       <point x="1208" y="105" type="line"/>
-      <point x="1218" y="-318" type="line"/>
-      <point x="1126" y="-318" type="line"/>
+      <point x="1218" y="-418" type="line"/>
+      <point x="1126" y="-418" type="line"/>
       <point x="1037" y="0" type="line"/>
       <point x="740" y="0" type="line"/>
       <point x="740" y="80" type="line"/>

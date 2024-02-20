@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="3075"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="228" y="926" type="line"/>
+      <point x="361" y="988"/>
+      <point x="1430" y="1501"/>
+      <point x="1486" y="1524" type="qcurve"/>
+      <point x="1531" y="1501"/>
+      <point x="2714" y="989"/>
+      <point x="2848" y="927" type="qcurve"/>
+      <point x="2756" y="829" type="line"/>
+      <point x="2416" y="950"/>
+      <point x="1524" y="1280"/>
+      <point x="1483" y="1293" type="qcurve"/>
+      <point x="1434" y="1273"/>
+      <point x="679" y="959"/>
+      <point x="317" y="831" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

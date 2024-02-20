@@ -5,7 +5,10 @@
     <contour>
       <point x="1215" y="0" type="line"/>
       <point x="954" y="699" type="line"/>
-      <point x="746" y="1248" type="line"/>
+      <point x="789" y="1134" type="line"/>
+      <point x="751" y="1248" type="line"/>
+      <point x="741" y="1248" type="line"/>
+      <point x="704" y="1134" type="line"/>
       <point x="541" y="695" type="line"/>
       <point x="286" y="0" type="line"/>
       <point x="142" y="0" type="line"/>
@@ -16,20 +19,24 @@
       <point x="1414" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1405" y="-338" type="line"/>
-      <point x="1336" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="152" y="-338" type="line"/>
-      <point x="30" y="-338" type="line"/>
-      <point x="40" y="108" type="line"/>
-      <point x="1517" y="108" type="line"/>
-      <point x="1527" y="-338" type="line"/>
+      <point x="1505" y="-338" type="line"/>
+      <point x="1436" y="0" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="52" y="-338" type="line"/>
+      <point x="-70" y="-338" type="line"/>
+      <point x="-60" y="108" type="line"/>
+      <point x="1617" y="108" type="line"/>
+      <point x="1627" y="-338" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XSHU154.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.57340,0.49851</string>
     </dict>
   </lib>
 </glyph>

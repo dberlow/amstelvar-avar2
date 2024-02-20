@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hastroke-cy" format="2">
-  <advance width="1025"/>
+  <advance width="1013"/>
   <unicode hex="04FF"/>
   <outline>
     <component base="x"/>
-    <component base="ha-stroke" xOffset="-10"/>
+    <component base="ha-stroke" xOffset="-16"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

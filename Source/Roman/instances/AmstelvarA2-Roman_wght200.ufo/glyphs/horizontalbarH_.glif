@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horizontalbarH" format="2">
-  <advance width="1416"/>
+  <advance width="1402"/>
   <outline>
     <contour>
-      <point x="1381" y="997" type="line"/>
-      <point x="1199" y="995" type="line"/>
-      <point x="1199" y="1132" type="line"/>
-      <point x="1391" y="1134" type="line"/>
+      <point x="1374" y="997" type="line"/>
+      <point x="1192" y="995" type="line"/>
+      <point x="1192" y="1132" type="line"/>
+      <point x="1384" y="1134" type="line"/>
     </contour>
     <contour>
-      <point x="34" y="995" type="line"/>
-      <point x="25" y="1132" type="line"/>
-      <point x="224" y="1132" type="line"/>
-      <point x="224" y="995" type="line"/>
+      <point x="27" y="995" type="line"/>
+      <point x="18" y="1132" type="line"/>
+      <point x="217" y="1132" type="line"/>
+      <point x="217" y="995" type="line"/>
     </contour>
     <contour>
-      <point x="224" y="995" type="line"/>
-      <point x="224" y="1132" type="line"/>
-      <point x="1199" y="1132" type="line"/>
-      <point x="1199" y="995" type="line"/>
+      <point x="217" y="995" type="line"/>
+      <point x="217" y="1132" type="line"/>
+      <point x="1192" y="1132" type="line"/>
+      <point x="1192" y="995" type="line"/>
     </contour>
   </outline>
   <lib>

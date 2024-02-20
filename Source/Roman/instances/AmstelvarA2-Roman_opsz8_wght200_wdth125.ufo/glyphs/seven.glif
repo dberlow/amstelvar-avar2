@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="1678"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="135" y="1118" type="line"/>
+      <point x="156" y="1509" type="line"/>
+      <point x="1504" y="1509" type="line"/>
+      <point x="1504" y="1426" type="line"/>
+      <point x="986" y="630" type="line"/>
+      <point x="630" y="-13" type="line"/>
+      <point x="444" y="-13" type="line"/>
+      <point x="444" y="55" type="line"/>
+      <point x="879" y="672" type="line"/>
+      <point x="1354" y="1335" type="line"/>
+      <point x="1324" y="1358" type="line"/>
+      <point x="281" y="1358" type="line"/>
+      <point x="245" y="1118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>1 11</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>6 1</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTFI</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

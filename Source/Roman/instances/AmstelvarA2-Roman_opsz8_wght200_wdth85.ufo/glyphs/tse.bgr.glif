@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse.bgr" format="2">
+  <advance width="1223"/>
+  <outline>
+    <contour>
+      <point x="969" y="0" type="line"/>
+      <point x="888" y="0" type="line"/>
+      <point x="857" y="27" type="line"/>
+      <point x="837" y="147" type="line"/>
+      <point x="780" y="72"/>
+      <point x="591" y="-21"/>
+      <point x="492" y="-21" type="qcurve" smooth="yes"/>
+      <point x="348" y="-21"/>
+      <point x="204" y="128"/>
+      <point x="204" y="258" type="qcurve" smooth="yes"/>
+      <point x="204" y="330"/>
+      <point x="209" y="448"/>
+      <point x="209" y="473" type="qcurve" smooth="yes"/>
+      <point x="204" y="812" type="line"/>
+      <point x="56" y="842" type="line"/>
+      <point x="56" y="966" type="line"/>
+      <point x="290" y="1000" type="line"/>
+      <point x="325" y="1000" type="line"/>
+      <point x="350" y="964" type="line"/>
+      <point x="348" y="474" type="line"/>
+      <point x="348" y="290" type="line" smooth="yes"/>
+      <point x="348" y="224"/>
+      <point x="450" y="115"/>
+      <point x="545" y="115" type="qcurve" smooth="yes"/>
+      <point x="623" y="115"/>
+      <point x="785" y="191"/>
+      <point x="837" y="267" type="qcurve"/>
+      <point x="838" y="474" type="line"/>
+      <point x="836" y="812" type="line"/>
+      <point x="698" y="842" type="line"/>
+      <point x="698" y="966" type="line"/>
+      <point x="924" y="1000" type="line"/>
+      <point x="959" y="1000" type="line"/>
+      <point x="982" y="964" type="line"/>
+      <point x="980" y="473" type="line"/>
+      <point x="982" y="137" type="line"/>
+      <point x="1144" y="137" type="line"/>
+      <point x="1154" y="-339" type="line"/>
+      <point x="1058" y="-339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

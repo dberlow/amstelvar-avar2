@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etatonos" format="2">
+  <advance width="2055"/>
+  <unicode hex="0389"/>
+  <outline>
+    <component base="H" xOffset="315"/>
+    <component base="tonoscomb.case" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.57340,0.29823</string>
+    </dict>
+  </lib>
+</glyph>

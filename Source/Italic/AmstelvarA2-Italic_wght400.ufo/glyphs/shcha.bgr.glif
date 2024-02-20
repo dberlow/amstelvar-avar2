@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha.bgr" format="2">
+  <advance width="1742"/>
+  <outline>
+    <component base="sha"/>
+    <component base="descender-cy" xOffset="981"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,0.8</string>
+    </dict>
+  </lib>
+</glyph>

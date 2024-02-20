@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="1027"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="8" y="483" type="line"/>
+      <point x="8" y="638" type="line"/>
+      <point x="923" y="638" type="line"/>
+      <point x="923" y="483" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="843" type="line"/>
+      <point x="103" y="998" type="line"/>
+      <point x="1018" y="998" type="line"/>
+      <point x="1018" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="12" type="line"/>
+      <point x="590" y="1528" type="line"/>
+      <point x="720" y="1491" type="line"/>
+      <point x="164" y="-25" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="12" type="line"/>
+      <point x="889" y="1528" type="line"/>
+      <point x="1020" y="1491" type="line"/>
+      <point x="463" y="-25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f" format="2">
+  <advance width="1742"/>
+  <unicode hex="FB00"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="54" y="164" type="line"/>
+      <point x="222" y="199" type="line"/>
+      <point x="224" y="527" type="line"/>
+      <point x="221" y="860" type="line"/>
+      <point x="68" y="872" type="line"/>
+      <point x="58" y="966" type="line"/>
+      <point x="222" y="984" type="line"/>
+      <point x="229" y="1192" type="line" smooth="yes"/>
+      <point x="234" y="1337"/>
+      <point x="466" y="1482"/>
+      <point x="621" y="1482" type="qcurve" smooth="yes"/>
+      <point x="692" y="1482"/>
+      <point x="821" y="1470"/>
+      <point x="866" y="1463" type="qcurve" smooth="yes"/>
+      <point x="909" y="1456" type="line"/>
+      <point x="893" y="1349" type="line"/>
+      <point x="864" y="1358" type="line" smooth="yes"/>
+      <point x="848" y="1363"/>
+      <point x="810" y="1370"/>
+      <point x="787" y="1370" type="qcurve" smooth="yes"/>
+      <point x="713" y="1370"/>
+      <point x="625" y="1278"/>
+      <point x="626" y="1157" type="qcurve" smooth="yes"/>
+      <point x="628" y="985" type="line"/>
+      <point x="1094" y="985" type="line"/>
+      <point x="1098" y="1317" type="line" smooth="yes"/>
+      <point x="1099" y="1422"/>
+      <point x="1315" y="1537"/>
+      <point x="1476" y="1537" type="qcurve" smooth="yes"/>
+      <point x="1541" y="1537"/>
+      <point x="1639" y="1530"/>
+      <point x="1680" y="1525" type="qcurve" smooth="yes"/>
+      <point x="1733" y="1518" type="line"/>
+      <point x="1717" y="1411" type="line"/>
+      <point x="1689" y="1418" type="line" smooth="yes"/>
+      <point x="1672" y="1422"/>
+      <point x="1646" y="1425"/>
+      <point x="1628" y="1425" type="qcurve" smooth="yes"/>
+      <point x="1569" y="1425"/>
+      <point x="1496" y="1360"/>
+      <point x="1497" y="1288" type="qcurve" smooth="yes"/>
+      <point x="1499" y="985" type="line"/>
+      <point x="1716" y="985" type="line"/>
+      <point x="1716" y="883" type="line"/>
+      <point x="1499" y="872" type="line"/>
+      <point x="1501" y="527" type="line"/>
+      <point x="1512" y="199" type="line"/>
+      <point x="1698" y="164" type="line"/>
+      <point x="1698" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="956" y="164" type="line"/>
+      <point x="1093" y="199" type="line"/>
+      <point x="1095" y="527" type="line"/>
+      <point x="1092" y="860" type="line"/>
+      <point x="1080" y="873" type="line"/>
+      <point x="628" y="877" type="line"/>
+      <point x="630" y="527" type="line"/>
+      <point x="641" y="199" type="line"/>
+      <point x="805" y="164" type="line"/>
+      <point x="805" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

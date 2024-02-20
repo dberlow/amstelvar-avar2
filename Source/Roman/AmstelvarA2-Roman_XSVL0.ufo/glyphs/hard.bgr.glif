@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hard.bgr" format="2">
   <advance width="1028"/>
-  <guideline x="302" y="625" angle="90" identifier="hJEtU189HI"/>
-  <guideline x="953" y="554" angle="90" identifier="OJ6JOUdkXL"/>
-  <guideline x="627" y="553" angle="90" identifier="0FBK0wOxmp"/>
-  <guideline x="302" y="625" angle="90" identifier="Rr3Uj9U52E"/>
-  <guideline x="953" y="554" angle="90" identifier="3wAoOxo3E3"/>
-  <guideline x="627" y="553" angle="90" identifier="t28Mj4vwqs"/>
   <outline>
     <contour>
       <point x="554" y="88" type="qcurve" smooth="yes"/>
@@ -32,10 +26,10 @@
       <point x="262" y="581"/>
       <point x="383" y="723" type="qcurve" smooth="yes"/>
       <point x="520" y="884" type="line"/>
-      <point x="204" y="884" type="line"/>
-      <point x="160" y="662" type="line"/>
-      <point x="60" y="662" type="line"/>
-      <point x="60" y="1000" type="line"/>
+      <point x="134" y="884" type="line"/>
+      <point x="90" y="662" type="line"/>
+      <point x="90" y="662" type="line"/>
+      <point x="90" y="1000" type="line"/>
       <point x="707" y="1000" type="line"/>
       <point x="707" y="911" type="line"/>
       <point x="464" y="615" type="line" smooth="yes"/>
@@ -50,6 +44,8 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.5734,0.34590</string>
     </dict>
   </lib>
 </glyph>

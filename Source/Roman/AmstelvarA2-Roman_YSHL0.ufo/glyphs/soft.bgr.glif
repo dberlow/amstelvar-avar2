@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="soft.bgr" format="2">
   <advance width="1058"/>
-  <guideline x="302" y="625" angle="90" identifier="gLmfoKuSkA"/>
-  <guideline x="953" y="554" angle="90" identifier="Gq0rhyvrw9"/>
-  <guideline x="627" y="553" angle="90" identifier="4Ly8ZHjFvt"/>
   <outline>
     <contour>
       <point x="590" y="-21" type="qcurve" smooth="yes"/>
@@ -13,8 +10,8 @@
       <point x="206" y="340"/>
       <point x="209" y="449"/>
       <point x="209" y="473" type="qcurve" smooth="yes"/>
-      <point x="204" y="842" type="line"/>
-      <point x="56" y="872" type="line"/>
+      <point x="204" y="936" type="line"/>
+      <point x="56" y="966" type="line"/>
       <point x="56" y="966" type="line"/>
       <point x="314" y="1000" type="line"/>
       <point x="349" y="1000" type="line"/>

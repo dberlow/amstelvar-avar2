@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha" format="2">
+  <advance width="2934"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="2627" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="44" type="line"/>
+      <point x="290" y="79" type="line"/>
+      <point x="292" y="746" type="line"/>
+      <point x="290" y="1416" type="line"/>
+      <point x="164" y="1450" type="line"/>
+      <point x="164" y="1500" type="line"/>
+      <point x="794" y="1500" type="line"/>
+      <point x="794" y="1450" type="line"/>
+      <point x="668" y="1416" type="line"/>
+      <point x="666" y="746" type="line"/>
+      <point x="668" y="73" type="line"/>
+      <point x="708" y="45" type="line"/>
+      <point x="1238" y="45" type="line"/>
+      <point x="1278" y="73" type="line"/>
+      <point x="1280" y="754" type="line"/>
+      <point x="1278" y="1415" type="line"/>
+      <point x="1146" y="1448" type="line"/>
+      <point x="1146" y="1500" type="line"/>
+      <point x="1788" y="1500" type="line"/>
+      <point x="1788" y="1448" type="line"/>
+      <point x="1656" y="1415" type="line"/>
+      <point x="1654" y="754" type="line"/>
+      <point x="1656" y="73" type="line"/>
+      <point x="1696" y="45" type="line"/>
+      <point x="2226" y="45" type="line"/>
+      <point x="2266" y="73" type="line"/>
+      <point x="2268" y="746" type="line"/>
+      <point x="2266" y="1416" type="line"/>
+      <point x="2140" y="1450" type="line"/>
+      <point x="2140" y="1500" type="line"/>
+      <point x="2770" y="1500" type="line"/>
+      <point x="2770" y="1450" type="line"/>
+      <point x="2644" y="1416" type="line"/>
+      <point x="2642" y="746" type="line"/>
+      <point x="2644" y="108" type="line"/>
+      <point x="2744" y="108" type="line"/>
+      <point x="2754" y="-342" type="line"/>
+      <point x="2696" y="-342" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

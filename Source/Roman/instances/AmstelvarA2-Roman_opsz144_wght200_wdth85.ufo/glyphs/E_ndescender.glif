@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender" format="2">
+  <advance width="1575"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <contour>
+      <point x="1189" y="764" type="line"/>
+      <point x="1187" y="1443" type="line"/>
+      <point x="1023" y="1477" type="line"/>
+      <point x="1023" y="1500" type="line"/>
+      <point x="1449" y="1500" type="line"/>
+      <point x="1449" y="1477" type="line"/>
+      <point x="1285" y="1443" type="line"/>
+      <point x="1283" y="764" type="line"/>
+      <point x="1285" y="108" type="line"/>
+      <point x="1407" y="108" type="line"/>
+      <point x="1417" y="-329" type="line"/>
+      <point x="1395" y="-329" type="line"/>
+      <point x="1328" y="0" type="line"/>
+      <point x="1023" y="0" type="line"/>
+      <point x="1023" y="20" type="line"/>
+      <point x="1187" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="20" type="line"/>
+      <point x="290" y="55" type="line"/>
+      <point x="292" y="764" type="line"/>
+      <point x="290" y="1443" type="line"/>
+      <point x="126" y="1477" type="line"/>
+      <point x="126" y="1500" type="line"/>
+      <point x="551" y="1500" type="line"/>
+      <point x="551" y="1477" type="line"/>
+      <point x="387" y="1443" type="line"/>
+      <point x="385" y="764" type="line"/>
+      <point x="387" y="55" type="line"/>
+      <point x="551" y="20" type="line"/>
+      <point x="551" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="774" type="line"/>
+      <point x="338" y="801" type="line"/>
+      <point x="787" y="797" type="line"/>
+      <point x="1235" y="801" type="line"/>
+      <point x="1235" y="774" type="line"/>
+      <point x="787" y="774" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

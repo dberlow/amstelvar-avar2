@@ -3,12 +3,12 @@
   <advance width="545"/>
   <outline>
     <component base="jdotless"/>
-    <component base="acutecomb" xOffset="119" yOffset="-79"/>
+    <component base="acutecomb" xOffset="-178" yOffset="-79"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

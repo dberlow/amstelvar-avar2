@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="1424"/>
+  <unicode hex="0056"/>
+  <anchor x="757" y="0" name="bottom"/>
+  <anchor x="767" y="1500" name="top"/>
+  <outline>
+    <contour>
+      <point x="2" y="1318" type="line"/>
+      <point x="2" y="1500" type="line"/>
+      <point x="721" y="1500" type="line"/>
+      <point x="721" y="1318" type="line"/>
+      <point x="611" y="1277" type="line"/>
+      <point x="711" y="839" type="line"/>
+      <point x="809" y="450" type="line"/>
+      <point x="837" y="336" type="line"/>
+      <point x="847" y="336" type="line"/>
+      <point x="875" y="450" type="line"/>
+      <point x="971" y="831" type="line"/>
+      <point x="1068" y="1284" type="line"/>
+      <point x="942" y="1318" type="line"/>
+      <point x="942" y="1500" type="line"/>
+      <point x="1439" y="1505" type="line"/>
+      <point x="1439" y="1323" type="line"/>
+      <point x="1269" y="1279" type="line"/>
+      <point x="1149" y="788" type="line"/>
+      <point x="938" y="-16" type="line"/>
+      <point x="505" y="-16" type="line"/>
+      <point x="295" y="779" type="line"/>
+      <point x="165" y="1279" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>1 16</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTUC</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

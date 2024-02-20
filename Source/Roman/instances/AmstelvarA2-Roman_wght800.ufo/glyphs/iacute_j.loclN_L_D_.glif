@@ -3,16 +3,16 @@
   <advance width="1594"/>
   <outline>
     <component base="idotless"/>
-    <component base="acutecomb" xOffset="118" yOffset="34"/>
+    <component base="acutecomb" xOffset="101" yOffset="34"/>
     <component base="jdotless" xOffset="841"/>
-    <component base="acutecomb" xOffset="918" yOffset="34"/>
+    <component base="acutecomb" xOffset="901" yOffset="34"/>
   </outline>
   <lib>
     <dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

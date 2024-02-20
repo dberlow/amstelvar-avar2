@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="soft" format="2">
+  <advance width="1096"/>
+  <anchor x="548.0" y="0" name="bottom"/>
+  <anchor x="878" y="0" name="ogonek"/>
+  <anchor x="514.0" y="1000" name="top"/>
+  <outline>
+  </outline>
+</glyph>

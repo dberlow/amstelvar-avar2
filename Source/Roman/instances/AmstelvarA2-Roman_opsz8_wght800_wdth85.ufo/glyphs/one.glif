@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="961"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="21" y="0" type="line"/>
+      <point x="21" y="164" type="line"/>
+      <point x="269" y="199" type="line"/>
+      <point x="269" y="758" type="line"/>
+      <point x="267" y="1310" type="line"/>
+      <point x="19" y="1340" type="line"/>
+      <point x="19" y="1501" type="line"/>
+      <point x="668" y="1527" type="line"/>
+      <point x="700" y="1492" type="line"/>
+      <point x="694" y="758" type="line"/>
+      <point x="694" y="199" type="line"/>
+      <point x="942" y="164" type="line"/>
+      <point x="942" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 7</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTFI</string>
+        </dict>
+        <key>2 10</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>5 7</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -6,8 +6,8 @@
     <string>0.502,0.0016,0.9985,1</string>
     <key>lib</key>
     <dict>
-      <key>org.unifiedfontobject.normalizer.imageReferences</key>
-      <dict/>
+      <key>com.typemytype.robofont.layerShowPoints</key>
+      <true/>
     </dict>
   </dict>
 </plist>

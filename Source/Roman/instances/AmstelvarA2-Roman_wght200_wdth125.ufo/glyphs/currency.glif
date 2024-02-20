@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="1581"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="259" y="760" type="qcurve" smooth="yes"/>
+      <point x="259" y="977"/>
+      <point x="545" y="1282"/>
+      <point x="777" y="1282" type="qcurve" smooth="yes"/>
+      <point x="1010" y="1282"/>
+      <point x="1299" y="997"/>
+      <point x="1299" y="766" type="qcurve" smooth="yes"/>
+      <point x="1299" y="550"/>
+      <point x="1015" y="238"/>
+      <point x="783" y="238" type="qcurve" smooth="yes"/>
+      <point x="550" y="238"/>
+      <point x="259" y="527"/>
+    </contour>
+    <contour>
+      <point x="411" y="779" type="qcurve" smooth="yes"/>
+      <point x="412" y="609"/>
+      <point x="611" y="374"/>
+      <point x="775" y="374" type="qcurve" smooth="yes"/>
+      <point x="951" y="374"/>
+      <point x="1141" y="588"/>
+      <point x="1141" y="765" type="qcurve" smooth="yes"/>
+      <point x="1141" y="928"/>
+      <point x="942" y="1140"/>
+      <point x="777" y="1140" type="qcurve" smooth="yes"/>
+      <point x="599" y="1140"/>
+      <point x="410" y="947"/>
+    </contour>
+    <contour>
+      <point x="413" y="1018" type="line"/>
+      <point x="152" y="1279" type="line"/>
+      <point x="268" y="1402" type="line"/>
+      <point x="529" y="1141" type="line"/>
+    </contour>
+    <contour>
+      <point x="1168" y="1018" type="line"/>
+      <point x="1052" y="1141" type="line"/>
+      <point x="1313" y="1402" type="line"/>
+      <point x="1429" y="1279" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="482" type="line"/>
+      <point x="529" y="359" type="line"/>
+      <point x="268" y="98" type="line"/>
+      <point x="152" y="221" type="line"/>
+    </contour>
+    <contour>
+      <point x="1168" y="482" type="line"/>
+      <point x="1429" y="221" type="line"/>
+      <point x="1313" y="98" type="line"/>
+      <point x="1052" y="359" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="1148"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="100" type="line"/>
+      <point x="334" y="137" type="line"/>
+      <point x="336" y="760" type="line"/>
+      <point x="334" y="1352" type="line"/>
+      <point x="126" y="1386" type="line"/>
+      <point x="126" y="1500" type="line"/>
+      <point x="1020" y="1500" type="line"/>
+      <point x="1080" y="1150" type="line"/>
+      <point x="970" y="1150" type="line"/>
+      <point x="875" y="1382" type="line"/>
+      <point x="544" y="1382" type="line"/>
+      <point x="514" y="1362" type="line"/>
+      <point x="512" y="772" type="line"/>
+      <point x="514" y="132" type="line"/>
+      <point x="742" y="100" type="line"/>
+      <point x="742" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="731" type="line"/>
+      <point x="424" y="833" type="line"/>
+      <point x="819" y="840" type="line"/>
+      <point x="854" y="982" type="line"/>
+      <point x="964" y="982" type="line"/>
+      <point x="964" y="586" type="line"/>
+      <point x="854" y="586" type="line"/>
+      <point x="819" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="331" type="line"/>
+      <point x="70" y="457" type="line"/>
+      <point x="834" y="457" type="line"/>
+      <point x="804" y="331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

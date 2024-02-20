@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresismacron" format="2">
-  <advance width="1035"/>
+  <advance width="972"/>
   <unicode hex="022B"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb-stack" xOffset="518" yOffset="-132"/>
-    <component base="macroncomb-stack" xOffset="518" yOffset="187"/>
+    <component base="dieresiscomb-stack" xOffset="486" yOffset="-132"/>
+    <component base="macroncomb-stack" xOffset="486" yOffset="187"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

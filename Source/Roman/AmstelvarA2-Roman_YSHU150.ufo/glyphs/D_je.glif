@@ -36,12 +36,12 @@
       <point x="733" y="1382" type="line"/>
       <point x="714" y="1362" type="line"/>
       <point x="712" y="754" type="line"/>
-      <point x="714" y="136" type="line"/>
-      <point x="931" y="100" type="line"/>
+      <point x="714" y="336" type="line"/>
+      <point x="931" y="300" type="line"/>
       <point x="931" y="0" type="line"/>
       <point x="315" y="0" type="line"/>
-      <point x="315" y="100" type="line"/>
-      <point x="534" y="136" type="line"/>
+      <point x="315" y="300" type="line"/>
+      <point x="534" y="336" type="line"/>
       <point x="536" y="754" type="line"/>
       <point x="534" y="1362" type="line"/>
       <point x="525" y="1382" type="line"/>

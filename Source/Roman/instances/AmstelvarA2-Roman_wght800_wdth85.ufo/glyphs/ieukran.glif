@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ieukran" format="2">
+  <advance width="1225"/>
+  <unicode hex="0454"/>
+  <outline>
+    <contour>
+      <point x="359" y="550" type="line"/>
+      <point x="845" y="553" type="line"/>
+      <point x="845" y="448" type="line"/>
+      <point x="359" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="489" type="qcurve" smooth="yes"/>
+      <point x="64" y="724"/>
+      <point x="400" y="1022"/>
+      <point x="669" y="1022" type="qcurve" smooth="yes"/>
+      <point x="784" y="1022"/>
+      <point x="946" y="982"/>
+      <point x="986" y="956" type="qcurve"/>
+      <point x="1009" y="1015" type="line"/>
+      <point x="1122" y="1015" type="line"/>
+      <point x="1122" y="637" type="line"/>
+      <point x="989" y="637" type="line"/>
+      <point x="972" y="717" type="line" smooth="yes"/>
+      <point x="952" y="798"/>
+      <point x="844" y="903"/>
+      <point x="747" y="903" type="qcurve" smooth="yes"/>
+      <point x="612" y="903"/>
+      <point x="449" y="717"/>
+      <point x="449" y="507" type="qcurve" smooth="yes"/>
+      <point x="449" y="309"/>
+      <point x="641" y="117"/>
+      <point x="800" y="117" type="qcurve" smooth="yes"/>
+      <point x="909" y="117"/>
+      <point x="1062" y="184"/>
+      <point x="1117" y="235" type="qcurve"/>
+      <point x="1171" y="168" type="line"/>
+      <point x="1119" y="94"/>
+      <point x="896" y="-22"/>
+      <point x="704" y="-22" type="qcurve" smooth="yes"/>
+      <point x="435" y="-22"/>
+      <point x="64" y="246"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

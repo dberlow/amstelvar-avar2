@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="868"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="44" y="-118" type="line"/>
+      <point x="660" y="1555" type="line"/>
+      <point x="801" y="1512" type="line"/>
+      <point x="185" y="-161" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

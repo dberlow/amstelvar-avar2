@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="2049"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="98" y="737" type="qcurve" smooth="yes"/>
+      <point x="98" y="1068"/>
+      <point x="482" y="1518"/>
+      <point x="809" y="1518" type="qcurve" smooth="yes"/>
+      <point x="868" y="1518"/>
+      <point x="1144" y="1500"/>
+      <point x="1204" y="1500" type="qcurve" smooth="yes"/>
+      <point x="1879" y="1500" type="line"/>
+      <point x="1879" y="1150" type="line"/>
+      <point x="1769" y="1150" type="line"/>
+      <point x="1734" y="1380" type="line"/>
+      <point x="1271" y="1380" type="line"/>
+      <point x="1242" y="1360" type="line"/>
+      <point x="1240" y="783" type="line"/>
+      <point x="1242" y="134" type="line"/>
+      <point x="1272" y="110" type="line"/>
+      <point x="1797" y="110" type="line"/>
+      <point x="1873" y="380" type="line"/>
+      <point x="1983" y="380" type="line"/>
+      <point x="1943" y="0" type="line"/>
+      <point x="1243" y="0" type="line" smooth="yes"/>
+      <point x="1180" y="0"/>
+      <point x="895" y="-26"/>
+      <point x="813" y="-26" type="qcurve" smooth="yes"/>
+      <point x="493" y="-26"/>
+      <point x="98" y="396"/>
+    </contour>
+    <contour>
+      <point x="265" y="771" type="qcurve" smooth="yes"/>
+      <point x="265" y="480"/>
+      <point x="558" y="101"/>
+      <point x="808" y="101" type="qcurve" smooth="yes"/>
+      <point x="886" y="101"/>
+      <point x="1026" y="116"/>
+      <point x="1084" y="131" type="qcurve"/>
+      <point x="1086" y="783" type="line"/>
+      <point x="1084" y="1356" type="line"/>
+      <point x="1046" y="1362"/>
+      <point x="883" y="1384"/>
+      <point x="808" y="1384" type="qcurve" smooth="yes"/>
+      <point x="535" y="1384"/>
+      <point x="265" y="1051"/>
+    </contour>
+    <contour>
+      <point x="1164" y="736" type="line"/>
+      <point x="1164" y="835" type="line"/>
+      <point x="1588" y="845" type="line"/>
+      <point x="1623" y="1005" type="line"/>
+      <point x="1733" y="1005" type="line"/>
+      <point x="1733" y="566" type="line"/>
+      <point x="1623" y="566" type="line"/>
+      <point x="1588" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

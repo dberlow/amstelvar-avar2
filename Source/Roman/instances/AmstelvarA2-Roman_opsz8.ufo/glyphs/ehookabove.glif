@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ehookabove" format="2">
-  <advance width="1222"/>
+  <advance width="1132"/>
   <unicode hex="1EBB"/>
   <outline>
     <component base="e"/>
-    <component base="hookabovecomb" xOffset="351" yOffset="51"/>
+    <component base="hookabovecomb" xOffset="581" yOffset="51"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

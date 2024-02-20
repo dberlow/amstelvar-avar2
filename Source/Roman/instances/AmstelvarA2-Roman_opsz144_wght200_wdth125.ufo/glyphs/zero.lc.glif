@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.lc" format="2">
+  <advance width="1332"/>
+  <outline>
+    <contour>
+      <point x="108" y="547" type="qcurve" smooth="yes"/>
+      <point x="108" y="784"/>
+      <point x="420" y="1116"/>
+      <point x="673" y="1116" type="qcurve" smooth="yes"/>
+      <point x="927" y="1116"/>
+      <point x="1224" y="805"/>
+      <point x="1224" y="554" type="qcurve" smooth="yes"/>
+      <point x="1224" y="318"/>
+      <point x="915" y="-22"/>
+      <point x="662" y="-22" type="qcurve" smooth="yes"/>
+      <point x="408" y="-22"/>
+      <point x="108" y="293"/>
+    </contour>
+    <contour>
+      <point x="299" y="569" type="qcurve" smooth="yes"/>
+      <point x="299" y="349"/>
+      <point x="501" y="89"/>
+      <point x="665" y="89" type="qcurve" smooth="yes"/>
+      <point x="842" y="89"/>
+      <point x="1034" y="348"/>
+      <point x="1034" y="554" type="qcurve" smooth="yes"/>
+      <point x="1034" y="743"/>
+      <point x="838" y="999"/>
+      <point x="673" y="999" type="qcurve" smooth="yes"/>
+      <point x="494" y="999"/>
+      <point x="299" y="765"/>
+    </contour>
+  </outline>
+</glyph>

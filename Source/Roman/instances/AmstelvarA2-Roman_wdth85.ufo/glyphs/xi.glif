@@ -1,55 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="xi" format="2">
-  <advance width="942"/>
+  <advance width="906"/>
   <unicode hex="03BE"/>
   <outline>
     <contour>
-      <point x="728" y="-313" type="line"/>
-      <point x="695" y="-127" type="line" smooth="yes"/>
-      <point x="684" y="-67"/>
-      <point x="653" y="-40"/>
-      <point x="628" y="-38" type="qcurve" smooth="yes"/>
-      <point x="594" y="-35" type="line" smooth="yes"/>
-      <point x="349" y="-13"/>
-      <point x="74" y="181"/>
-      <point x="74" y="356" type="qcurve" smooth="yes"/>
-      <point x="74" y="554"/>
-      <point x="418" y="812"/>
-      <point x="748" y="870" type="qcurve" smooth="yes"/>
-      <point x="782" y="876" type="line"/>
-      <point x="809" y="840" type="line"/>
-      <point x="762" y="662" type="line"/>
-      <point x="724" y="667" type="line" smooth="yes"/>
-      <point x="380" y="712"/>
-      <point x="149" y="892"/>
-      <point x="149" y="1033" type="qcurve" smooth="yes"/>
-      <point x="149" y="1152"/>
-      <point x="281" y="1326"/>
-      <point x="443" y="1369" type="qcurve"/>
-      <point x="444" y="1361" type="line"/>
-      <point x="168" y="1358" type="line"/>
-      <point x="141" y="1392" type="line"/>
-      <point x="157" y="1534" type="line"/>
-      <point x="888" y="1514" type="line"/>
-      <point x="888" y="1378" type="line"/>
-      <point x="574" y="1354"/>
-      <point x="300" y="1194"/>
-      <point x="300" y="1053" type="qcurve" smooth="yes"/>
-      <point x="300" y="949"/>
-      <point x="480" y="829"/>
-      <point x="762" y="775" type="qcurve"/>
-      <point x="751" y="732" type="line"/>
-      <point x="453" y="703"/>
-      <point x="254" y="508"/>
-      <point x="254" y="381" type="qcurve"/>
-      <point x="254" y="269"/>
-      <point x="428" y="132"/>
-      <point x="636" y="123" type="qcurve" smooth="yes"/>
-      <point x="731" y="119" type="line" smooth="yes"/>
-      <point x="806" y="116"/>
-      <point x="860" y="57"/>
-      <point x="857" y="13" type="qcurve"/>
-      <point x="822" y="-313" type="line"/>
+      <point x="718" y="-313" type="line"/>
+      <point x="681" y="-117" type="line" smooth="yes"/>
+      <point x="673" y="-74"/>
+      <point x="659" y="-19"/>
+      <point x="599" y="-13" type="qcurve" smooth="yes"/>
+      <point x="509" y="-4" type="line" smooth="yes"/>
+      <point x="298" y="17"/>
+      <point x="64" y="246"/>
+      <point x="64" y="411" type="qcurve"/>
+      <point x="64" y="551"/>
+      <point x="205" y="750"/>
+      <point x="360" y="800" type="qcurve"/>
+      <point x="360" y="807" type="line"/>
+      <point x="249" y="839"/>
+      <point x="127" y="979"/>
+      <point x="127" y="1084" type="qcurve"/>
+      <point x="127" y="1173"/>
+      <point x="199" y="1293"/>
+      <point x="272" y="1325" type="qcurve"/>
+      <point x="243" y="1349" type="line"/>
+      <point x="110" y="1349" type="line"/>
+      <point x="85" y="1384" type="line"/>
+      <point x="99" y="1500" type="line"/>
+      <point x="852" y="1500" type="line"/>
+      <point x="852" y="1358" type="line"/>
+      <point x="655" y="1357" type="line"/>
+      <point x="485" y="1357"/>
+      <point x="303" y="1223"/>
+      <point x="303" y="1092" type="qcurve" smooth="yes"/>
+      <point x="303" y="1011"/>
+      <point x="385" y="891"/>
+      <point x="476" y="867" type="qcurve"/>
+      <point x="779" y="882" type="line"/>
+      <point x="804" y="847" type="line"/>
+      <point x="790" y="730" type="line"/>
+      <point x="477" y="746" type="line"/>
+      <point x="358" y="707"/>
+      <point x="240" y="550"/>
+      <point x="240" y="435" type="qcurve"/>
+      <point x="240" y="300"/>
+      <point x="413" y="147"/>
+      <point x="553" y="133" type="qcurve" smooth="yes"/>
+      <point x="672" y="121" type="line" smooth="yes"/>
+      <point x="769" y="111"/>
+      <point x="836" y="56"/>
+      <point x="836" y="5" type="qcurve"/>
+      <point x="798" y="-313" type="line"/>
     </contour>
   </outline>
   <lib>

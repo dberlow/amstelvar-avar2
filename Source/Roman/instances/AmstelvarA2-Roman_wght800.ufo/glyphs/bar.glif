@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
-  <advance width="460"/>
+  <advance width="452"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="147" y="-540" type="line"/>
-      <point x="150" y="-58" type="line"/>
-      <point x="156" y="250" type="line"/>
-      <point x="154" y="830" type="line"/>
-      <point x="147" y="1138" type="line"/>
-      <point x="145" y="1480" type="line"/>
-      <point x="316" y="1550" type="line"/>
-      <point x="311" y="1138" type="line"/>
-      <point x="301" y="830" type="line"/>
-      <point x="303" y="250" type="line"/>
-      <point x="312" y="-58" type="line"/>
-      <point x="314" y="-470" type="line"/>
+      <point x="143" y="-540" type="line"/>
+      <point x="146" y="-58" type="line"/>
+      <point x="152" y="250" type="line"/>
+      <point x="150" y="830" type="line"/>
+      <point x="143" y="1138" type="line"/>
+      <point x="141" y="1480" type="line"/>
+      <point x="312" y="1550" type="line"/>
+      <point x="307" y="1138" type="line"/>
+      <point x="297" y="830" type="line"/>
+      <point x="299" y="250" type="line"/>
+      <point x="308" y="-58" type="line"/>
+      <point x="310" y="-470" type="line"/>
     </contour>
   </outline>
   <lib>

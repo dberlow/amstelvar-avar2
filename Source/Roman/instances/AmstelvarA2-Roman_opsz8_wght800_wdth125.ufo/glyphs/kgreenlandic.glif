@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1770"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="117" y="0" type="line"/>
+      <point x="117" y="168" type="line"/>
+      <point x="256" y="203" type="line"/>
+      <point x="258" y="527" type="line"/>
+      <point x="256" y="797" type="line"/>
+      <point x="117" y="832" type="line"/>
+      <point x="117" y="1000" type="line"/>
+      <point x="812" y="1000" type="line"/>
+      <point x="812" y="832" type="line"/>
+      <point x="674" y="797" type="line"/>
+      <point x="672" y="507" type="line"/>
+      <point x="674" y="203" type="line"/>
+      <point x="812" y="168" type="line"/>
+      <point x="812" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1083" y="755" type="line"/>
+      <point x="1083" y="875" type="line"/>
+      <point x="1128" y="792" type="line"/>
+      <point x="1064" y="832" type="line"/>
+      <point x="1084" y="1000" type="line"/>
+      <point x="1518" y="1000" type="line"/>
+      <point x="1518" y="832" type="line"/>
+      <point x="1270" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="738" y="581" type="line"/>
+      <point x="1145" y="686" type="line"/>
+      <point x="1517" y="203" type="line"/>
+      <point x="1704" y="168" type="line"/>
+      <point x="1704" y="0" type="line"/>
+      <point x="1049" y="0" type="line"/>
+      <point x="1008" y="167" type="line"/>
+      <point x="1033" y="199" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,12 +2,12 @@
 <glyph name="hook-stack.case" format="2">
   <advance width="1048"/>
   <outline>
-    <component base="hookabovecomb.case" xOffset="240"/>
+    <component base="hookabovecomb.case" xOffset="500"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

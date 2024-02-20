@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tab" format="2">
+  <advance width="1212"/>
+  <outline>
+    <contour>
+      <point x="158" y="746" type="qcurve" smooth="yes"/>
+      <point x="158" y="1091"/>
+      <point x="412" y="1520"/>
+      <point x="607" y="1520" type="qcurve" smooth="yes"/>
+      <point x="807" y="1520"/>
+      <point x="1054" y="1097"/>
+      <point x="1054" y="754" type="qcurve" smooth="yes"/>
+      <point x="1054" y="432"/>
+      <point x="811" y="-22"/>
+      <point x="611" y="-22" type="qcurve" smooth="yes"/>
+      <point x="409" y="-22"/>
+      <point x="158" y="399"/>
+    </contour>
+    <contour>
+      <point x="343" y="772" type="qcurve" smooth="yes"/>
+      <point x="344" y="481"/>
+      <point x="487" y="91"/>
+      <point x="606" y="91" type="qcurve" smooth="yes"/>
+      <point x="733" y="91"/>
+      <point x="868" y="447"/>
+      <point x="869" y="746" type="qcurve" smooth="yes"/>
+      <point x="871" y="1027"/>
+      <point x="727" y="1390"/>
+      <point x="609" y="1390" type="qcurve" smooth="yes"/>
+      <point x="478" y="1390"/>
+      <point x="342" y="1060"/>
+    </contour>
+  </outline>
+</glyph>

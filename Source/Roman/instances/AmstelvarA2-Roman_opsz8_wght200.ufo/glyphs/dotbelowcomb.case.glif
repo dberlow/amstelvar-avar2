@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb.case" format="2">
+  <advance width="220"/>
+  <anchor x="110" y="0" name="_bottom"/>
+  <anchor x="110" y="-430" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-13" y="-311" type="qcurve" smooth="yes"/>
+      <point x="-13" y="-253"/>
+      <point x="50" y="-191"/>
+      <point x="110" y="-191" type="qcurve" smooth="yes"/>
+      <point x="166" y="-191"/>
+      <point x="233" y="-257"/>
+      <point x="233" y="-311" type="qcurve" smooth="yes"/>
+      <point x="233" y="-368"/>
+      <point x="170" y="-430"/>
+      <point x="110" y="-430" type="qcurve" smooth="yes"/>
+      <point x="54" y="-430"/>
+      <point x="-13" y="-364"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

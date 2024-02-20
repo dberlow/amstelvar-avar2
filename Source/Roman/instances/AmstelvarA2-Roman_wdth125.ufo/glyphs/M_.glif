@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-  <advance width="2565"/>
+  <advance width="2891"/>
   <unicode hex="004D"/>
-  <anchor x="1256" y="0" name="bottom"/>
-  <anchor x="1289" y="1500" name="top"/>
+  <anchor x="1424" y="0" name="bottom"/>
+  <anchor x="1457" y="1500" name="top"/>
   <outline>
     <contour>
-      <point x="95" y="0" type="line"/>
-      <point x="95" y="100" type="line"/>
-      <point x="343" y="135" type="line"/>
-      <point x="345" y="754" type="line"/>
-      <point x="343" y="1352" type="line"/>
-      <point x="95" y="1386" type="line"/>
-      <point x="95" y="1500" type="line"/>
-      <point x="583" y="1500" type="line"/>
-      <point x="950" y="809" type="line"/>
-      <point x="1230" y="280" type="line"/>
-      <point x="1284" y="166" type="line"/>
-      <point x="1294" y="166" type="line"/>
-      <point x="1349" y="280" type="line"/>
-      <point x="1617" y="803" type="line"/>
-      <point x="1973" y="1500" type="line"/>
-      <point x="2470" y="1500" type="line"/>
-      <point x="2470" y="1386" type="line"/>
-      <point x="2222" y="1352" type="line"/>
-      <point x="2219" y="754" type="line"/>
-      <point x="2222" y="135" type="line"/>
-      <point x="2470" y="100" type="line"/>
-      <point x="2470" y="0" type="line"/>
-      <point x="1760" y="0" type="line"/>
-      <point x="1760" y="100" type="line"/>
-      <point x="2038" y="135" type="line"/>
-      <point x="2040" y="754" type="line"/>
-      <point x="2038" y="1210" type="line"/>
-      <point x="2042" y="1329" type="line"/>
-      <point x="2032" y="1331" type="line"/>
-      <point x="1982" y="1224" type="line"/>
-      <point x="1729" y="749" type="line"/>
-      <point x="1327" y="-8" type="line"/>
-      <point x="1168" y="-8" type="line"/>
-      <point x="777" y="741" type="line"/>
-      <point x="522" y="1228" type="line"/>
-      <point x="470" y="1335" type="line"/>
-      <point x="460" y="1332" type="line"/>
-      <point x="465" y="1214" type="line"/>
-      <point x="464" y="754" type="line"/>
-      <point x="466" y="135" type="line"/>
-      <point x="724" y="100" type="line"/>
-      <point x="724" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="100" type="line"/>
+      <point x="378" y="135" type="line"/>
+      <point x="380" y="754" type="line"/>
+      <point x="378" y="1352" type="line"/>
+      <point x="130" y="1386" type="line"/>
+      <point x="130" y="1500" type="line"/>
+      <point x="605" y="1500" type="line"/>
+      <point x="1040" y="808" type="line"/>
+      <point x="1394" y="211" type="line"/>
+      <point x="1457" y="97" type="line"/>
+      <point x="1467" y="97" type="line"/>
+      <point x="1532" y="211" type="line"/>
+      <point x="1867" y="803" type="line"/>
+      <point x="2279" y="1500" type="line"/>
+      <point x="2761" y="1500" type="line"/>
+      <point x="2761" y="1386" type="line"/>
+      <point x="2513" y="1352" type="line"/>
+      <point x="2509" y="754" type="line"/>
+      <point x="2513" y="135" type="line"/>
+      <point x="2761" y="100" type="line"/>
+      <point x="2761" y="0" type="line"/>
+      <point x="2051" y="0" type="line"/>
+      <point x="2051" y="100" type="line"/>
+      <point x="2329" y="135" type="line"/>
+      <point x="2331" y="754" type="line"/>
+      <point x="2329" y="1210" type="line"/>
+      <point x="2333" y="1329" type="line"/>
+      <point x="2323" y="1331" type="line"/>
+      <point x="2265" y="1224" type="line"/>
+      <point x="1975" y="748" type="line"/>
+      <point x="1502" y="-8" type="line"/>
+      <point x="1317" y="-8" type="line"/>
+      <point x="857" y="741" type="line"/>
+      <point x="565" y="1227" type="line"/>
+      <point x="504" y="1334" type="line"/>
+      <point x="494" y="1330" type="line"/>
+      <point x="499" y="1213" type="line"/>
+      <point x="499" y="754" type="line"/>
+      <point x="501" y="135" type="line"/>
+      <point x="759" y="100" type="line"/>
+      <point x="759" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

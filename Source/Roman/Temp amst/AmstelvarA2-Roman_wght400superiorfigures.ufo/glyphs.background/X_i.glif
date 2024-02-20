@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="48" y="378" type="line"/>
+      <point x="158" y="378" type="line"/>
+      <point x="234" y="108" type="line"/>
+      <point x="675" y="108" type="line"/>
+      <point x="1116" y="108" type="line"/>
+      <point x="1192" y="378" type="line"/>
+      <point x="1302" y="378" type="line"/>
+      <point x="1262" y="0" type="line"/>
+      <point x="675" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="518" type="line"/>
+      <point x="287" y="954" type="line"/>
+      <point x="397" y="954" type="line"/>
+      <point x="432" y="794" type="line"/>
+      <point x="675" y="784" type="line"/>
+      <point x="918" y="794" type="line"/>
+      <point x="953" y="954" type="line"/>
+      <point x="1063" y="954" type="line"/>
+      <point x="1063" y="518" type="line"/>
+      <point x="953" y="518" type="line"/>
+      <point x="918" y="678" type="line"/>
+      <point x="675" y="688" type="line"/>
+      <point x="432" y="678" type="line"/>
+      <point x="397" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="1058" type="line"/>
+      <point x="86" y="1500" type="line"/>
+      <point x="675" y="1500" type="line"/>
+      <point x="1264" y="1500" type="line"/>
+      <point x="1264" y="1058" type="line"/>
+      <point x="1142" y="1058" type="line"/>
+      <point x="1106" y="1382" type="line"/>
+      <point x="675" y="1382" type="line"/>
+      <point x="244" y="1382" type="line"/>
+      <point x="208" y="1058" type="line"/>
+    </contour>
+  </outline>
+</glyph>

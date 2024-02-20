@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-  <advance width="910"/>
+  <advance width="793"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="80" y="339" type="line"/>
-      <point x="80" y="500" type="line"/>
-      <point x="453" y="496" type="line"/>
-      <point x="830" y="500" type="line"/>
-      <point x="830" y="339" type="line"/>
-      <point x="453" y="343" type="line"/>
+      <point x="22" y="339" type="line"/>
+      <point x="22" y="500" type="line"/>
+      <point x="395" y="496" type="line"/>
+      <point x="771" y="500" type="line"/>
+      <point x="771" y="339" type="line"/>
+      <point x="395" y="343" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="741" type="line"/>
-      <point x="80" y="902" type="line"/>
-      <point x="453" y="898" type="line"/>
-      <point x="830" y="902" type="line"/>
-      <point x="830" y="741" type="line"/>
-      <point x="453" y="745" type="line"/>
+      <point x="22" y="741" type="line"/>
+      <point x="22" y="902" type="line"/>
+      <point x="395" y="898" type="line"/>
+      <point x="771" y="902" type="line"/>
+      <point x="771" y="741" type="line"/>
+      <point x="395" y="745" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theta" format="2">
+  <advance width="1168"/>
+  <unicode hex="03B8"/>
+  <outline>
+    <contour>
+      <point x="578" y="-22" type="qcurve" smooth="yes"/>
+      <point x="320" y="-22"/>
+      <point x="74" y="327"/>
+      <point x="74" y="724" type="qcurve" smooth="yes"/>
+      <point x="74" y="1125"/>
+      <point x="332" y="1537"/>
+      <point x="584" y="1537" type="qcurve" smooth="yes"/>
+      <point x="838" y="1537"/>
+      <point x="1094" y="1190"/>
+      <point x="1094" y="781" type="qcurve" smooth="yes"/>
+      <point x="1094" y="388"/>
+      <point x="826" y="-22"/>
+    </contour>
+    <contour>
+      <point x="579" y="26" type="qcurve" smooth="yes"/>
+      <point x="750" y="26"/>
+      <point x="908" y="413"/>
+      <point x="908" y="735" type="qcurve" smooth="yes"/>
+      <point x="908" y="1133"/>
+      <point x="748" y="1487"/>
+      <point x="582" y="1487" type="qcurve" smooth="yes"/>
+      <point x="414" y="1487"/>
+      <point x="254" y="1102"/>
+      <point x="254" y="760" type="qcurve" smooth="yes"/>
+      <point x="254" y="382"/>
+      <point x="410" y="26"/>
+    </contour>
+    <contour>
+      <point x="165" y="717" type="line"/>
+      <point x="165" y="783" type="line"/>
+      <point x="582" y="773" type="line"/>
+      <point x="999" y="783" type="line"/>
+      <point x="999" y="717" type="line"/>
+      <point x="582" y="727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

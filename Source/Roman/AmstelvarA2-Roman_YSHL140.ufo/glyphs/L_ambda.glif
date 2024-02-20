@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lambda" format="2">
-  <advance width="1466"/>
+  <advance width="1506"/>
   <unicode hex="039B"/>
   <outline>
     <contour>
@@ -8,20 +8,20 @@
       <point x="-25" y="100" type="line"/>
       <point x="163" y="135" type="line"/>
       <point x="325" y="540" type="line"/>
-      <point x="669" y="1508" type="line"/>
-      <point x="791" y="1508" type="line"/>
-      <point x="1138" y="567" type="line"/>
-      <point x="1313" y="135" type="line"/>
-      <point x="1491" y="100" type="line"/>
-      <point x="1491" y="0" type="line"/>
-      <point x="937" y="0" type="line"/>
-      <point x="937" y="100" type="line"/>
-      <point x="1116" y="131" type="line"/>
-      <point x="980" y="513" type="line"/>
-      <point x="767" y="1103" type="line"/>
-      <point x="726" y="1237" type="line"/>
-      <point x="715" y="1236" type="line"/>
-      <point x="666" y="1102" type="line"/>
+      <point x="689" y="1508" type="line"/>
+      <point x="811" y="1508" type="line"/>
+      <point x="1178" y="567" type="line"/>
+      <point x="1353" y="135" type="line"/>
+      <point x="1531" y="100" type="line"/>
+      <point x="1531" y="0" type="line"/>
+      <point x="977" y="0" type="line"/>
+      <point x="977" y="100" type="line"/>
+      <point x="1156" y="131" type="line"/>
+      <point x="1020" y="513" type="line"/>
+      <point x="779" y="1132" type="line"/>
+      <point x="742" y="1246" type="line"/>
+      <point x="732" y="1246" type="line"/>
+      <point x="695" y="1132" type="line"/>
       <point x="438" y="503" type="line"/>
       <point x="314" y="130" type="line"/>
       <point x="491" y="100" type="line"/>
@@ -34,6 +34,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_YSHL140.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.57340,0.29823</string>
     </dict>
   </lib>
 </glyph>

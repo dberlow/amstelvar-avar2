@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe" format="2">
+  <advance width="1750"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="230" y="500" type="line"/>
+      <point x="228" y="801" type="line"/>
+      <point x="96" y="836" type="line"/>
+      <point x="96" y="1000" type="line"/>
+      <point x="1654" y="1000" type="line"/>
+      <point x="1654" y="836" type="line"/>
+      <point x="1522" y="801" type="line"/>
+      <point x="1520" y="500" type="line"/>
+      <point x="1522" y="199" type="line"/>
+      <point x="1654" y="164" type="line"/>
+      <point x="1654" y="0" type="line"/>
+      <point x="987" y="0" type="line"/>
+      <point x="987" y="164" type="line"/>
+      <point x="1110" y="199" type="line"/>
+      <point x="1112" y="500" type="line"/>
+      <point x="1110" y="844" type="line"/>
+      <point x="640" y="844" type="line"/>
+      <point x="638" y="500" type="line"/>
+      <point x="640" y="199" type="line"/>
+      <point x="763" y="164" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="164" type="line"/>
+      <point x="228" y="199" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka" format="2">
+  <advance width="1143"/>
+  <unicode hex="043A"/>
+  <anchor x="588" y="0" name="bottom"/>
+  <anchor x="588" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="500" type="line"/>
+      <point x="228" y="855" type="line"/>
+      <point x="80" y="890" type="line"/>
+      <point x="80" y="1000" type="line"/>
+      <point x="512" y="1000" type="line"/>
+      <point x="512" y="890" type="line"/>
+      <point x="374" y="855" type="line"/>
+      <point x="372" y="500" type="line"/>
+      <point x="374" y="145" type="line"/>
+      <point x="512" y="110" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="110" type="line"/>
+      <point x="228" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="568" type="line"/>
+      <point x="518" y="565" type="line"/>
+      <point x="784" y="848" type="line"/>
+      <point x="646" y="887" type="line"/>
+      <point x="646" y="1000" type="line"/>
+      <point x="1094" y="1000" type="line"/>
+      <point x="1094" y="889" type="line"/>
+      <point x="905" y="843" type="line"/>
+      <point x="552" y="473" type="line"/>
+      <point x="543" y="463" type="line"/>
+      <point x="301" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="492" type="line"/>
+      <point x="605" y="580" type="line"/>
+      <point x="971" y="145" type="line"/>
+      <point x="1118" y="110" type="line"/>
+      <point x="1118" y="0" type="line"/>
+      <point x="840" y="0" type="line"/>
+      <point x="808" y="109" type="line"/>
+      <point x="814" y="141" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance width="828"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="470" y="-8" type="line"/>
+      <point x="282" y="481" type="line"/>
+      <point x="154" y="808" type="line" smooth="yes"/>
+      <point x="124" y="880"/>
+      <point x="100" y="937"/>
+      <point x="70" y="942" type="qcurve" smooth="yes"/>
+      <point x="10" y="954" type="line"/>
+      <point x="10" y="971" type="line"/>
+      <point x="116" y="1008" type="line"/>
+      <point x="156" y="1008"/>
+      <point x="206" y="948"/>
+      <point x="239" y="859" type="qcurve" smooth="yes"/>
+      <point x="351" y="534" type="line"/>
+      <point x="442" y="288" type="line"/>
+      <point x="482" y="170" type="line"/>
+      <point x="492" y="170" type="line"/>
+      <point x="530" y="288" type="line"/>
+      <point x="621" y="539" type="line"/>
+      <point x="765" y="979" type="line"/>
+      <point x="793" y="1000" type="line"/>
+      <point x="808" y="964" type="line"/>
+      <point x="633" y="498" type="line"/>
+      <point x="451" y="-8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

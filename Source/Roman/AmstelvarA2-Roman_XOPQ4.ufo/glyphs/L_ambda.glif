@@ -10,19 +10,19 @@
       <point x="325" y="540" type="line"/>
       <point x="689" y="1508" type="line"/>
       <point x="698" y="1508" type="line"/>
-      <point x="1067" y="522" type="line"/>
+      <point x="1050" y="567" type="line"/>
       <point x="1224" y="135" type="line"/>
       <point x="1402" y="100" type="line"/>
       <point x="1402" y="0" type="line"/>
       <point x="1039" y="0" type="line"/>
       <point x="1039" y="100" type="line"/>
       <point x="1218" y="131" type="line"/>
-      <point x="1063" y="516" type="line"/>
-      <point x="803" y="1197" type="line"/>
+      <point x="1064" y="513" type="line"/>
+      <point x="803" y="1198" type="line"/>
       <point x="758" y="1311" type="line"/>
       <point x="748" y="1311" type="line"/>
       <point x="715" y="1197" type="line"/>
-      <point x="421" y="449" type="line"/>
+      <point x="419" y="443" type="line"/>
       <point x="314" y="130" type="line"/>
       <point x="491" y="100" type="line"/>
       <point x="491" y="0" type="line"/>
@@ -34,6 +34,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_XOPQ4.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

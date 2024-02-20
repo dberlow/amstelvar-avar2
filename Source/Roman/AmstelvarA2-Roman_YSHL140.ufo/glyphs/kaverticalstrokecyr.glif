@@ -2,57 +2,59 @@
 <glyph name="kaverticalstrokecyr" format="2">
   <advance width="1296"/>
   <unicode hex="049D"/>
-  <guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
   <outline>
+    <contour>
+      <point x="230" y="500" type="line"/>
+      <point x="228" y="685" type="line"/>
+      <point x="80" y="720" type="line"/>
+      <point x="80" y="1000" type="line"/>
+      <point x="536" y="1000" type="line"/>
+      <point x="536" y="720" type="line"/>
+      <point x="398" y="685" type="line"/>
+      <point x="396" y="500" type="line"/>
+      <point x="398" y="315" type="line"/>
+      <point x="536" y="280" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="280" type="line"/>
+      <point x="228" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="597" y="566" type="line"/>
+      <point x="692" y="564" type="line"/>
+      <point x="786" y="680" type="line"/>
+      <point x="801" y="699" type="line"/>
+      <point x="801" y="1000" type="line"/>
+      <point x="1247" y="1000" type="line"/>
+      <point x="1247" y="720" type="line"/>
+      <point x="907" y="675" type="line"/>
+      <point x="725" y="473" type="line"/>
+      <point x="716" y="464" type="line"/>
+      <point x="597" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="484" type="line"/>
+      <point x="787" y="586" type="line"/>
+      <point x="1004" y="315" type="line"/>
+      <point x="1282" y="280" type="line"/>
+      <point x="1282" y="0" type="line"/>
+      <point x="983" y="0" type="line"/>
+      <point x="847" y="279" type="line"/>
+      <point x="821" y="311" type="line"/>
+    </contour>
     <contour>
       <point x="655" y="227" type="line"/>
       <point x="539" y="227" type="line"/>
       <point x="539" y="792" type="line"/>
       <point x="655" y="792" type="line"/>
     </contour>
-    <contour>
-      <point x="684" y="484" type="line"/>
-      <point x="787" y="586" type="line"/>
-      <point x="1164" y="115" type="line"/>
-      <point x="1282" y="80" type="line"/>
-      <point x="1282" y="0" type="line"/>
-      <point x="983" y="0" type="line"/>
-      <point x="971" y="79" type="line"/>
-      <point x="980" y="111" type="line"/>
-    </contour>
-    <contour>
-      <point x="597" y="566" type="line"/>
-      <point x="692" y="564" type="line"/>
-      <point x="948" y="880" type="line"/>
-      <point x="801" y="920" type="line"/>
-      <point x="801" y="1000" type="line"/>
-      <point x="1247" y="1000" type="line"/>
-      <point x="1247" y="920" type="line"/>
-      <point x="1089" y="875" type="line"/>
-      <point x="716" y="464" type="line"/>
-      <point x="597" y="462" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="500" type="line"/>
-      <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
-      <point x="80" y="1000" type="line"/>
-      <point x="536" y="1000" type="line"/>
-      <point x="536" y="920" type="line"/>
-      <point x="398" y="885" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="398" y="115" type="line"/>
-      <point x="536" y="80" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
-      <point x="228" y="115" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_YSHL140.ufo/glyphs</string>
     </dict>
   </lib>
 </glyph>

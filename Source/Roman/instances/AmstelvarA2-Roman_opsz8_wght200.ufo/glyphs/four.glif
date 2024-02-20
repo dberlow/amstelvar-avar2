@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="1337"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="66" y="559" type="line"/>
+      <point x="870" y="1562" type="line"/>
+      <point x="955" y="1525" type="line"/>
+      <point x="983" y="1509" type="line"/>
+      <point x="977" y="496" type="line"/>
+      <point x="977" y="147" type="line"/>
+      <point x="1229" y="112" type="line"/>
+      <point x="1229" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="112" type="line"/>
+      <point x="822" y="147" type="line"/>
+      <point x="831" y="494" type="line"/>
+      <point x="831" y="1324" type="line"/>
+      <point x="235" y="582" type="line"/>
+      <point x="241" y="572" type="line"/>
+      <point x="1279" y="546" type="line"/>
+      <point x="1279" y="446" type="line"/>
+      <point x="86" y="442" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>10 5</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>17 14</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>8 1</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTFI</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

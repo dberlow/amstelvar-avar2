@@ -1,52 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Xi" format="2">
-  <advance width="1554"/>
+  <advance width="1372"/>
   <unicode hex="039E"/>
-  <guideline x="721" y="1008" angle="90.0" identifier="GCiNqpylsp"/>
   <outline>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="139" y="418" type="line"/>
-      <point x="261" y="418" type="line"/>
-      <point x="336" y="148" type="line"/>
-      <point x="777" y="145" type="line"/>
-      <point x="1218" y="148" type="line"/>
-      <point x="1293" y="418" type="line"/>
-      <point x="1415" y="418" type="line"/>
-      <point x="1364" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="43" y="418" type="line"/>
+      <point x="181" y="418" type="line"/>
+      <point x="265" y="128" type="line"/>
+      <point x="686" y="115" type="line"/>
+      <point x="1106" y="128" type="line"/>
+      <point x="1191" y="418" type="line"/>
+      <point x="1329" y="418" type="line"/>
+      <point x="1278" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="386" y="518" type="line"/>
-      <point x="386" y="954" type="line"/>
-      <point x="486" y="954" type="line"/>
-      <point x="521" y="809" type="line"/>
-      <point x="777" y="799" type="line"/>
-      <point x="1033" y="809" type="line"/>
-      <point x="1068" y="954" type="line"/>
-      <point x="1168" y="954" type="line"/>
-      <point x="1168" y="518" type="line"/>
-      <point x="1068" y="518" type="line"/>
-      <point x="1033" y="663" type="line"/>
-      <point x="777" y="673" type="line"/>
-      <point x="521" y="663" type="line"/>
-      <point x="486" y="518" type="line"/>
+      <point x="290" y="518" type="line"/>
+      <point x="290" y="954" type="line"/>
+      <point x="406" y="954" type="line"/>
+      <point x="441" y="808" type="line"/>
+      <point x="686" y="789" type="line"/>
+      <point x="931" y="808" type="line"/>
+      <point x="966" y="954" type="line"/>
+      <point x="1082" y="954" type="line"/>
+      <point x="1082" y="518" type="line"/>
+      <point x="966" y="518" type="line"/>
+      <point x="931" y="664" type="line"/>
+      <point x="686" y="683" type="line"/>
+      <point x="441" y="664" type="line"/>
+      <point x="406" y="518" type="line"/>
     </contour>
     <contour>
-      <point x="185" y="1058" type="line"/>
-      <point x="185" y="1500" type="line"/>
-      <point x="1369" y="1500" type="line"/>
-      <point x="1369" y="1058" type="line"/>
-      <point x="1247" y="1058" type="line"/>
-      <point x="1215" y="1342" type="line"/>
-      <point x="777" y="1345" type="line"/>
-      <point x="339" y="1342" type="line"/>
-      <point x="307" y="1058" type="line"/>
+      <point x="89" y="1058" type="line"/>
+      <point x="89" y="1500" type="line"/>
+      <point x="1283" y="1500" type="line"/>
+      <point x="1283" y="1058" type="line"/>
+      <point x="1145" y="1058" type="line"/>
+      <point x="1113" y="1362" type="line"/>
+      <point x="686" y="1375" type="line"/>
+      <point x="259" y="1362" type="line"/>
+      <point x="227" y="1058" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

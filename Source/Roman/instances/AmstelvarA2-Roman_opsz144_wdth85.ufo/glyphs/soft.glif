@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="soft" format="2">
+  <advance width="1032"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="381" y="26" type="line"/>
+      <point x="577" y="26" type="line" smooth="yes"/>
+      <point x="702" y="26"/>
+      <point x="803" y="190"/>
+      <point x="803" y="316" type="qcurve" smooth="yes"/>
+      <point x="803" y="438"/>
+      <point x="702" y="595"/>
+      <point x="577" y="595" type="qcurve" smooth="yes"/>
+      <point x="304" y="595" type="line"/>
+      <point x="304" y="621" type="line"/>
+      <point x="573" y="621" type="line" smooth="yes"/>
+      <point x="765" y="621"/>
+      <point x="972" y="455"/>
+      <point x="972" y="314" type="qcurve" smooth="yes"/>
+      <point x="972" y="172"/>
+      <point x="765" y="0"/>
+      <point x="573" y="0" type="qcurve" smooth="yes"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="20" type="line"/>
+      <point x="226" y="55" type="line"/>
+      <point x="228" y="500" type="line"/>
+      <point x="226" y="945" type="line"/>
+      <point x="118" y="980" type="line"/>
+      <point x="118" y="1000" type="line"/>
+      <point x="489" y="1000" type="line"/>
+      <point x="489" y="980" type="line"/>
+      <point x="381" y="945" type="line"/>
+      <point x="379" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

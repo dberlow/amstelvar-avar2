@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two" format="2">
+  <advance width="1031"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="259" type="line"/>
+      <point x="46" y="405"/>
+      <point x="175" y="663"/>
+      <point x="311" y="772" type="qcurve" smooth="yes"/>
+      <point x="436" y="880"/>
+      <point x="541" y="1004"/>
+      <point x="541" y="1116" type="qcurve" smooth="yes"/>
+      <point x="541" y="1214"/>
+      <point x="443" y="1339"/>
+      <point x="364" y="1339" type="qcurve" smooth="yes"/>
+      <point x="277" y="1339"/>
+      <point x="144" y="1252"/>
+      <point x="86" y="1162" type="qcurve"/>
+      <point x="10" y="1305" type="line"/>
+      <point x="80" y="1415"/>
+      <point x="310" y="1533"/>
+      <point x="483" y="1533" type="qcurve" smooth="yes"/>
+      <point x="751" y="1533"/>
+      <point x="972" y="1335"/>
+      <point x="972" y="1177" type="qcurve" smooth="yes"/>
+      <point x="972" y="1002"/>
+      <point x="778" y="757"/>
+      <point x="583" y="669" type="qcurve" smooth="yes"/>
+      <point x="465" y="604"/>
+      <point x="342" y="463"/>
+      <point x="323" y="389" type="qcurve"/>
+      <point x="333" y="375" type="line"/>
+      <point x="1021" y="375" type="line"/>
+      <point x="1021" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 27</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>1 26</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+        <key>10 17</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YOFI</string>
+        </dict>
+        <key>13 7</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XTFI</string>
+        </dict>
+        <key>7 20</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XOFI</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

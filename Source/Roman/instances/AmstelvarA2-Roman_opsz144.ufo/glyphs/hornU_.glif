@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hornU" format="2">
   <advance width="1685"/>
-  <anchor x="1382" y="1500" name="topright"/>
+  <anchor x="1370" y="1500" name="topright"/>
   <anchor x="843" y="1500" name="top"/>
   <outline>
     <contour>
-      <point x="64" y="1386" type="line"/>
-      <point x="64" y="1500" type="line"/>
-      <point x="638" y="1500" type="line"/>
-      <point x="638" y="1386" type="line"/>
-      <point x="431" y="1352" type="line"/>
+      <point x="106" y="1473" type="line"/>
+      <point x="106" y="1500" type="line"/>
+      <point x="594" y="1500" type="line"/>
+      <point x="594" y="1473" type="line"/>
+      <point x="431" y="1439" type="line"/>
       <point x="426" y="794" type="line"/>
       <point x="430" y="416" type="line" smooth="yes"/>
       <point x="432" y="224"/>
@@ -19,9 +19,9 @@
       <point x="1229" y="213"/>
       <point x="1230" y="433" type="qcurve" smooth="yes"/>
       <point x="1232" y="794" type="line"/>
-      <point x="1230" y="1352" type="line"/>
-      <point x="1012" y="1386" type="line"/>
-      <point x="1012" y="1500" type="line"/>
+      <point x="1230" y="1439" type="line"/>
+      <point x="1058" y="1473" type="line"/>
+      <point x="1058" y="1500" type="line"/>
       <point x="1263" y="1500" type="line"/>
       <point x="1261" y="794" type="line"/>
       <point x="1264" y="462" type="line" smooth="yes"/>
@@ -32,7 +32,7 @@
       <point x="260" y="242"/>
       <point x="262" y="481" type="qcurve" smooth="yes"/>
       <point x="264" y="794" type="line"/>
-      <point x="262" y="1352" type="line"/>
+      <point x="262" y="1439" type="line"/>
     </contour>
   </outline>
 </glyph>

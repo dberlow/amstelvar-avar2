@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb.case" format="2">
+  <advance width="423"/>
+  <anchor x="724" y="0" name="_bottom"/>
+  <anchor x="724" y="-441" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-134" y="-328" type="qcurve" smooth="yes"/>
+      <point x="-134" y="-273"/>
+      <point x="-74" y="-214"/>
+      <point x="-18" y="-214" type="qcurve" smooth="yes"/>
+      <point x="35" y="-214"/>
+      <point x="98" y="-277"/>
+      <point x="98" y="-328" type="qcurve" smooth="yes"/>
+      <point x="98" y="-382"/>
+      <point x="39" y="-441"/>
+      <point x="-18" y="-441" type="qcurve" smooth="yes"/>
+      <point x="-71" y="-441"/>
+      <point x="-134" y="-379"/>
+    </contour>
+    <contour>
+      <point x="326" y="-328" type="qcurve" smooth="yes"/>
+      <point x="326" y="-273"/>
+      <point x="386" y="-214"/>
+      <point x="442" y="-214" type="qcurve" smooth="yes"/>
+      <point x="495" y="-214"/>
+      <point x="558" y="-277"/>
+      <point x="558" y="-328" type="qcurve" smooth="yes"/>
+      <point x="558" y="-382"/>
+      <point x="499" y="-441"/>
+      <point x="442" y="-441" type="qcurve" smooth="yes"/>
+      <point x="389" y="-441"/>
+      <point x="326" y="-379"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

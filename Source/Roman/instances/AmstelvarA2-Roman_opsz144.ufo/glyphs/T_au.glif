@@ -3,14 +3,14 @@
   <advance width="1175"/>
   <unicode hex="03A4"/>
   <outline>
-    <component base="T" xOffset="9"/>
+    <component base="T" xOffset="26"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

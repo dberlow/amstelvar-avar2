@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe.bgr" format="2">
+  <advance width="2032"/>
+  <outline>
+    <contour>
+      <point x="787" y="0" type="line"/>
+      <point x="787" y="20" type="line"/>
+      <point x="965" y="55" type="line"/>
+      <point x="967" y="754" type="line"/>
+      <point x="965" y="1443" type="line"/>
+      <point x="796" y="1477" type="line"/>
+      <point x="796" y="1500" type="line"/>
+      <point x="1236" y="1500" type="line"/>
+      <point x="1236" y="1477" type="line"/>
+      <point x="1067" y="1443" type="line"/>
+      <point x="1065" y="754" type="line"/>
+      <point x="1067" y="55" type="line"/>
+      <point x="1245" y="20" type="line"/>
+      <point x="1245" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1015" y="513" type="line"/>
+      <point x="1015" y="544" type="line"/>
+      <point x="1781" y="1422" type="line"/>
+      <point x="1535" y="1477" type="line"/>
+      <point x="1535" y="1500" type="line"/>
+      <point x="1923" y="1500" type="line"/>
+      <point x="1923" y="1477" type="line"/>
+      <point x="1819" y="1422" type="line"/>
+      <point x="1303" y="846" type="line"/>
+      <point x="1280" y="823" type="line"/>
+    </contour>
+    <contour>
+      <point x="1285" y="838" type="line"/>
+      <point x="1349" y="904" type="line"/>
+      <point x="1948" y="55" type="line"/>
+      <point x="2025" y="20" type="line"/>
+      <point x="2025" y="0" type="line"/>
+      <point x="1628" y="0" type="line"/>
+      <point x="1628" y="20" type="line"/>
+      <point x="1827" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="1016" y="513" type="line"/>
+      <point x="751" y="824" type="line"/>
+      <point x="731" y="846" type="line"/>
+      <point x="212" y="1429" type="line"/>
+      <point x="116" y="1477" type="line"/>
+      <point x="116" y="1500" type="line"/>
+      <point x="496" y="1500" type="line"/>
+      <point x="496" y="1477" type="line"/>
+      <point x="250" y="1429" type="line"/>
+      <point x="1016" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="838" type="line"/>
+      <point x="205" y="55" type="line"/>
+      <point x="404" y="20" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="7" y="20" type="line"/>
+      <point x="86" y="55" type="line"/>
+      <point x="686" y="904" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

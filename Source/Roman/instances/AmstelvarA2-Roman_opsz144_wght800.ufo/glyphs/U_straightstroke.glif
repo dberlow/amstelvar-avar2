@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke" format="2">
+  <advance width="1466"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="246" y="574" type="line"/>
+      <point x="246" y="633" type="line"/>
+      <point x="1224" y="633" type="line"/>
+      <point x="1224" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="44" type="line"/>
+      <point x="545" y="79" type="line"/>
+      <point x="547" y="647" type="line"/>
+      <point x="359" y="976" type="line"/>
+      <point x="95" y="1423" type="line"/>
+      <point x="20" y="1450" type="line"/>
+      <point x="20" y="1500" type="line"/>
+      <point x="649" y="1500" type="line"/>
+      <point x="649" y="1450" type="line"/>
+      <point x="506" y="1414" type="line"/>
+      <point x="698" y="1055" type="line"/>
+      <point x="895" y="717" type="line"/>
+      <point x="905" y="717" type="line"/>
+      <point x="1089" y="1045" type="line"/>
+      <point x="1297" y="1421" type="line"/>
+      <point x="1134" y="1450" type="line"/>
+      <point x="1134" y="1500" type="line"/>
+      <point x="1445" y="1500" type="line"/>
+      <point x="1445" y="1450" type="line"/>
+      <point x="1366" y="1422" type="line"/>
+      <point x="1129" y="1015" type="line"/>
+      <point x="923" y="652" type="line"/>
+      <point x="925" y="79" type="line"/>
+      <point x="1076" y="44" type="line"/>
+      <point x="1076" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

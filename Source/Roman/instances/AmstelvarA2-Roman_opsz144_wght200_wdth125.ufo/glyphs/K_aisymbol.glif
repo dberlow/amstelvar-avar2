@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kaisymbol" format="2">
+  <advance width="1427"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="100" type="line"/>
+      <point x="334" y="135" type="line"/>
+      <point x="335" y="754" type="line"/>
+      <point x="334" y="1352" type="line"/>
+      <point x="126" y="1386" type="line"/>
+      <point x="126" y="1500" type="line"/>
+      <point x="632" y="1500" type="line"/>
+      <point x="632" y="1386" type="line"/>
+      <point x="434" y="1352" type="line"/>
+      <point x="432" y="754" type="line"/>
+      <point x="434" y="135" type="line"/>
+      <point x="642" y="100" type="line"/>
+      <point x="642" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="569" type="line"/>
+      <point x="420" y="609" type="line"/>
+      <point x="1096" y="1338" type="line"/>
+      <point x="949" y="1386" type="line"/>
+      <point x="949" y="1500" type="line"/>
+      <point x="1312" y="1500" type="line"/>
+      <point x="1312" y="1386" type="line"/>
+      <point x="1134" y="1338" type="line"/>
+      <point x="677" y="845" type="line"/>
+      <point x="643" y="808" type="line"/>
+    </contour>
+    <contour>
+      <point x="1244" y="0" type="line"/>
+      <point x="633" y="840" type="line"/>
+      <point x="697" y="907" type="line"/>
+      <point x="1262" y="135" type="line"/>
+      <point x="1419" y="100" type="line"/>
+      <point x="1419" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="715" y="-510" type="qcurve"/>
+      <point x="590" y="-510"/>
+      <point x="311" y="-405"/>
+      <point x="227" y="-325" type="qcurve"/>
+      <point x="230" y="-320" type="line"/>
+      <point x="312" y="-387"/>
+      <point x="588" y="-480"/>
+      <point x="716" y="-480" type="qcurve"/>
+      <point x="1020" y="-480"/>
+      <point x="1460" y="-190"/>
+      <point x="1458" y="0" type="qcurve"/>
+      <point x="1419" y="0" type="line"/>
+      <point x="1384" y="-232"/>
+      <point x="1011" y="-510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

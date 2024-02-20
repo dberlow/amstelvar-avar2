@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="1562"/>
+  <unicode hex="0388"/>
+  <outline>
+    <component base="E" xOffset="274"/>
+    <component base="tonoscomb.case" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

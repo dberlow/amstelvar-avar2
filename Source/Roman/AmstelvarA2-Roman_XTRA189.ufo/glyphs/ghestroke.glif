@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke" format="2">
+  <advance width="930"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="ghe" xOffset="4"/>
+    <component base="horizontalbarlc" xOffset="37" yOffset="-220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

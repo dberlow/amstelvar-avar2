@@ -50,6 +50,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.5734,0.34805</string>
     </dict>
   </lib>
 </glyph>

@@ -3,13 +3,13 @@
   <advance width="1493"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="O" xOffset="134"/>
-    <component base="hungarumlautcomb.case" xOffset="855"/>
+    <component base="O" xOffset="395"/>
+    <component base="hungarumlautcomb.case" xOffset="777"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

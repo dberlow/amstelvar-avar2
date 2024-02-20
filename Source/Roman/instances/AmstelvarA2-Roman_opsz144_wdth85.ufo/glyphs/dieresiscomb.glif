@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="1326"/>
+  <unicode hex="0308"/>
+  <anchor x="663" y="1000" name="_top"/>
+  <anchor x="663" y="1327" name="top"/>
+  <anchor x="663" y="1000" name="_GRKtop"/>
+  <outline>
+    <contour>
+      <point x="777" y="1213" type="qcurve" smooth="yes"/>
+      <point x="777" y="1268"/>
+      <point x="837" y="1327"/>
+      <point x="893" y="1327" type="qcurve" smooth="yes"/>
+      <point x="946" y="1327"/>
+      <point x="1009" y="1264"/>
+      <point x="1009" y="1213" type="qcurve" smooth="yes"/>
+      <point x="1009" y="1159"/>
+      <point x="950" y="1100"/>
+      <point x="893" y="1100" type="qcurve" smooth="yes"/>
+      <point x="840" y="1100"/>
+      <point x="777" y="1162"/>
+    </contour>
+    <contour>
+      <point x="317" y="1213" type="qcurve" smooth="yes"/>
+      <point x="317" y="1268"/>
+      <point x="377" y="1327"/>
+      <point x="433" y="1327" type="qcurve" smooth="yes"/>
+      <point x="486" y="1327"/>
+      <point x="549" y="1264"/>
+      <point x="549" y="1213" type="qcurve" smooth="yes"/>
+      <point x="549" y="1159"/>
+      <point x="490" y="1100"/>
+      <point x="433" y="1100" type="qcurve" smooth="yes"/>
+      <point x="380" y="1100"/>
+      <point x="317" y="1162"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu-dash" format="2">
+  <advance width="1505"/>
+  <outline>
+    <contour>
+      <point x="218" y="547" type="line"/>
+      <point x="578" y="563" type="line"/>
+      <point x="558" y="461" type="line"/>
+      <point x="198" y="441" type="line"/>
+    </contour>
+  </outline>
+</glyph>

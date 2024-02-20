@@ -2,7 +2,6 @@
 <glyph name="Dje" format="2">
   <advance width="1624"/>
   <unicode hex="0402"/>
-  <guideline x="568" y="625" angle="90.0" identifier="YDADns81zF"/>
   <outline>
     <contour>
       <point x="1049" y="748" type="qcurve" smooth="yes"/>
@@ -27,26 +26,26 @@
       <point x="1200" y="748"/>
     </contour>
     <contour>
-      <point x="40" y="1053" type="line"/>
-      <point x="40" y="1500" type="line"/>
-      <point x="1244" y="1500" type="line"/>
-      <point x="1244" y="1093" type="line"/>
-      <point x="1134" y="1093" type="line"/>
-      <point x="1099" y="1384" type="line"/>
+      <point x="41" y="1059" type="line"/>
+      <point x="41" y="1500" type="line"/>
+      <point x="1243" y="1500" type="line"/>
+      <point x="1243" y="1098" type="line"/>
+      <point x="1135" y="1098" type="line"/>
+      <point x="1100" y="1384" type="line"/>
       <point x="729" y="1384" type="line"/>
       <point x="710" y="1364" type="line"/>
       <point x="708" y="754" type="line"/>
       <point x="710" y="136" type="line"/>
-      <point x="927" y="100" type="line"/>
-      <point x="927" y="0" type="line"/>
-      <point x="315" y="0" type="line"/>
-      <point x="315" y="100" type="line"/>
+      <point x="910" y="100" type="line"/>
+      <point x="910" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="100" type="line"/>
       <point x="534" y="136" type="line"/>
       <point x="536" y="754" type="line"/>
       <point x="534" y="1364" type="line"/>
       <point x="525" y="1384" type="line"/>
-      <point x="185" y="1384" type="line"/>
-      <point x="150" y="1053" type="line"/>
+      <point x="184" y="1384" type="line"/>
+      <point x="150" y="1059" type="line"/>
     </contour>
   </outline>
   <lib>

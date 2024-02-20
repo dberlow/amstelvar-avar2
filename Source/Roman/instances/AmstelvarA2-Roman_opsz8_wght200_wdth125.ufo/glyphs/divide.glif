@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="1236"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="186" y="556" type="line"/>
+      <point x="186" y="708" type="line"/>
+      <point x="1050" y="708" type="line"/>
+      <point x="1050" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="488" y="307" type="qcurve" smooth="yes"/>
+      <point x="488" y="359"/>
+      <point x="561" y="437"/>
+      <point x="618" y="437" type="qcurve" smooth="yes"/>
+      <point x="675" y="437"/>
+      <point x="748" y="359"/>
+      <point x="748" y="307" type="qcurve" smooth="yes"/>
+      <point x="748" y="256"/>
+      <point x="675" y="178"/>
+      <point x="618" y="178" type="qcurve" smooth="yes"/>
+      <point x="561" y="178"/>
+      <point x="488" y="256"/>
+    </contour>
+    <contour>
+      <point x="488" y="958" type="qcurve" smooth="yes"/>
+      <point x="488" y="1010"/>
+      <point x="561" y="1088"/>
+      <point x="618" y="1088" type="qcurve" smooth="yes"/>
+      <point x="675" y="1088"/>
+      <point x="748" y="1010"/>
+      <point x="748" y="958" type="qcurve" smooth="yes"/>
+      <point x="748" y="907"/>
+      <point x="675" y="829"/>
+      <point x="618" y="829" type="qcurve" smooth="yes"/>
+      <point x="561" y="829"/>
+      <point x="488" y="907"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="Nj" format="2">
   <advance width="2489"/>
   <outline>
-    <component base="N" xOffset="43"/>
+    <component base="N" xOffset="46"/>
     <component base="jdotless" xOffset="1731"/>
     <component base="idot" xOffset="2119" yOffset="34"/>
   </outline>
@@ -11,7 +11,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

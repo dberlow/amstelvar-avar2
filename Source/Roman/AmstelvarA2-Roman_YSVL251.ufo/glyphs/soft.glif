@@ -2,10 +2,6 @@
 <glyph name="soft" format="2">
   <advance width="1058"/>
   <unicode hex="044C"/>
-  <guideline x="302" y="625" angle="90" identifier="A4qVwRmZ22"/>
-  <guideline x="953" y="554" angle="90" identifier="h0tFJgBRAh"/>
-  <guideline x="627" y="553" angle="90" identifier="x6MEKzPxp5"/>
-  <guideline x="329" y="565" angle="0" identifier="Iz6BEWeM15"/>
   <outline>
     <contour>
       <point x="398" y="105" type="line"/>
@@ -42,8 +38,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>com.typemytype.robofont.guideline.showMeasurements.Iz6BEWeM15</key>
-      <true/>
     </dict>
   </lib>
 </glyph>

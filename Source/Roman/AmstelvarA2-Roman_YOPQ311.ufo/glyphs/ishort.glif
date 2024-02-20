@@ -2,9 +2,6 @@
 <glyph name="ishort" format="2">
   <advance width="1282"/>
   <unicode hex="0439"/>
-  <note>
-u
-</note>
   <outline>
     <component base="icyr"/>
     <component base="breve.cyrcomb" xOffset="641"/>

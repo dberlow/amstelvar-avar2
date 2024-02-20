@@ -18,7 +18,7 @@
       <point x="1391" y="1031" type="line"/>
       <point x="1127" y="1031" type="line"/>
       <point x="1090" y="1199" type="line" smooth="yes"/>
-      <point x="1069" y="1295"/>
+      <point x="1069" y="1296"/>
       <point x="926" y="1392"/>
       <point x="793" y="1392" type="qcurve" smooth="yes"/>
       <point x="590" y="1392"/>
@@ -99,8 +99,6 @@
           <string>XSVU</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

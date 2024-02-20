@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ka.bgr" format="2">
-  <advance width="1730"/>
+  <advance width="1934"/>
   <outline>
     <component base="K"/>
   </outline>
@@ -9,7 +9,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

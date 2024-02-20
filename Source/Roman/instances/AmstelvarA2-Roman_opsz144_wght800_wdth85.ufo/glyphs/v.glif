@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="933"/>
+  <unicode hex="0076"/>
+  <anchor x="525" y="0" name="bottom"/>
+  <anchor x="570" y="953" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="901" type="line"/>
+      <point x="25" y="953" type="line"/>
+      <point x="567" y="953" type="line"/>
+      <point x="567" y="901" type="line"/>
+      <point x="460" y="864" type="line"/>
+      <point x="543" y="511" type="line"/>
+      <point x="586" y="332" type="line"/>
+      <point x="611" y="226" type="line"/>
+      <point x="621" y="226" type="line"/>
+      <point x="646" y="332" type="line"/>
+      <point x="690" y="516" type="line"/>
+      <point x="772" y="871" type="line"/>
+      <point x="663" y="901" type="line"/>
+      <point x="663" y="953" type="line"/>
+      <point x="919" y="953" type="line"/>
+      <point x="919" y="901" type="line"/>
+      <point x="829" y="866" type="line"/>
+      <point x="727" y="475" type="line"/>
+      <point x="599" y="-9" type="line"/>
+      <point x="348" y="-9" type="line"/>
+      <point x="219" y="437" type="line"/>
+      <point x="93" y="866" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 1</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>0 18</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>10 16</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTLC</string>
+        </dict>
+        <key>11 12</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>12 13</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>2 3</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+        <key>3 4</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>8 9</key>
+        <dict>
+          <key>direction</key>
+          <string>x</string>
+          <key>name</key>
+          <string>XSLC</string>
+        </dict>
+        <key>9 10</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YSLC</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

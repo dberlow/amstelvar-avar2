@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lambda" format="2">
-  <advance width="1466"/>
+  <advance width="1363"/>
   <unicode hex="039B"/>
   <outline>
     <contour>
-      <point x="42" y="0" type="line"/>
-      <point x="42" y="100" type="line"/>
-      <point x="230" y="135" type="line"/>
-      <point x="385" y="540" type="line"/>
-      <point x="726" y="1508" type="line"/>
-      <point x="791" y="1508" type="line"/>
-      <point x="1138" y="567" type="line"/>
-      <point x="1313" y="135" type="line"/>
-      <point x="1491" y="100" type="line"/>
-      <point x="1491" y="0" type="line"/>
-      <point x="937" y="0" type="line"/>
-      <point x="937" y="100" type="line"/>
-      <point x="1116" y="131" type="line"/>
-      <point x="980" y="513" type="line"/>
-      <point x="739" y="1202" type="line"/>
-      <point x="693" y="1362" type="line"/>
-      <point x="683" y="1362" type="line"/>
-      <point x="626" y="1202" type="line"/>
-      <point x="391" y="537" type="line"/>
-      <point x="241" y="130" type="line"/>
-      <point x="418" y="100" type="line"/>
-      <point x="418" y="0" type="line"/>
+      <point x="-25" y="0" type="line"/>
+      <point x="-25" y="100" type="line"/>
+      <point x="163" y="135" type="line"/>
+      <point x="305" y="538" type="line"/>
+      <point x="646" y="1508" type="line"/>
+      <point x="668" y="1508" type="line"/>
+      <point x="1035" y="567" type="line"/>
+      <point x="1210" y="135" type="line"/>
+      <point x="1388" y="100" type="line"/>
+      <point x="1388" y="0" type="line"/>
+      <point x="834" y="0" type="line"/>
+      <point x="834" y="100" type="line"/>
+      <point x="1013" y="131" type="line"/>
+      <point x="877" y="513" type="line"/>
+      <point x="620" y="1172" type="line"/>
+      <point x="583" y="1286" type="line"/>
+      <point x="573" y="1286" type="line"/>
+      <point x="536" y="1172" type="line"/>
+      <point x="310" y="526" type="line"/>
+      <point x="171" y="130" type="line"/>
+      <point x="348" y="100" type="line"/>
+      <point x="348" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,6 +34,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_YOPQ4.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>0.6,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma" format="2">
+  <advance width="1057"/>
+  <unicode hex="0393"/>
+  <anchor x="607" y="1500" name="top"/>
+  <anchor x="340" y="760" name="center"/>
+  <outline>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="100" type="line"/>
+      <point x="290" y="137" type="line"/>
+      <point x="291" y="760" type="line"/>
+      <point x="290" y="1352" type="line"/>
+      <point x="112" y="1386" type="line"/>
+      <point x="112" y="1500" type="line"/>
+      <point x="966" y="1500" type="line"/>
+      <point x="966" y="1071" type="line"/>
+      <point x="931" y="1071" type="line"/>
+      <point x="894" y="1478" type="line"/>
+      <point x="420" y="1478" type="line"/>
+      <point x="390" y="1458" type="line"/>
+      <point x="388" y="760" type="line"/>
+      <point x="390" y="132" type="line"/>
+      <point x="585" y="100" type="line"/>
+      <point x="585" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -4,9 +4,9 @@
   <unicode hex="2030"/>
   <outline>
     <component base="zerosuperior"/>
-    <component base="fraction" xOffset="802.0"/>
-    <component base="zerosuperior" xOffset="1100.0" yOffset="-671.0"/>
-    <component base="zerosuperior" xOffset="2020.0" yOffset="-671.0"/>
+    <component base="fraction" xOffset="802"/>
+    <component base="zerosuperior" xOffset="1100" yOffset="-671"/>
+    <component base="zerosuperior" xOffset="2020" yOffset="-671"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.5,1,0.8</string>
     </dict>
   </lib>
 </glyph>

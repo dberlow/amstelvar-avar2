@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1443"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="116" type="line"/>
+      <point x="396" y="153" type="line"/>
+      <point x="398" y="754" type="line"/>
+      <point x="396" y="1344" type="line"/>
+      <point x="136" y="1378" type="line"/>
+      <point x="136" y="1508" type="line"/>
+      <point x="838" y="1508" type="line"/>
+      <point x="838" y="1392" type="line"/>
+      <point x="559" y="1352" type="line"/>
+      <point x="557" y="1260" type="line"/>
+      <point x="810" y="1260" type="line" smooth="yes"/>
+      <point x="1043" y="1260"/>
+      <point x="1287" y="1044"/>
+      <point x="1287" y="832" type="qcurve" smooth="yes"/>
+      <point x="1287" y="626"/>
+      <point x="1029" y="359"/>
+      <point x="795" y="359" type="qcurve" smooth="yes"/>
+      <point x="690" y="359"/>
+      <point x="530" y="379"/>
+      <point x="484" y="387" type="qcurve"/>
+      <point x="492" y="493" type="line"/>
+      <point x="550" y="480"/>
+      <point x="664" y="472"/>
+      <point x="765" y="472" type="qcurve" smooth="yes"/>
+      <point x="934" y="472"/>
+      <point x="1111" y="663"/>
+      <point x="1111" y="832" type="qcurve" smooth="yes"/>
+      <point x="1111" y="987"/>
+      <point x="941" y="1142"/>
+      <point x="781" y="1142" type="qcurve" smooth="yes"/>
+      <point x="558" y="1142" type="line"/>
+      <point x="556" y="764" type="line"/>
+      <point x="558" y="148" type="line"/>
+      <point x="838" y="116" type="line"/>
+      <point x="838" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

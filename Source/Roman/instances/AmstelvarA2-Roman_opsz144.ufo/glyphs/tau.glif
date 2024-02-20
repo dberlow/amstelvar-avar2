@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tau" format="2">
-  <advance width="889"/>
+  <advance width="931"/>
   <unicode hex="03C4"/>
   <outline>
     <contour>
-      <point x="861" y="826" type="line"/>
-      <point x="16" y="848" type="line"/>
-      <point x="16" y="942" type="line"/>
-      <point x="162" y="990" type="line"/>
-      <point x="850" y="1010" type="line"/>
-      <point x="877" y="976" type="line"/>
+      <point x="26" y="968" type="line"/>
+      <point x="26" y="986" type="line"/>
+      <point x="172" y="1000" type="line"/>
+      <point x="843" y="1000" type="line"/>
+      <point x="868" y="994" type="line"/>
+      <point x="854" y="968" type="line"/>
     </contour>
     <contour>
-      <point x="510" y="-8" type="line"/>
-      <point x="434" y="-8"/>
-      <point x="327" y="106"/>
-      <point x="338" y="273" type="qcurve" smooth="yes"/>
-      <point x="381" y="917" type="line"/>
-      <point x="503" y="917" type="line"/>
-      <point x="503" y="286" type="line" smooth="yes"/>
-      <point x="503" y="168"/>
-      <point x="562" y="109"/>
-      <point x="639" y="109" type="qcurve" smooth="yes"/>
-      <point x="763" y="109" type="line"/>
-      <point x="763" y="29" type="line"/>
+      <point x="520" y="-8" type="line"/>
+      <point x="442" y="-8"/>
+      <point x="334" y="96"/>
+      <point x="348" y="226" type="qcurve" smooth="yes"/>
+      <point x="430" y="982" type="line"/>
+      <point x="448" y="982" type="line"/>
+      <point x="504" y="281" type="line" smooth="yes"/>
+      <point x="517" y="134"/>
+      <point x="569" y="49"/>
+      <point x="631" y="49" type="qcurve" smooth="yes"/>
+      <point x="755" y="49" type="line"/>
+      <point x="755" y="29" type="line"/>
     </contour>
   </outline>
   <lib>

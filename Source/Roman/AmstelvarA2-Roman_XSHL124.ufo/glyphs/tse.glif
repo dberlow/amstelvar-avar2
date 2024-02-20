@@ -2,36 +2,33 @@
 <glyph name="tse" format="2">
   <advance width="1279"/>
   <unicode hex="0446"/>
-  <guideline x="302" y="625" angle="90" identifier="jHuxcyi1x5"/>
-  <guideline x="953" y="554" angle="90" identifier="b1mHk7wgTR"/>
-  <guideline x="627" y="553" angle="90" identifier="m4aYe0x4PZ"/>
   <outline>
     <contour>
       <point x="230" y="500" type="line"/>
       <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
-      <point x="80" y="1000" type="line"/>
-      <point x="536" y="1000" type="line"/>
-      <point x="536" y="920" type="line"/>
+      <point x="-20" y="920" type="line"/>
+      <point x="-20" y="1000" type="line"/>
+      <point x="636" y="1000" type="line"/>
+      <point x="636" y="920" type="line"/>
       <point x="398" y="885" type="line"/>
       <point x="396" y="500" type="line"/>
       <point x="398" y="105" type="line"/>
       <point x="868" y="105" type="line"/>
       <point x="870" y="500" type="line"/>
       <point x="868" y="885" type="line"/>
-      <point x="730" y="920" type="line"/>
-      <point x="730" y="1000" type="line"/>
-      <point x="1186" y="1000" type="line"/>
-      <point x="1186" y="920" type="line"/>
+      <point x="630" y="920" type="line"/>
+      <point x="630" y="1000" type="line"/>
+      <point x="1286" y="1000" type="line"/>
+      <point x="1286" y="920" type="line"/>
       <point x="1038" y="885" type="line"/>
       <point x="1036" y="500" type="line"/>
       <point x="1039" y="105" type="line"/>
-      <point x="1199" y="105" type="line"/>
-      <point x="1209" y="-318" type="line"/>
-      <point x="1117" y="-318" type="line"/>
-      <point x="1028" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
+      <point x="1299" y="105" type="line"/>
+      <point x="1309" y="-318" type="line"/>
+      <point x="1217" y="-318" type="line"/>
+      <point x="1128" y="0" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="80" type="line"/>
       <point x="228" y="115" type="line"/>
     </contour>
   </outline>
@@ -39,6 +36,8 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.57340,0.49713</string>
     </dict>
   </lib>
 </glyph>

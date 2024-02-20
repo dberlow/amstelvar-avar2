@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="624"/>
+  <unicode hex="0131"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="312" y="908" name="top"/>
+  <anchor x="498" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="20" type="line"/>
+      <point x="245" y="55" type="line"/>
+      <point x="247" y="527" type="line"/>
+      <point x="240" y="832" type="line"/>
+      <point x="117" y="862" type="line"/>
+      <point x="117" y="890" type="line"/>
+      <point x="334" y="919" type="line"/>
+      <point x="381" y="919" type="line"/>
+      <point x="404" y="880" type="line"/>
+      <point x="398" y="527" type="line"/>
+      <point x="400" y="55" type="line"/>
+      <point x="522" y="20" type="line"/>
+      <point x="522" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

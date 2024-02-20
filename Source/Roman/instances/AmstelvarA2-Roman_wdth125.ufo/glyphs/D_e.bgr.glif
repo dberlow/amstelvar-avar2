@@ -1,35 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="De.bgr" format="2">
-  <advance width="1663"/>
+  <advance width="1737"/>
   <outline>
     <contour>
-      <point x="1268" y="0" type="line"/>
-      <point x="1007" y="699" type="line"/>
-      <point x="799" y="1248" type="line"/>
-      <point x="594" y="695" type="line"/>
-      <point x="339" y="0" type="line"/>
-      <point x="195" y="0" type="line"/>
-      <point x="477" y="746" type="line"/>
-      <point x="766" y="1508" type="line"/>
-      <point x="888" y="1508" type="line"/>
-      <point x="1175" y="760" type="line"/>
-      <point x="1467" y="0" type="line"/>
+      <point x="1303" y="0" type="line"/>
+      <point x="1042" y="699" type="line"/>
+      <point x="882" y="1122" type="line"/>
+      <point x="840" y="1248" type="line"/>
+      <point x="829" y="1248" type="line"/>
+      <point x="787" y="1121" type="line"/>
+      <point x="629" y="695" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="512" y="746" type="line"/>
+      <point x="801" y="1508" type="line"/>
+      <point x="927" y="1508" type="line"/>
+      <point x="1214" y="760" type="line"/>
+      <point x="1506" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1458" y="-338" type="line"/>
-      <point x="1389" y="0" type="line"/>
-      <point x="274" y="0" type="line"/>
-      <point x="205" y="-338" type="line"/>
-      <point x="83" y="-338" type="line"/>
-      <point x="93" y="108" type="line"/>
-      <point x="1570" y="108" type="line"/>
-      <point x="1580" y="-338" type="line"/>
+      <point x="1526" y="-338" type="line"/>
+      <point x="1457" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="211" y="-338" type="line"/>
+      <point x="73" y="-338" type="line"/>
+      <point x="83" y="108" type="line"/>
+      <point x="1654" y="108" type="line"/>
+      <point x="1664" y="-338" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
     </dict>
   </lib>
 </glyph>

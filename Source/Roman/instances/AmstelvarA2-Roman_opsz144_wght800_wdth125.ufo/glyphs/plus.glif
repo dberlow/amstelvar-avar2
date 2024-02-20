@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="2">
+  <advance width="1117"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="59" y="511" type="line"/>
+      <point x="59" y="747" type="line"/>
+      <point x="1059" y="747" type="line"/>
+      <point x="1059" y="511" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="134" type="line"/>
+      <point x="434" y="1130" type="line"/>
+      <point x="684" y="1130" type="line"/>
+      <point x="684" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

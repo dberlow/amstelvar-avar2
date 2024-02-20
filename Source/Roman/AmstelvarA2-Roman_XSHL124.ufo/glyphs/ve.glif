@@ -2,11 +2,9 @@
 <glyph name="ve" format="2">
   <advance width="1036"/>
   <unicode hex="0432"/>
-  <guideline x="302" y="625" angle="90" identifier="FqbstdQzDn"/>
-  <guideline x="953" y="554" angle="90" identifier="zbbKiP68t3"/>
   <outline>
     <contour>
-      <point x="80" y="1000" type="line"/>
+      <point x="-20" y="1000" type="line"/>
       <point x="587" y="1000" type="line" smooth="yes"/>
       <point x="749" y="1000"/>
       <point x="909" y="878"/>
@@ -21,12 +19,12 @@
       <point x="971" y="149"/>
       <point x="767" y="0"/>
       <point x="590" y="0" type="qcurve" smooth="yes"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="80" type="line"/>
       <point x="228" y="115" type="line"/>
       <point x="230" y="500" type="line"/>
       <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
+      <point x="-20" y="920" type="line"/>
     </contour>
     <contour>
       <point x="398" y="100" type="line"/>

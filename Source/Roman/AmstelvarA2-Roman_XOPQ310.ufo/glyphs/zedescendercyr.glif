@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zedescendercyr" format="2">
-  <advance width="974"/>
+  <advance width="1391"/>
   <unicode hex="0499"/>
   <outline>
     <component base="ze"/>
-    <component base="cedillacomb" xOffset="510"/>
+    <component base="cedillacomb" xOffset="695"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

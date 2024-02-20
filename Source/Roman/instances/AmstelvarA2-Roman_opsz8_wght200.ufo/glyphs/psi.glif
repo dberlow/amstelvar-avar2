@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psi" format="2">
+  <advance width="1332"/>
+  <unicode hex="03C8"/>
+  <outline>
+    <contour>
+      <point x="650" y="-480" type="line"/>
+      <point x="625" y="-444" type="line"/>
+      <point x="633" y="33" type="line"/>
+      <point x="638" y="33" type="line"/>
+      <point x="638" y="1519" type="line"/>
+      <point x="749" y="1534" type="line"/>
+      <point x="774" y="1498" type="line"/>
+      <point x="775" y="33" type="line"/>
+      <point x="779" y="33" type="line"/>
+      <point x="787" y="-459" type="line"/>
+    </contour>
+    <contour>
+      <point x="703" y="-21" type="qcurve"/>
+      <point x="438" y="-21"/>
+      <point x="190" y="189"/>
+      <point x="187" y="389" type="qcurve" smooth="yes"/>
+      <point x="183" y="760" type="line" smooth="yes"/>
+      <point x="182" y="828"/>
+      <point x="160" y="871"/>
+      <point x="117" y="879" type="qcurve" smooth="yes"/>
+      <point x="55" y="891" type="line"/>
+      <point x="55" y="971" type="line"/>
+      <point x="213" y="1008" type="line"/>
+      <point x="271" y="1008"/>
+      <point x="338" y="938"/>
+      <point x="337" y="831" type="qcurve" smooth="yes"/>
+      <point x="333" y="387" type="line" smooth="yes"/>
+      <point x="331" y="247"/>
+      <point x="511" y="113"/>
+      <point x="703" y="113" type="qcurve"/>
+      <point x="899" y="113"/>
+      <point x="1100" y="289"/>
+      <point x="1100" y="520" type="qcurve" smooth="yes"/>
+      <point x="1100" y="618"/>
+      <point x="1033" y="859"/>
+      <point x="947" y="964" type="qcurve"/>
+      <point x="1070" y="1029" type="line"/>
+      <point x="1171" y="921"/>
+      <point x="1258" y="676"/>
+      <point x="1258" y="520" type="qcurve" smooth="yes"/>
+      <point x="1258" y="280"/>
+      <point x="975" y="-21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

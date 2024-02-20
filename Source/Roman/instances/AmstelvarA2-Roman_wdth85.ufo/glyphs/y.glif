@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y" format="2">
-  <advance width="965"/>
+  <advance width="964"/>
   <unicode hex="0079"/>
   <anchor x="752" y="0" name="bottom"/>
   <anchor x="494" y="998" name="top"/>
@@ -18,11 +18,11 @@
       <point x="536" y="311" type="line"/>
       <point x="611" y="538" type="line"/>
       <point x="718" y="878" type="line"/>
-      <point x="594" y="908" type="line"/>
-      <point x="594" y="998" type="line"/>
-      <point x="981" y="998" type="line"/>
-      <point x="981" y="908" type="line"/>
-      <point x="847" y="873" type="line"/>
+      <point x="593" y="908" type="line"/>
+      <point x="593" y="998" type="line"/>
+      <point x="980" y="998" type="line"/>
+      <point x="980" y="908" type="line"/>
+      <point x="846" y="873" type="line"/>
       <point x="713" y="496" type="line"/>
       <point x="446" y="-287" type="line" smooth="yes"/>
       <point x="407" y="-399"/>

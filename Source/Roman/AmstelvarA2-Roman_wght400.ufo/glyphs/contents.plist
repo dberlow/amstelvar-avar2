@@ -1692,6 +1692,8 @@
     <string>periodcentered.glif</string>
     <key>periodcentered.loclCAT</key>
     <string>periodcentered.loclC_A_T_.glif</string>
+    <key>periodcentered.loclCAT.case</key>
+    <string>periodcentered.loclC_A_T_.case.glif</string>
     <key>perthousand</key>
     <string>perthousand.glif</string>
     <key>peseta</key>

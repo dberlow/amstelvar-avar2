@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha" format="2">
+  <advance width="3108"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="2756" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="168" type="line"/>
+      <point x="290" y="203" type="line"/>
+      <point x="292" y="746" type="line"/>
+      <point x="290" y="1284" type="line"/>
+      <point x="122" y="1318" type="line"/>
+      <point x="122" y="1500" type="line"/>
+      <point x="894" y="1500" type="line"/>
+      <point x="894" y="1318" type="line"/>
+      <point x="726" y="1284" type="line"/>
+      <point x="724" y="746" type="line"/>
+      <point x="726" y="207" type="line"/>
+      <point x="766" y="179" type="line"/>
+      <point x="1296" y="179" type="line"/>
+      <point x="1336" y="207" type="line"/>
+      <point x="1338" y="754" type="line"/>
+      <point x="1336" y="1281" type="line"/>
+      <point x="1160" y="1314" type="line"/>
+      <point x="1160" y="1500" type="line"/>
+      <point x="1948" y="1500" type="line"/>
+      <point x="1948" y="1314" type="line"/>
+      <point x="1772" y="1281" type="line"/>
+      <point x="1770" y="754" type="line"/>
+      <point x="1772" y="207" type="line"/>
+      <point x="1812" y="179" type="line"/>
+      <point x="2342" y="179" type="line"/>
+      <point x="2382" y="207" type="line"/>
+      <point x="2384" y="746" type="line"/>
+      <point x="2382" y="1284" type="line"/>
+      <point x="2214" y="1318" type="line"/>
+      <point x="2214" y="1500" type="line"/>
+      <point x="2986" y="1500" type="line"/>
+      <point x="2986" y="1318" type="line"/>
+      <point x="2818" y="1284" type="line"/>
+      <point x="2816" y="746" type="line"/>
+      <point x="2818" y="247" type="line"/>
+      <point x="3011" y="247" type="line"/>
+      <point x="3021" y="-366" type="line"/>
+      <point x="2825" y="-366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

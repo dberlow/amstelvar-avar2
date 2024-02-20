@@ -5,27 +5,6 @@
   <guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
   <outline>
     <contour>
-      <point x="424" y="552" type="line"/>
-      <point x="429" y="557" type="line"/>
-      <point x="812" y="105" type="line"/>
-      <point x="812" y="0" type="line"/>
-      <point x="799" y="0" type="line"/>
-      <point x="787" y="79" type="line"/>
-      <point x="796" y="111" type="line"/>
-    </contour>
-    <contour>
-      <point x="233" y="567" type="line"/>
-      <point x="382" y="564" type="line"/>
-      <point x="658" y="880" type="line"/>
-      <point x="511" y="920" type="line"/>
-      <point x="511" y="1000" type="line"/>
-      <point x="957" y="1000" type="line"/>
-      <point x="957" y="920" type="line"/>
-      <point x="799" y="875" type="line"/>
-      <point x="406" y="464" type="line"/>
-      <point x="233" y="462" type="line"/>
-    </contour>
-    <contour>
       <point x="230" y="500" type="line"/>
       <point x="230" y="885" type="line"/>
       <point x="80" y="920" type="line"/>
@@ -40,6 +19,28 @@
       <point x="80" y="0" type="line"/>
       <point x="80" y="80" type="line"/>
       <point x="230" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="567" type="line"/>
+      <point x="382" y="564" type="line"/>
+      <point x="658" y="880" type="line"/>
+      <point x="511" y="920" type="line"/>
+      <point x="511" y="1000" type="line"/>
+      <point x="957" y="1000" type="line"/>
+      <point x="957" y="920" type="line"/>
+      <point x="799" y="875" type="line"/>
+      <point x="415" y="473" type="line"/>
+      <point x="406" y="464" type="line"/>
+      <point x="233" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="552" type="line"/>
+      <point x="429" y="557" type="line"/>
+      <point x="812" y="105" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="799" y="0" type="line"/>
+      <point x="787" y="79" type="line"/>
+      <point x="796" y="111" type="line"/>
     </contour>
     <contour>
       <point x="801" y="105" type="line"/>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hastroke-cy" format="2">
+  <advance width="1506"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <contour>
+      <point x="365" y="735" type="line"/>
+      <point x="365" y="881" type="line"/>
+      <point x="762" y="878" type="line"/>
+      <point x="1146" y="881" type="line"/>
+      <point x="1146" y="735" type="line"/>
+      <point x="755" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="34" y="64" type="line"/>
+      <point x="230" y="99" type="line"/>
+      <point x="688" y="807" type="line"/>
+      <point x="284" y="1396" type="line"/>
+      <point x="102" y="1427" type="line"/>
+      <point x="102" y="1500" type="line"/>
+      <point x="670" y="1500" type="line"/>
+      <point x="670" y="1427" type="line"/>
+      <point x="418" y="1394" type="line"/>
+      <point x="701" y="978" type="line"/>
+      <point x="767" y="881" type="line"/>
+      <point x="777" y="881" type="line"/>
+      <point x="839" y="979" type="line"/>
+      <point x="1113" y="1401" type="line"/>
+      <point x="857" y="1427" type="line"/>
+      <point x="857" y="1500" type="line"/>
+      <point x="1410" y="1500" type="line"/>
+      <point x="1410" y="1427" type="line"/>
+      <point x="1208" y="1396" type="line"/>
+      <point x="824" y="800" type="line"/>
+      <point x="1297" y="99" type="line"/>
+      <point x="1492" y="64" type="line"/>
+      <point x="1492" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="914" y="64" type="line"/>
+      <point x="1164" y="99" type="line"/>
+      <point x="804" y="639" type="line"/>
+      <point x="745" y="728" type="line"/>
+      <point x="735" y="728" type="line"/>
+      <point x="677" y="638" type="line"/>
+      <point x="324" y="94" type="line"/>
+      <point x="577" y="64" type="line"/>
+      <point x="577" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XTRA606.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>1,0.18574,0.57340,0.49713</string>
+    </dict>
+  </lib>
+</glyph>

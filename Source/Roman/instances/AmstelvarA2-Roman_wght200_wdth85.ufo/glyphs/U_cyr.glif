@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucyr" format="2">
+  <advance width="1309"/>
+  <unicode hex="0423"/>
+  <anchor x="650" y="0" name="bottom"/>
+  <anchor x="650" y="1500" name="top"/>
+  <outline>
+    <contour>
+      <point x="616" y="354" type="line"/>
+      <point x="569" y="262"/>
+      <point x="516" y="199" type="qcurve" smooth="yes"/>
+      <point x="435" y="96"/>
+      <point x="288" y="96" type="qcurve" smooth="yes"/>
+      <point x="251" y="96"/>
+      <point x="211" y="102"/>
+      <point x="187" y="110" type="qcurve"/>
+      <point x="187" y="0" type="line"/>
+      <point x="211" y="-8"/>
+      <point x="256" y="-17"/>
+      <point x="289" y="-17" type="qcurve" smooth="yes"/>
+      <point x="449" y="-17"/>
+      <point x="630" y="199"/>
+      <point x="725" y="406" type="qcurve" smooth="yes"/>
+      <point x="967" y="934" type="line"/>
+      <point x="1187" y="1400" type="line"/>
+      <point x="1339" y="1427" type="line"/>
+      <point x="1339" y="1500" type="line"/>
+      <point x="882" y="1500" type="line"/>
+      <point x="882" y="1427" type="line"/>
+      <point x="1090" y="1399" type="line"/>
+      <point x="894" y="959" type="line"/>
+      <point x="735" y="605" type="line"/>
+      <point x="678" y="471" type="line"/>
+      <point x="668" y="471" type="line"/>
+      <point x="611" y="604" type="line"/>
+      <point x="441" y="960" type="line"/>
+      <point x="248" y="1392" type="line"/>
+      <point x="423" y="1427" type="line"/>
+      <point x="423" y="1500" type="line"/>
+      <point x="-30" y="1500" type="line"/>
+      <point x="-30" y="1427" type="line"/>
+      <point x="112" y="1401" type="line"/>
+      <point x="360" y="888" type="line"/>
+      <point x="616" y="354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

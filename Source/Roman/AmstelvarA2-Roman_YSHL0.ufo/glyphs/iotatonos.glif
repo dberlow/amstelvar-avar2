@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iotatonos" format="2">
-  <advance width="627"/>
+  <advance width="601"/>
   <unicode hex="03AF"/>
   <outline>
     <component base="iota"/>
-    <component base="tonoscomb" xOffset="360"/>
+    <component base="tonoscomb" xOffset="251"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>1,0.18574,0.57340,0.29823</string>
     </dict>
   </lib>
 </glyph>

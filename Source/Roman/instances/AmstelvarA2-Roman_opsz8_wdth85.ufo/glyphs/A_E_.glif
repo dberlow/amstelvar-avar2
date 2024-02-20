@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="2002"/>
+  <unicode hex="00C6"/>
+  <anchor x="1082" y="1500" name="top"/>
+  <outline>
+    <contour>
+      <point x="-25" y="0" type="line"/>
+      <point x="-25" y="148" type="line"/>
+      <point x="176" y="183" type="line"/>
+      <point x="393" y="540" type="line"/>
+      <point x="845" y="1319" type="line"/>
+      <point x="766" y="1338" type="line"/>
+      <point x="766" y="1500" type="line"/>
+      <point x="1850" y="1500" type="line"/>
+      <point x="1850" y="1123" type="line"/>
+      <point x="1740" y="1123" type="line"/>
+      <point x="1705" y="1353" type="line"/>
+      <point x="1212" y="1353" type="line"/>
+      <point x="1183" y="1333" type="line"/>
+      <point x="1181" y="783" type="line"/>
+      <point x="1183" y="161" type="line"/>
+      <point x="1213" y="138" type="line"/>
+      <point x="1768" y="138" type="line"/>
+      <point x="1844" y="408" type="line"/>
+      <point x="1954" y="408" type="line"/>
+      <point x="1914" y="0" type="line"/>
+      <point x="774" y="0" type="line"/>
+      <point x="774" y="148" type="line"/>
+      <point x="964" y="185" type="line"/>
+      <point x="966" y="783" type="line"/>
+      <point x="964" y="1266" type="line"/>
+      <point x="940" y="1292" type="line"/>
+      <point x="498" y="503" type="line"/>
+      <point x="323" y="178" type="line"/>
+      <point x="460" y="148" type="line"/>
+      <point x="460" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="448" type="line"/>
+      <point x="463" y="567" type="line"/>
+      <point x="725" y="552" type="line"/>
+      <point x="725" y="448" type="line"/>
+    </contour>
+    <contour>
+      <point x="725" y="552" type="line"/>
+      <point x="1069" y="568" type="line"/>
+      <point x="1069" y="448" type="line"/>
+      <point x="725" y="448" type="line"/>
+    </contour>
+    <contour>
+      <point x="1095" y="719" type="line"/>
+      <point x="1095" y="844" type="line"/>
+      <point x="1559" y="854" type="line"/>
+      <point x="1594" y="1014" type="line"/>
+      <point x="1704" y="1014" type="line"/>
+      <point x="1704" y="549" type="line"/>
+      <point x="1594" y="549" type="line"/>
+      <point x="1559" y="709" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

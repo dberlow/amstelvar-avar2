@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="1325"/>
+  <unicode hex="0078"/>
+  <anchor x="655" y="0" name="bottom"/>
+  <anchor x="655" y="954" name="top"/>
+  <outline>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="14" y="52" type="line"/>
+      <point x="176" y="87" type="line"/>
+      <point x="483" y="444" type="line"/>
+      <point x="112" y="861" type="line"/>
+      <point x="-6" y="896" type="line"/>
+      <point x="-6" y="955" type="line"/>
+      <point x="693" y="955" type="line"/>
+      <point x="693" y="896" type="line"/>
+      <point x="522" y="859" type="line"/>
+      <point x="714" y="640" type="line"/>
+      <point x="799" y="542" type="line"/>
+      <point x="809" y="542" type="line"/>
+      <point x="891" y="640" type="line"/>
+      <point x="1081" y="866" type="line"/>
+      <point x="898" y="896" type="line"/>
+      <point x="898" y="955" type="line"/>
+      <point x="1287" y="955" type="line"/>
+      <point x="1287" y="896" type="line"/>
+      <point x="1139" y="861" type="line"/>
+      <point x="837" y="512" type="line"/>
+      <point x="1219" y="87" type="line"/>
+      <point x="1349" y="52" type="line"/>
+      <point x="1349" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="52" type="line"/>
+      <point x="809" y="89" type="line"/>
+      <point x="605" y="318" type="line"/>
+      <point x="521" y="415" type="line"/>
+      <point x="511" y="415" type="line"/>
+      <point x="431" y="318" type="line"/>
+      <point x="234" y="82" type="line"/>
+      <point x="404" y="52" type="line"/>
+      <point x="404" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict>
+        <key>0 17</key>
+        <dict>
+          <key>direction</key>
+          <string>y</string>
+          <key>name</key>
+          <string>YTLC</string>
+        </dict>
+      </dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

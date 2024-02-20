@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ze" format="2">
-  <advance width="1292"/>
+  <advance width="1745"/>
   <unicode hex="0417"/>
-  <anchor x="677.0" y="0" name="bottom"/>
+  <anchor x="827.0" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="673" y="97" type="qcurve" smooth="yes"/>
@@ -30,21 +30,21 @@
       <point x="308" y="1500" type="line"/>
       <point x="340" y="1422" type="line"/>
       <point x="399" y="1460"/>
-      <point x="588" y="1520"/>
-      <point x="709" y="1520" type="qcurve" smooth="yes"/>
-      <point x="927" y="1520"/>
-      <point x="1145" y="1320"/>
-      <point x="1145" y="1157" type="qcurve" smooth="yes"/>
-      <point x="1145" y="1023"/>
-      <point x="1010" y="826"/>
-      <point x="895" y="801" type="qcurve"/>
-      <point x="895" y="794" type="line"/>
-      <point x="1029" y="770"/>
-      <point x="1217" y="589"/>
-      <point x="1217" y="428" type="qcurve" smooth="yes"/>
-      <point x="1217" y="230"/>
-      <point x="937" y="-31"/>
-      <point x="686" y="-31" type="qcurve" smooth="yes"/>
+      <point x="610" y="1520"/>
+      <point x="817" y="1520" type="qcurve" smooth="yes"/>
+      <point x="1174" y="1520"/>
+      <point x="1534" y="1320"/>
+      <point x="1534" y="1157" type="qcurve" smooth="yes"/>
+      <point x="1534" y="1024"/>
+      <point x="1310" y="828"/>
+      <point x="1121" y="804" type="qcurve"/>
+      <point x="1121" y="794" type="line"/>
+      <point x="1360" y="770"/>
+      <point x="1670" y="589"/>
+      <point x="1670" y="428" type="qcurve" smooth="yes"/>
+      <point x="1670" y="230"/>
+      <point x="1200" y="-31"/>
+      <point x="778" y="-31" type="qcurve" smooth="yes"/>
       <point x="556" y="-31"/>
       <point x="359" y="32"/>
       <point x="305" y="67" type="qcurve"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Chi" format="2">
-  <advance width="1547"/>
+  <advance width="1457"/>
   <unicode hex="03A7"/>
   <outline>
     <component base="X"/>
@@ -10,7 +10,7 @@
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <advance width="310"/>
+  <unicode hex="030F"/>
+  <anchor x="155" y="1000" name="_top"/>
+  <anchor x="155" y="1470" name="top"/>
+  <outline>
+    <contour>
+      <point x="-119" y="1150" type="qcurve"/>
+      <point x="-197" y="1203" type="line"/>
+      <point x="-182" y="1296"/>
+      <point x="29" y="1470"/>
+      <point x="154" y="1470" type="qcurve"/>
+      <point x="283" y="1470"/>
+      <point x="494" y="1296"/>
+      <point x="507" y="1203" type="qcurve"/>
+      <point x="429" y="1150" type="line"/>
+      <point x="402" y="1204"/>
+      <point x="254" y="1314"/>
+      <point x="155" y="1314" type="qcurve"/>
+      <point x="58" y="1314"/>
+      <point x="-90" y="1204"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
+</glyph>

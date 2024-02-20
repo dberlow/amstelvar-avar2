@@ -2,8 +2,6 @@
 <glyph name="ve" format="2">
   <advance width="1036"/>
   <unicode hex="0432"/>
-  <guideline x="302" y="625" angle="90" identifier="FqbstdQzDn"/>
-  <guideline x="953" y="554" angle="90" identifier="zbbKiP68t3"/>
   <outline>
     <contour>
       <point x="80" y="1000" type="line"/>

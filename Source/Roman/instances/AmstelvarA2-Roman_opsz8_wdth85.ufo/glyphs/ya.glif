@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ya" format="2">
+  <advance width="1173"/>
+  <unicode hex="044F"/>
+  <anchor x="531" y="0" name="bottom"/>
+  <anchor x="560" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="738" y="872" type="line"/>
+      <point x="560" y="872" type="line" smooth="yes"/>
+      <point x="435" y="872"/>
+      <point x="334" y="767"/>
+      <point x="334" y="687" type="qcurve" smooth="yes"/>
+      <point x="334" y="609"/>
+      <point x="435" y="509"/>
+      <point x="560" y="509" type="qcurve" smooth="yes"/>
+      <point x="823" y="509" type="line"/>
+      <point x="823" y="385" type="line"/>
+      <point x="482" y="380" type="line"/>
+      <point x="442" y="393" type="line"/>
+      <point x="281" y="423"/>
+      <point x="113" y="558"/>
+      <point x="113" y="690" type="qcurve" smooth="yes"/>
+      <point x="113" y="833"/>
+      <point x="337" y="1000"/>
+      <point x="560" y="1000" type="qcurve" smooth="yes"/>
+      <point x="1079" y="1000" type="line"/>
+      <point x="1079" y="864" type="line"/>
+      <point x="945" y="829" type="line"/>
+      <point x="943" y="500" type="line"/>
+      <point x="945" y="171" type="line"/>
+      <point x="1079" y="136" type="line"/>
+      <point x="1079" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="613" y="136" type="line"/>
+      <point x="738" y="171" type="line"/>
+      <point x="740" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="434" type="line"/>
+      <point x="391" y="167" type="line"/>
+      <point x="390" y="135" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="32" y="136" type="line"/>
+      <point x="186" y="171" type="line"/>
+      <point x="379" y="463" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

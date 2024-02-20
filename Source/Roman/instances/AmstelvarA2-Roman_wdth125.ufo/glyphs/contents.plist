@@ -1132,8 +1132,6 @@
     <string>endescender.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
-    <key>engn</key>
-    <string>engn.glif</string>
     <key>engtail</key>
     <string>engtail.glif</string>
     <key>eogonek</key>
@@ -1692,6 +1690,8 @@
     <string>periodcentered.glif</string>
     <key>periodcentered.loclCAT</key>
     <string>periodcentered.loclC_A_T_.glif</string>
+    <key>periodcentered.loclCAT.case</key>
+    <string>periodcentered.loclC_A_T_.case.glif</string>
     <key>perthousand</key>
     <string>perthousand.glif</string>
     <key>peseta</key>

@@ -2,14 +2,14 @@
 <glyph name="pe.bgr" format="2">
   <advance width="1186"/>
   <outline>
-    <component base="n" xOffset="65"/>
+    <component base="n" xOffset="190"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

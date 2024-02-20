@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="511"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="68" y="521" type="qcurve" smooth="yes"/>
+      <point x="68" y="816"/>
+      <point x="330" y="1389"/>
+      <point x="477" y="1526" type="qcurve"/>
+      <point x="491" y="1510" type="line"/>
+      <point x="349" y="1358"/>
+      <point x="176" y="853"/>
+      <point x="176" y="522" type="qcurve" smooth="yes"/>
+      <point x="176" y="191"/>
+      <point x="348" y="-314"/>
+      <point x="491" y="-467" type="qcurve"/>
+      <point x="477" y="-485" type="line"/>
+      <point x="330" y="-348"/>
+      <point x="68" y="213"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

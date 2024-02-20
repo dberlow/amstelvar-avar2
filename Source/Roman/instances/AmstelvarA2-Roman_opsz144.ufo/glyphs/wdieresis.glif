@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wdieresis" format="2">
-  <advance width="1272"/>
+  <advance width="1271"/>
   <unicode hex="1E85"/>
   <outline>
-    <component base="w" xOffset="50"/>
-    <component base="dieresiscomb" xOffset="519" yOffset="-80"/>
+    <component base="w" xOffset="147"/>
+    <component base="dieresiscomb" xOffset="319" yOffset="-80"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

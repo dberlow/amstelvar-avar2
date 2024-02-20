@@ -2,9 +2,6 @@
 <glyph name="ghe" format="2">
   <advance width="926"/>
   <unicode hex="0433"/>
-  <guideline x="302" y="625" angle="90.0" identifier="jHuxcyi1x5"/>
-  <guideline x="953" y="554" angle="90.0" identifier="b1mHk7wgTR"/>
-  <guideline x="627" y="553" angle="90.0" identifier="m4aYe0x4PZ"/>
   <anchor x="537.0" y="1000" name="top"/>
   <anchor x="311" y="498" name="center"/>
   <outline>
@@ -23,8 +20,8 @@
       <point x="80" y="920" type="line"/>
       <point x="80" y="1000" type="line"/>
       <point x="886" y="1000" type="line"/>
-      <point x="886" y="662" type="line"/>
-      <point x="786" y="662" type="line"/>
+      <point x="886" y="562" type="line"/>
+      <point x="786" y="562" type="line"/>
     </contour>
   </outline>
   <lib>
