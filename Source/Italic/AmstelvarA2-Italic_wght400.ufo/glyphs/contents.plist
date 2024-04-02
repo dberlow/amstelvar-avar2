@@ -1172,8 +1172,6 @@
     <string>engn.glif</string>
     <key>engtail</key>
     <string>engtail.glif</string>
-    <key>enspace</key>
-    <string>enspace.glif</string>
     <key>eogonek</key>
     <string>eogonek.glif</string>
     <key>epsilon</key>
@@ -1926,8 +1924,6 @@
     <string>tenge.glif</string>
     <key>theta</key>
     <string>theta.glif</string>
-    <key>thinspace</key>
-    <string>thinspace.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
     <key>three</key>
